@@ -1,0 +1,55 @@
+stages:
+  - build-app
+  - deploy
+
+variables:
+  GIT_SSL_NO_VERIFY: "true"
+  GIT_STRATEGY: clone
+  BUILD_DIR: dist
+
+
+#############
+# Build App #
+#############
+
+build-app:
+  stage: build-app
+  image: buildkite/puppeteer
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - memo-viewer/$BUILD_DIR
+  variables:
+    PUBLIC_PATH: $ROOT_URL
+  script:
+    - echo "building app for any push on any branch or for release tags..."
+    - apt-get update
+    - apt-get upgrade -y
+    - apt-get install -y git
+    - git clone https://framagit.org/memo-fresques/memo-viewer.git memo-viewer
+    - bash scripts/deploy.sh . memo-viewer
+    - cd memo-viewer
+    - yarn install
+    - yarn run build
+  only:
+    - master
+  tags:
+    - docker
+
+##########
+# Deploy #
+##########
+
+deploy-server:
+  stage: deploy
+  image: alpine
+  before_script:
+  script:
+    - apk update
+    - apk add lftp
+    - lftp -e "open $FTP_HOST; user $FTP_USER $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete memo-viewer/$BUILD_DIR .; bye"
+  only:
+    - master
+  when: manual
+  tags:
+    - docker

@@ -1,0 +1,12 @@
+{
+  "name": "fresque-du-climat",
+  "version": "1.0.4",
+  "private": true,
+  "scripts": {
+    "reset": "scripts/reset.sh ../memo-viewer",
+    "deploy-dev": "scripts/deploy-dev.sh . ../memo-viewer",
+    "deploy": "scripts/deploy.sh . ../memo-viewer",
+    "backup": "scripts/backup.sh ../memo-viewer ../memo-viewer.data",
+    "build": "scripts/generate-cards.sh"
+  }
+}

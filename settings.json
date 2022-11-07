@@ -1,0 +1,20 @@
+{
+    "wiki-root-url": "https://fresqueduclimat.org",
+    "host": "https://fresqueduclimat.org",
+    "title": "Memo Fresque du Climat",
+    "author": "Fresque du climat",
+    "description": {
+        "fr": "Mémo de la Fresque du Climat - Les cartes pour comprendre"
+    },
+    "game": {
+        "name": {
+            "fr": "Fresque du climat",
+            "en": "Climate Fresk"
+        }
+    },
+    "matomo": {
+        "enabled": true,
+        "host": "https://stats.aktivisda.earth/matomo",
+        "siteId": 4
+    }
+}

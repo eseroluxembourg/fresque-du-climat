@@ -1,0 +1,9 @@
+public/cards/*/bad_svg
+public/cards/*/pdf
+public/cards
+private
+tmp_compress
+
+# for scripts/download_pdf_cards.pdf
+download/
+pdf-cards/
