@@ -1,0 +1,212 @@
+{
+    "1": {
+        "title": "Menschliche Aktivitäten",
+        "backDescription": "Hier beginnt es...",
+        "explanation": "Menschliche Aktivitäten"
+    },
+    "24": {
+        "title": "Versauerung der Ozeane",
+        "backDescription": "Wenn sich CO2 im Ozean auflöst, wird es in saure Ionen umgewandelt (H2CO3 und HCO3-). Dies führt zur Versauerung der Ozeane (der pH-Wert sinkt).",
+        "explanation": "Versauerung der Ozeane"
+    },
+    "17": {
+        "title": "Anstieg der Wassertemperatur",
+        "backDescription": "Der Ozean absorbiert 93% der auf der Erde angesammelten Energie. Die Wassertemperatur ist daher angestiegen. Wenn sich Wasser erwärmt, dehnt es sich aus.",
+        "explanation": "Anstieg der Wassertemperatur"
+    },
+    "23": {
+        "title": "Hemmung der Kalkbildung",
+        "backDescription": "Sinkt der pH-Wert, wird die Bildung von Kalk (genauer gesagt von Kalkschalen) erschwert.",
+        "explanation": "Hemmung der Kalkbildung"
+    },
+    "7": {
+        "title": "CO2-Emissionen",
+        "backDescription": "CO2 (oder Kohlendioxid) ist das erste anthropogene (vom Menschen verursachte) Treibhausgas (THG). Diese Emissionen entstehen durch unsere Nutzung fossiler Brennstoffe und Entwaldung.",
+        "explanation": "CO2-Emissionen"
+    },
+    "39": {
+        "title": "Klimaflüchtlinge",
+        "backDescription": "Stellen Sie sich vor, Sie leben an einem Ort, der auf wundersame Weise vom Klimawandel verschont geblieben ist. Mehrere Milliarden Menschen möchten diesen Raum nun mit Ihnen teilen...",
+        "explanation": "Klimaflüchtlinge"
+    },
+    "42": {
+        "title": "Methanhydrate",
+        "backDescription": "Methanhydrate bestehen aus Methan, das in erstarrtes Wasser eingelagert ist und auf dem Meeresboden entlang der Kontinentalabhänge vorkommen. Ab einem globalen Temperaturanstieg von +2°C können sie instabil werden.",
+        "explanation": "Methanhydrate"
+    },
+    "30": {
+        "title": "Dürren",
+        "backDescription": "Die Störung des Wasserkreislaufs kann zu einem Überschuss oder einem Mangel an Wasser führen. Bei zu wenig Wasser, spricht man von einer Dürre. Laut dem IPCC werden Dürreperioden in Zukunft häufiger auftreten.",
+        "explanation": "Dürren"
+    },
+    "38": {
+        "title": "Gesundheit des Menschen",
+        "backDescription": "Hungersnöte, Krankheitsüberträger, Hitzewellen und bewaffnete Konflikte können die menschliche Gesundheit aufs Spiel setzen.",
+        "explanation": "Gesundheit des Menschen"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Unter Permafrost versteht man dauerhaft gefrorenen Boden. Das Auftauen von Permafrost führt zur Zersetzung organischer Materie, die zuvor unter der Erde gefroren war. Ein Phänomen, das Methan und CO2 in die Atmosphäre freisetzt. Erreichen wir mehr als +2°",
+        "explanation": "Permafrost"
+    },
+    "29": {
+        "title": "Pteropoda und Coccolithophorida",
+        "backDescription": "Pteropoda sind Zooplankton und Coccolithophorida sind Phytoplankton. Diese Mikroorganismen haben eine Kalkschale.",
+        "explanation": "Pteropoda und Coccolithophorida"
+    },
+    "3": {
+        "title": "Gebäudenutzung",
+        "backDescription": "Die Nutzung von Gebäuden (privates Wohnen und gewerbliche Nutzung) verbraucht fossile Brennstoffe und Elektrizität. Sie ist für 20 % der Treibhausgasemissionen verantwortlich.",
+        "explanation": "Gebäudenutzung"
+    },
+    "28": {
+        "title": "Krankheitsüberträger",
+        "backDescription": "Als Reaktion auf die globale Erwärmung versuchen Tiere in kühlere Zonen auszuweichen und migrieren. Einige von ihnen tragen Krankheiten in sich und werden sich in Gebieten ausbreiten, in denen die Bevölkerung nicht immun ist.",
+        "explanation": "Krankheitsüberträger"
+    },
+    "8": {
+        "title": "Landwirtschaft",
+        "backDescription": "Landwirtschaft emittiert zwar nur wenig CO2, jedoch ist sie verantwortlich für den Ausstoß von großen Mengen Methan (Rinder, Reisfelder) und Distickstoffmonoxid, auch genannt Lachgas. Insgesamt ergeben sich so 25% der THG-Emissionen, wenn wir die induzier",
+        "explanation": "Landwirtschaft"
+    },
+    "19": {
+        "title": "Schmelzen von Eisschilden",
+        "backDescription": "Als Eisschilde bezeichnet man Grönland und die Antarktis. Sollten sie vollständig schmelzen, würde dies einen Meeresspiegelanstieg von 7m für Grönland und 54m für die Antarktis bedeuten. Während der letzten Eiszeit waren die Eisschilde so groß, dass der M",
+        "explanation": "Schmelzen von Eisschilden"
+    },
+    "27": {
+        "title": "Marine Biodiversität",
+        "backDescription": "Plankton bildet die Grundlage der Nahrungskette im Ozean. Sein Verschwinden bedroht daher die gesamte marine Biodiversität. Auch die Erwärmung des Meerwassers bedroht die biologische Vielfalt der Meere.",
+        "explanation": "Marine Biodiversität"
+    },
+    "20": {
+        "title": "Störung des Wasserkreislaufes",
+        "backDescription": "Die Verdunstung, die an der Wasseroberfläche stattfindet, nimmt mit der Erwärmung von Wasser und Luft zu. Dadurch entstehen mehr Regenwolken. Das gleiche Verdunstungsphänomen besteht an Land und hat ein Austrocknen des Bodens zur Folge.",
+        "explanation": "Störung des Wasserkreislaufes"
+    },
+    "26": {
+        "title": "Hochwasser",
+        "backDescription": "Die Störung des Wasserkreislaufs kann in \"zu viel\" oder \"zu wenig\" Wasser resultieren. Mehr Wasser kann Flussüberschwemmungen zur Folge haben. Ist der Boden durch eine Dürre verhärtet, ist dies besonders schlimm, da das Wasser einfach abrinnt anstatt einz",
+        "explanation": "Hochwasser"
+    },
+    "25": {
+        "title": "terrestrische Biodiversität",
+        "backDescription": "Tiere und Pflanzen sind von den Veränderungen der Temperatur und des Wasserkreislaufes stark betroffen. Als Folge versuchen sie sich woanders anzusiedeln, verschwinden ganz oder, in seltenen Fällen, vermehren sich.",
+        "explanation": "terrestrische Biodiversität"
+    },
+    "6": {
+        "title": "Entwaldung",
+        "backDescription": "Entwaldung ist das Fällen oder Verbrennen von Bäumen jenseits der Erneuerungskapazität des Waldes. 80 % der Abholzung steht im Zusammenhang mit Landwirtschaft.",
+        "explanation": "Entwaldung"
+    },
+    "21": {
+        "title": "Temperaturanstieg",
+        "backDescription": "Wir beziehen uns hier auf die durchschnittliche Lufttemperatur auf der Erdoberfläche. Sie ist seit 1900 bereits um fast 1°C gestiegen. Je nach Szenario wird sie bis 2100 +2°C bis +5°C erreichen. In der letzten Eiszeit (vor 20.000 Jahren) war die Durchschn",
+        "explanation": "Temperaturanstieg"
+    },
+    "37": {
+        "title": "Hungersnöte",
+        "backDescription": "Hungersnöte können die Folge von niedrigeren landwirtschaftlichen Erträgen und einer geringeren biologischen Vielfalt der Meere sein.",
+        "explanation": "Hungersnöte"
+    },
+    "22": {
+        "title": "Anstieg des Meeresspiegels",
+        "backDescription": "Seit 1900 ist der Meeresspiegel um 20cm angestiegen. Grund dafür ist die thermische Ausdehnung des Ozeanwassers und das Abschmelzen von Gletschern und Eisschilden.",
+        "explanation": "Anstieg des Meeresspiegels"
+    },
+    "4": {
+        "title": "Transport",
+        "backDescription": "Der Verkehrssektor ist in hohem Maß ölabhängig. Dies entspricht 15% der Treibhausgasemissionen.",
+        "explanation": "Transport"
+    },
+    "18": {
+        "title": "Schmelzen von Meereis",
+        "backDescription": "Das Schmelzen von Meereis ist nicht für den Anstieg des Meeresspiegels verantwortlich (ein schmelzender Eiswürfel in einem Glas bringt dieses nicht zum Überlaufen). Beim Schmelzen weicht es jedoch einer dunkleren Oberfläche (dem Wasser), die weitaus mehr ",
+        "explanation": "Schmelzen von Meereis"
+    },
+    "13": {
+        "title": "Zusätzlicher Treibhauseffekt",
+        "backDescription": "Der Treibhauseffekt ist ein natürliches Phänomen. (Das erste natürliche Treibhausgas ist übrigens Wasserdampf.) Ohne den Treibhauseffekt wäre der Planet um 33°C kälter. Aber CO2 und andere THG, die durch menschliche Aktivitäten entstehen, verstärken diese",
+        "explanation": "Zusätzlicher Treibhauseffekt"
+    },
+    "33": {
+        "title": "Überschwemmungen",
+        "backDescription": "Der Meeresspiegelanstieg, ausgelöst durch die Klimaerwärmung, kann (Küsten-)Überschwemmungen verursachen. Weitere Auslöser sind Zyklone und Wirbelstürme, die Wind (und damit Wellen) und Niederdruck mit sich bringen. Denn 1 Hektopascal weniger führt zu ein",
+        "explanation": "Überschwemmungen"
+    },
+    "11": {
+        "title": "CO2-Konzentration (ppm)",
+        "backDescription": "Etwa die Hälfte unserer CO2-Emissionen wird von natürlichen Kohlenstoffsenken aufgenommen und gespeichert. Die andere Hälfte bleibt in der Atmosphäre; die Konzentration von CO2 in der Luft ist in 150 Jahren von 280 auf 410 ppm (parts per million) gestiege",
+        "explanation": "CO2-Konzentration (ppm)"
+    },
+    "12": {
+        "title": "Kohlenstoffsenken",
+        "backDescription": "Die Hälfte des CO2, das wir jedes Jahr emittieren, wird von Kohlenstoffsenken aufgenommen:\n- 1/4 von der Vegetation (Photosynthese)\n- 1/4 vom Ozean Die andere Hälfte bleibt in der Atmosphäre.",
+        "explanation": "Kohlenstoffsenken"
+    },
+    "34": {
+        "title": "Zyklone",
+        "backDescription": "Zyklone ziehen ihre Energie aus dem warmen Wasser an der Meeresoberfläche. Durch den Klimawandel werden sie zunehmend stärker.",
+        "explanation": "Zyklone"
+    },
+    "16": {
+        "title": "Gletscherschmelze",
+        "backDescription": "Fast alle Gletscher haben an Masse verloren. Hunderte sind bereits verschwunden. Diese Gletscher haben jedoch eine regulierende Funktion bei der Versorgung mit Süßwasser.",
+        "explanation": "Gletscherschmelze"
+    },
+    "32": {
+        "title": "Rückgang der Ernteerträge",
+        "backDescription": "Unsere Agrarproduktion kann durch Temperaturwandel, Dürren, extreme Wetterereignisse, Hochwasser und Überschwemmungen (z.B.: das Nildelta) beeinträchtigt werden.",
+        "explanation": "Rückgang der Ernteerträge"
+    },
+    "10": {
+        "title": "Aerosole",
+        "backDescription": "Ein Aerosol ist ein Gas, in dem winzige (feste oder flüssige) Teilchen schweben, die Aerosolpartikel genannt werden. Anthropogene Emissionen (zb bei Fabriken) führen zu Aerosolbildung, also lokalen Verschmutzungen. Sie sind gesundheitsschädlich und leiste",
+        "explanation": "Aerosole"
+    },
+    "5": {
+        "title": "Fossile Brennstoffe",
+        "backDescription": "Zu den fossilen Brennstoffen gehören Kohle, Öl und Gas. Sie werden hauptsächlich in den Bereichen Gebäude, Verkehr und Industrie eingesetzt. Bei ihrer Verbrennung wird CO2 ausgestoßen.",
+        "explanation": "Fossile Brennstoffe"
+    },
+    "40": {
+        "title": "Bewaffnete Konflikte",
+        "backDescription": "So sollten wir es nicht enden lassen.",
+        "explanation": "Bewaffnete Konflikte"
+    },
+    "2": {
+        "title": "Industrie",
+        "backDescription": "Die Industrie nutzt fossile Brennstoffe und Strom. Sie ist für 40% der Treibhausgasemissionen verantwortlich.",
+        "explanation": "Industrie"
+    },
+    "14": {
+        "title": "Energiebilanz der Erde",
+        "backDescription": "Diese Grafik erklärt, wohin die Energie geht, die sich durch den Strahlungsantrieb auf der Erde angesammelt hat: Sie erwärmt den Ozean, lässt Eis schmelzen, geht in den Boden und erwärmt die Atmosphäre.",
+        "explanation": "Energiebilanz der Erde"
+    },
+    "36": {
+        "title": "Hitzewellen",
+        "backDescription": "Ein eindeutiger Nachweis des Temperaturanstiegs ist das häufigere Auftreten von Hitzewellen.",
+        "explanation": "Hitzewellen"
+    },
+    "9": {
+        "title": "Andere Treibhausgase",
+        "backDescription": "CO2 ist nicht das einzige Treibhausgas. Unter anderem gibt es Methan (CH4) und Distickstoffmonoxid (N2O), die beide hauptsächlich durch landwirtschaftliche Tätigkeiten entstehen.",
+        "explanation": "Andere Treibhausgase"
+    },
+    "15": {
+        "title": "Strahlungsantrieb",
+        "backDescription": "Der Strahlungsantrieb stellt das (vom Menschen verursachte) Ungleichgewicht zwischen der Energie, die jede Sekunde auf der Erde ankommt, und der Energie, die freigesetzt wird, dar. Er wird mit 2,3 W/m² (Watt pro m²) angegeben: 3,1 W/m² für den Treibhausef",
+        "explanation": "Strahlungsantrieb"
+    },
+    "31": {
+        "title": "Süßwasserressourcen",
+        "backDescription": "Süßwasserressourcen werden durch Niederschlagsänderungen und dem Verschwinden von Gletschern beeinflusst, die bei der Regulierung der Flussläufe eine Rolle spielen.",
+        "explanation": "Süßwasserressourcen"
+    },
+    "35": {
+        "title": "Waldbrände",
+        "backDescription": "Waldbrände entstehen bei Dürren und Hitzewellen leichter.",
+        "explanation": "Waldbrände"
+    }
+}

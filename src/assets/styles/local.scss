@@ -1,0 +1,21 @@
+// Set your colors
+$primary: #04c2c0;
+$primary-light: #68c3ca;
+$primary-lighter: #aadbe6;
+$secondary: #e90000;
+$ternary: rgb(255, 221, 103);
+
+
+@font-face {
+	font-family: 'ArialMT';
+	src: url('/memo/fonts/arialmt.eot');
+	src: url('/memo/fonts/arialmt.woff') format('woff'), url('/memo/fonts/arialmt.ttf') format('truetype'), url('/memo/fonts/arialmt.svg') format('svg');
+  	font-stretch: 100;
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Liberation Sans';
+	src: url('/memo/fonts/LiberationSans-Regular.ttf');
+}

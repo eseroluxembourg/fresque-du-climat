@@ -1,0 +1,39 @@
+{
+    "mode": "adult",
+    "print": false,
+    "url": "https://climatefresk.org/wp-content/uploads/2021/10/La-Fresque-du-Climat-FR-FR-Adults-V8.1.pdf",
+    "mini": false,
+    "version": "8.1",
+    "logo-full": "fr-FR/logo-full.png",
+    "logo": "logo-simple.png",
+    "about":  {
+        "preview": "previews/memo-fresque-logo-1200-630-fr.png",
+        "local-description": "<a href='https://fresqueduclimat.org' target='_blank'>La Fresque du Climat</a> est un atelier de sensibilisation où les participants co-construisent une fresque résumant les mécanismes du changement climatique tels qu'expliqués dans les rapports du GIEC.<br/> Le memo de la Fresque du Climat a pour but de proposer aux animateurs un accès rapide aux cartes particulièrement sur mobile afin de réviser les liens ou approfondir leurs connaissances.<br/> Vous avez remarqué un bug ou vous avez une amélioration à proposer, contactez-nous sur le canal dédié sur <a href='https://t.me/memofdc' target='_blank'>Telegram</a>"
+    },
+    "description": {
+      "site": "L'essentiel des cartes de la fresque du climat - Les explications, causes et conséquences importantes et facultatives, les liens ainsi que la présentation vidéo pour chaque carte.",
+      "all-cards": "L'essentiel des cartes de la fresque du climat - Les explications, causes et conséquences importantes et facultatives, les liens ainsi que la présentation vidéo pour chaque carte.",
+      "card":    "Carte de la fresque de Climat '{cardTitle}' - {cardDesc} - description, causes et conséquences ainsi que l'explication en vidéo",
+      "about": "L'essentiel des cartes de la fresque du climat. Présentation du l'objectif du Mémo pour la Fresque du Climat"
+    },
+    "config": {
+        "title": "Fresque du Climat",
+        "subtitle": "Comprendre le changement climatique",
+        "wiki-root-url": "https://fresqueduclimat.org",
+        "instagram-root-url": "https://www.instagram.com/p/"
+    },
+    "layout": {
+        "set1": "Lot 1 - Correction",
+        "set2": "Lot 2 - Correction",
+        "set3": "Lot 3 - Correction",
+        "set4": "Lot 4 - Correction",
+        "full": "La fresque du Climat - Correction",
+        "quiz2": "Fresque quiz version en cercle avec 32 cartes",
+        "quiz31": "Fresque quiz en 31 cartes",
+        "giant-2x6": "giant-2x6"
+    },
+    "canvas": {
+        "dimensions": "Dimensions: {width}x{height}cm",
+        "circle_quiz": "Bâche - Quiz en cercle"
+    }
+}

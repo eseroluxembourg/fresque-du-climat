@@ -1,0 +1,737 @@
+[
+    {
+        "fromNum": 1,
+        "toNum": 2,
+        "status": "valid"
+    },
+    {
+        "fromNum": 1,
+        "toNum": 3,
+        "status": "valid"
+    },
+    {
+        "fromNum": 1,
+        "toNum": 4,
+        "status": "valid"
+    },
+    {
+        "fromNum": 1,
+        "toNum": 8,
+        "status": "valid"
+    },
+    {
+        "fromNum": 1,
+        "toNum": 6,
+        "status": "optional"
+    },
+     {
+        "fromNum": 1,
+        "toNum": 25,
+        "status": "optional"
+    },
+     {
+        "fromNum": 1,
+        "toNum": 27,
+        "status": "optional"
+    },
+    {
+        "fromNum": 2,
+        "toNum": 5,
+        "status": "valid"
+    },
+    {
+        "fromNum": 2,
+        "toNum": 6,
+        "status": "optional"
+    },
+    {
+        "fromNum": 2,
+        "toNum": 9,
+        "status": "optional"
+    },
+    {
+        "fromNum": 3,
+        "toNum": 5,
+        "status": "valid"
+    },
+    {
+        "fromNum": 3,
+        "toNum": 6,
+        "status": "optional"
+    },
+     {
+        "fromNum": 3,
+        "toNum": 10,
+        "status": "optional"
+    },
+     {
+        "fromNum": 3,
+        "toNum": 26,
+        "status": "optional"
+    },
+    {
+        "fromNum": 4,
+        "toNum": 5,
+        "status": "valid"
+    },
+    {
+        "fromNum": 4,
+        "toNum": 6,
+        "status": "optional"
+    },
+     {
+        "fromNum": 4,
+        "toNum": 10,
+        "status": "optional"
+    },
+    {
+        "fromNum": 5,
+        "toNum": 7,
+        "status": "valid"
+    },
+     {
+        "fromNum": 5,
+        "toNum": 10,
+        "status": "valid"
+    },
+    {
+        "fromNum": 5,
+        "toNum": 1,
+        "status": "optional"
+    },
+     {
+        "fromNum": 5,
+        "toNum": 27,
+        "status": "optional"
+    },
+     {
+        "fromNum": 5,
+        "toNum": 40,
+        "status": "optional"
+    },
+    {
+        "fromNum": 6,
+        "toNum": 7,
+        "status": "valid"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 12,
+        "status": "optional"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 15,
+        "status": "optional"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 20,
+        "status": "optional"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 25,
+        "status": "optional"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 26,
+        "status": "optional"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 30,
+        "status": "optional"
+    },
+     {
+        "fromNum": 6,
+        "toNum": 35,
+        "status": "optional"
+    },
+     {
+        "fromNum": 7,
+        "toNum": 12,
+        "status": "valid"
+    },
+     {
+        "fromNum": 7,
+        "toNum": 11,
+        "status": "invalid"
+    },
+     {
+        "fromNum": 7,
+        "toNum": 24,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 8,
+        "toNum": 6,
+        "status": "valid"
+    },
+    {
+        "fromNum": 8,
+        "toNum": 9,
+        "status": "valid"
+    },
+    {
+        "fromNum": 8,
+        "toNum": 5,
+        "status": "optional"
+    },
+    {
+        "fromNum": 8,
+        "toNum": 7,
+        "status": "optional"
+    },
+     {
+        "fromNum": 8,
+        "toNum": 10,
+        "status": "optional"
+    },
+     {
+        "fromNum": 8,
+        "toNum": 12,
+        "status": "optional"
+    },
+     {
+        "fromNum": 8,
+        "toNum": 25,
+        "status": "optional"
+    },
+     {
+        "fromNum": 9,
+        "toNum": 13,
+        "status": "valid"
+    },
+    {
+        "fromNum": 10,
+        "toNum": 15,
+        "status": "valid"
+    },
+    {
+        "fromNum": 10,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 11,
+        "toNum": 13,
+        "status": "valid"
+    },
+    {
+        "fromNum": 11,
+        "toNum": 12,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 11,
+        "toNum": 24,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 12,
+        "toNum": 11,
+        "status": "valid"
+    },
+    {
+        "fromNum": 12,
+        "toNum": 24,
+        "status": "valid"
+    },
+    {
+        "fromNum": 12,
+        "toNum": 32,
+        "status": "optional"
+    },
+    {
+        "fromNum": 12,
+        "toNum": 14,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 13,
+        "toNum": 15,
+        "status": "valid"
+    },
+    {
+        "fromNum": 14,
+        "toNum": 16,
+        "status": "valid"
+    },
+    {
+        "fromNum": 14,
+        "toNum": 17,
+        "status": "valid"
+    },
+    {
+        "fromNum": 14,
+        "toNum": 18,
+        "status": "valid"
+    },
+    {
+        "fromNum": 14,
+        "toNum": 19,
+        "status": "valid"
+    },
+    {
+        "fromNum": 14,
+        "toNum": 21,
+        "status": "valid"
+    },
+    {
+        "fromNum": 14,
+        "toNum": 41,
+        "status": "optional"
+    },
+    {
+        "fromNum": 15,
+        "toNum": 14,
+        "status": "valid"
+    },
+    {
+        "fromNum": 16,
+        "toNum": 22,
+        "status": "valid"
+    },
+    {
+        "fromNum": 16,
+        "toNum": 31,
+        "status": "valid"
+    },
+    {
+        "fromNum": 16,
+        "toNum": 26,
+        "status": "optional"
+    },
+    {
+        "fromNum": 17,
+        "toNum": 20,
+        "status": "valid"
+    },
+    {
+        "fromNum": 17,
+        "toNum": 22,
+        "status": "valid"
+    },
+    {
+        "fromNum": 17,
+        "toNum": 27,
+        "status": "valid"
+    },
+    {
+        "fromNum": 17,
+        "toNum": 34,
+        "status": "valid"
+    },
+    {
+        "fromNum": 17,
+        "toNum": 24,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 18,
+        "toNum": 15,
+        "status": "optional"
+    },
+    {
+        "fromNum": 18,
+        "toNum": 25,
+        "status": "optional"
+    },
+    {
+        "fromNum": 18,
+        "toNum": 27,
+        "status": "optional"
+    },
+    {
+        "fromNum": 18,
+        "toNum": 13,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 18,
+        "toNum": 20,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 18,
+        "toNum": 22,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 19,
+        "toNum": 22,
+        "status": "valid"
+    },
+    {
+        "fromNum": 19,
+        "toNum": 42,
+        "status": "valid"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 25,
+        "status": "valid"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 26,
+        "status": "valid"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 30,
+        "status": "valid"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 33,
+        "status": "valid"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 34,
+        "status": "valid"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 19,
+        "status": "optional"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 28,
+        "status": "optional"
+    },
+    {
+        "fromNum": 20,
+        "toNum": 22,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 20,
+        "status": "valid"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 25,
+        "status": "valid"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 36,
+        "status": "valid"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 38,
+        "status": "optional"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 41,
+        "status": "valid"
+    },
+    {
+        "fromNum": 21,
+        "toNum": 28,
+        "status": "optional"
+    },
+    {
+        "fromNum": 22,
+        "toNum": 33,
+        "status": "valid"
+    },
+    {
+        "fromNum": 23,
+        "toNum": 29,
+        "status": "valid"
+    },
+    {
+        "fromNum": 23,
+        "toNum": 27,
+        "status": "optional"
+    },
+    {
+        "fromNum": 24,
+        "toNum": 23,
+        "status": "valid"
+    },
+    {
+        "fromNum": 25,
+        "toNum": 28,
+        "status": "valid"
+    },
+    {
+        "fromNum": 25,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 25,
+        "toNum": 27,
+        "status": "optional"
+    },
+    {
+        "fromNum": 25,
+        "toNum": 8,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 26,
+        "toNum": 31,
+        "status": "valid"
+    },
+    {
+        "fromNum": 26,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 26,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 26,
+        "toNum": 28,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 26,
+        "toNum": 33,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 27,
+        "toNum": 37,
+        "status": "valid"
+    },
+    {
+        "fromNum": 27,
+        "toNum": 25,
+        "status": "optional"
+    },
+    {
+        "fromNum": 28,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 29,
+        "toNum": 27,
+        "status": "valid"
+    },
+    {
+        "fromNum": 30,
+        "toNum": 26,
+        "status": "valid"
+    },
+    {
+        "fromNum": 30,
+        "toNum": 31,
+        "status": "valid"
+    },
+    {
+        "fromNum": 30,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 30,
+        "toNum": 35,
+        "status": "valid"
+    },
+    {
+        "fromNum": 30,
+        "toNum": 12,
+        "status": "optional"
+    },
+    {
+        "fromNum": 31,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 31,
+        "toNum": 40,
+        "status": "valid"
+    },
+    {
+        "fromNum": 31,
+        "toNum": 37,
+        "status": "optional"
+    },
+    {
+        "fromNum": 31,
+        "toNum": 38,
+        "status": "optional"
+    },
+    {
+        "fromNum": 32,
+        "toNum": 37,
+        "status": "valid"
+    },
+    {
+        "fromNum": 32,
+        "toNum": 39,
+        "status": "valid"
+    },
+    {
+        "fromNum": 32,
+        "toNum": 8,
+        "status": "invalid"
+    },
+    {
+        "fromNum": 33,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 33,
+        "toNum": 39,
+        "status": "valid"
+    },
+    {
+        "fromNum": 33,
+        "toNum": 31,
+        "status": "optional"
+    },
+    {
+        "fromNum": 34,
+        "toNum": 32,
+        "status": "valid"
+    },
+    {
+        "fromNum": 34,
+        "toNum": 33,
+        "status": "valid"
+    },
+    {
+        "fromNum": 34,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 35,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 35,
+        "toNum": 6,
+        "status": "optional"
+    },
+    {
+        "fromNum": 35,
+        "toNum": 10,
+        "status": "optional"
+    },
+    {
+        "fromNum": 35,
+        "toNum": 25,
+        "status": "optional"
+    },
+    {
+        "fromNum": 35,
+        "toNum": 32,
+        "status": "optional"
+    },
+    {
+        "fromNum": 36,
+        "toNum": 35,
+        "status": "valid"
+    },
+    {
+        "fromNum": 36,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 36,
+        "toNum": 30,
+        "status": "optional"
+    },
+    {
+        "fromNum": 37,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 37,
+        "toNum": 39,
+        "status": "valid"
+    },
+    {
+        "fromNum": 37,
+        "toNum": 40,
+        "status": "valid"
+    },
+    {
+        "fromNum": 39,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 39,
+        "toNum": 40,
+        "status": "valid"
+    },
+    {
+        "fromNum": 40,
+        "toNum": 38,
+        "status": "valid"
+    },
+    {
+        "fromNum": 40,
+        "toNum": 39,
+        "status": "valid"
+    },
+    {
+        "fromNum": 40,
+        "toNum": 1,
+        "status": "optional"
+    },
+    {
+        "fromNum": 40,
+        "toNum": 5,
+        "status": "optional"
+    },
+    {
+        "fromNum": 41,
+        "toNum": 9,
+        "status": "valid"
+    },
+    {
+        "fromNum": 41,
+        "toNum": 13,
+        "status": "optional"
+    },
+    {
+        "fromNum": 41,
+        "toNum": 28,
+        "status": "optional"
+    },
+    {
+        "fromNum": 42,
+        "toNum": 12,
+        "status": "valid"
+    },
+    {
+        "fromNum": 42,
+        "toNum": 14,
+        "status": "valid"
+    },
+    {
+        "fromNum": 42,
+        "toNum": 20,
+        "status": "valid"
+    }
+]

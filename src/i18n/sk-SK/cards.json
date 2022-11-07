@@ -1,0 +1,212 @@
+{
+    "7": {
+        "title": "CO2 emisie",
+        "backDescription": "Oxid uhličitý (CO2) je prvý antropogénny skleníkový plyn (tj. zapríčinený ľudskou aktivitou). Emisie CO2 pochádzajú zo spaľovania fosílnych palív a odlesňovania.",
+        "explanation": "CO2 emisie"
+    },
+    "6": {
+        "title": "Odlesňovanie",
+        "backDescription": "Odlesňovanie znamená zrezávanie alebo spaľovanie väčšieho množstva stromov ako vie les sám obnoviť. 80% odlesňovania je spojených s poľnohospodárstvom.",
+        "explanation": "Odlesňovanie"
+    },
+    "5": {
+        "title": "Fosílne palivá",
+        "backDescription": "Fosílne palivá sú uhlie, ropa a zemný plyn. Používajú sa hlavne v budovách, doprave a priemysle. Vypúšťajú Oxid uhličitý (CO2) počas spaľovania.",
+        "explanation": "Fosílne palivá"
+    },
+    "42": {
+        "title": "Hydráty metánu",
+        "backDescription": "Hydráty (alebo Klatráty) metánu sú formou ľadu na oceánskom dne, pozdĺž kontinentálnych svahov, ktoré zachytávajú molekuly metánu. Môžu sa stať nestabilnými nad +2°C.",
+        "explanation": "Hydráty metánu"
+    },
+    "8": {
+        "title": "Poľnohospodárstvo",
+        "backDescription": "Poľnohospodárstvo nevypúšťa veľa CO2, ale je zodpovedné za veľké množstvo metánu (dobytok, ryžové polia) a oxidu dusného (umelé hnojivá). Celkovo predstavuje 25% skleníkových plynov ak počítame aj spôsobené odlesňovanie.",
+        "explanation": "Poľnohospodárstvo"
+    },
+    "22": {
+        "title": "Zvyšovanie hladiny mora",
+        "backDescription": "Od roku 1900 sa hladina mora zvýšila o 20 cm ako dôsledok termálneho rozpínania oceánskych vôd, topenia vysokohorských a pevninských ľadovcov.",
+        "explanation": "Zvyšovanie hladiny mora"
+    },
+    "18": {
+        "title": "Topenie morského ľadu",
+        "backDescription": "Roztápanie morského ľadu nie je zodpovedné za zvyšovanie morskej hladiny (ľad, ktorý sa roztopí v pohári vody nespôsobí pretečenie pohára). Roztápaním ale ľad vytvára priestor pre oveľa tmavšie povrchy, ktoré absorbujú viac slnečných lúčov.",
+        "explanation": "Topenie morského ľadu"
+    },
+    "24": {
+        "title": "Okysľovanie oceánov",
+        "backDescription": "Keď sa CO2 rozpustí v oceáne, premení sa na kyslé ióny (H2CO3 and HCO3-). To má za následok okysľovanie oceánu (pH klesá).",
+        "explanation": "Okysľovanie oceánov"
+    },
+    "19": {
+        "title": "Topenie pevninských ľadovcov",
+        "backDescription": "Pevninské ľadovce (alebo ľadovcové štíty) sa nachádzajú v Grónsku a Antarktíde. Ak sa úplne roztopia, spôsobia zvýšenie hladiny oceánu o 7m pre Grónsko a 54m pre Antarktídu. Počas poslednej doby ľadovej, pevninské ľadovce boli tak rozsiahle, že hladina mo",
+        "explanation": "Topenie pevninských ľadovcov"
+    },
+    "27": {
+        "title": "Morská biodiverzita",
+        "backDescription": "Pteropody a coccolithophoridy (vápnitý nanoplanktón) sú základom potravinového reťazca v oceáne. Ak vyhynú, bude preto ohrozená celá morská biodiverzita. Otepľovanie vody v oceáne taktiež oslabuje morskú biodiverzitu.",
+        "explanation": "Morská biodiverzita"
+    },
+    "33": {
+        "title": "Zatopenie pobrežia",
+        "backDescription": "Cyklóny a narušenie počasia prináša vietor (následne vlny) a tlakovú níž. Zníženie tlaku o každý 1 hektopascal má za následok zvýšenie hladiny mora o 1cm. Cyklóny môžu preto spôsobiť zatopenie pobrežných oblastí (alebo pobrežné záplavy), ktoré je znásoben",
+        "explanation": "Zatopenie pobrežia"
+    },
+    "32": {
+        "title": "Pokles poľnohospodárskej úrody",
+        "backDescription": "Produkcia potravín môže byť ovplyvnená teplotou, suchami, extrémnymi výkyvmi počasia, záplavami a zatopením pobrežných oblastí (napr. Delta Nílu).",
+        "explanation": "Pokles poľnohospodárskej úrody"
+    },
+    "20": {
+        "title": "Narušenie vodného cyklu",
+        "backDescription": "Vyparovanie vody z hladiny oceánu sa zvyšuje ak sa zvyšuje teplota vody a vzduchu. To spôsobuje väčšie množstvo dažďových oblakov. Ak sa ten istý fenomén vyparovania vyskytne na zemi, pôda sa vysúša.",
+        "explanation": "Narušenie vodného cyklu"
+    },
+    "2": {
+        "title": "Priemysel",
+        "backDescription": "Priemysel používa fosílne palivá a elektrinu. Produkuje 40% skleníkových plynov.",
+        "explanation": "Priemysel"
+    },
+    "34": {
+        "title": "Cyklóny",
+        "backDescription": "Cyklóny využívajú energiu z teplých vôd na hladine oceánu. Zosilňujú sa kvôli globálnemu otepľovaniu.",
+        "explanation": "Cyklóny"
+    },
+    "21": {
+        "title": "Nárast teplôt",
+        "backDescription": "Hovoríme o priemernej teplote vzduchu nad zemským povrchom, ktorá sa zvýšila o 1°C od roku 1900. Predpovedá sa že tento teplotný nárast by mohol dosiahnuť 2 až 5°C do roku 2100. Ku koncu poslednej doby ľadovej pred 20 tisíc rokmi, priemerná teplota bola l",
+        "explanation": "Nárast teplôt"
+    },
+    "38": {
+        "title": "Ľudské zdravie",
+        "backDescription": "Hlad, premiestňovanie prenášačov chorôb, vlny horúčav a ozbrojené konflikty môžu ovplyvniť ľudské zdravie.",
+        "explanation": "Ľudské zdravie"
+    },
+    "23": {
+        "title": "Spomaľovanie kalcifikácie ",
+        "backDescription": "Keď pH klesne, kalcifikácia (tvorba vápenca a najmä živočíšnych vápenatých schránok) sa sťažuje.",
+        "explanation": "Spomaľovanie kalcifikácie "
+    },
+    "31": {
+        "title": "Sladkovodné zdroje",
+        "backDescription": "Sladkovodné zdroje sú ovplyvnené zmenami zrážok a miznutím ľadovcov, ktoré hrajú úlohu regulátora vodných tokov.",
+        "explanation": "Sladkovodné zdroje"
+    },
+    "9": {
+        "title": "Ostatné skleníkové plyny",
+        "backDescription": "CO2 nie je jediný skleníkový plyn. Medzi inými poznáme taktiež metán (CH4) a oxid dusný (N2O), ktoré sú vylučované najmä poľnohospodárskymi aktivitami.",
+        "explanation": "Ostatné skleníkové plyny"
+    },
+    "30": {
+        "title": "Suchá",
+        "backDescription": "Narušenie vodného cyklu spôsobuje nárast alebo úbytok vody. Úbytok vody spôsobuje suchá. Odhaduje sa, že sa tieto suchá budú znásobovať v budúcnosti.",
+        "explanation": "Suchá"
+    },
+    "25": {
+        "title": "Suchozemská biodiverzita",
+        "backDescription": "Zvieratá a rastliny sú ovplyvnené zmenami teplôt a vodného cyklu: migrujú, vyhýnajú alebo sa veľmi zriedka ich počet aj zväčší.",
+        "explanation": "Suchozemská biodiverzita"
+    },
+    "29": {
+        "title": "Pteropody a coccolithophoridy",
+        "backDescription": "Pteropody sú zooplanktón a coccolithophoridy sú fytoplanktón. Tieto organizmy majú vápenaté schránky.",
+        "explanation": "Pteropody a coccolithophoridy"
+    },
+    "3": {
+        "title": "Využitie budov",
+        "backDescription": "Stavebný sektor (ubytovanie a služby) používa fosílne palivá a elektrinu. Produkuje 20% skleníkových plynov. ",
+        "explanation": "Využitie budov"
+    },
+    "26": {
+        "title": "Riečne záplavy",
+        "backDescription": "Narušenie vodného cyklu môže spôsobiť nárast alebo úbytok vody. Nárast vody môže viesť ku riečnym záplavám. Ak je pôda vysušená, situácia sa zhoršuje, pretože voda dobre nevsakuje a steká po povrchu.",
+        "explanation": "Riečne záplavy"
+    },
+    "28": {
+        "title": "Prenášači chorôb",
+        "backDescription": "Globálne otepľovanie prináša migráciu zvierat. Niektoré prenášajú choroby a môžu dosiahnuť oblasti, v ktorých populácia nie je imunizovaná proti týmto chorobám. ",
+        "explanation": "Prenášači chorôb"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost je permanentne zamrznutá pôda. Vidíme, že sa začína rozmrazovať, čím vypúšťa do vzduchu metán, ktorý bol uskladnený pod zemským povrchom. Ak sa tento fenomén zrýchli, je tu vysoký risk, že sa globálne otepľovanie stane nepredvídateľným, hlavne ",
+        "explanation": "Permafrost"
+    },
+    "14": {
+        "title": "Rozpočítanie energie",
+        "backDescription": "Tento graf znázorňuje kam sa podeje energia nazbieraná na zemi kvôli radiačnému pôsobeniu: otepľuje oceán, roztápa ľad, rozptyľuje sa do pôdy a otepľuje atmosféru.",
+        "explanation": "Rozpočítanie energie"
+    },
+    "1": {
+        "title": "Ľudská aktivita",
+        "backDescription": "Tu sa to všetko začína...",
+        "explanation": "Ľudská aktivita"
+    },
+    "13": {
+        "title": "Dodatočný skleníkový efekt",
+        "backDescription": "Skleníkový efekt je prírodným fenoménom a prvým prírodným skleníkovým plynom je práve vodná para. Bez skleníkového efektu by bola naša planéta o 33°C chladnejšia. Lenže CO2 a ostatné skleníkové plyny zapríčinené ľudskou aktivitou zvyšujú prírodný skleníko",
+        "explanation": "Dodatočný skleníkový efekt"
+    },
+    "37": {
+        "title": "Hladomor",
+        "backDescription": "Hladomor môže byť spôsobený nižšou poľnohospodárskou úrodou a poklesom morskej biodiverzity.",
+        "explanation": "Hladomor"
+    },
+    "11": {
+        "title": "Koncentrácia CO2 (ppm)",
+        "backDescription": "Približne polovica našich CO2 emisií je zachytená prírodnými absorbérmi (prepadmi) uhlíka. Druhá polovica ostáva v atmosfére. Koncentrácia CO2 v atmosfére sa za posledných 150 rokov zvýšila z 280 na 410 ppm (častíc na milión).",
+        "explanation": "Koncentrácia CO2 (ppm)"
+    },
+    "36": {
+        "title": "Vlny horúčav",
+        "backDescription": "Manifestácia nárastu teplôt je znásobovanie vĺn horúčav.",
+        "explanation": "Vlny horúčav"
+    },
+    "12": {
+        "title": "Absorbéry uhlíka",
+        "backDescription": "Polovica CO2, ktorú vypustíme každý rok, je zachytená absorbérmi uhlíka:\n- 1/4 vegetáciou (cez fotosyntézu)\n- 1/4 oceánmi \nZvyšná polovica (1/2) ostáva v atmosfére.",
+        "explanation": "Absorbéry uhlíka"
+    },
+    "4": {
+        "title": "Doprava",
+        "backDescription": "Dopravný sektor je vysoko závislý od ropy. Produkuje 15% skleníkových plynov.",
+        "explanation": "Doprava"
+    },
+    "10": {
+        "title": "Aerosóly",
+        "backDescription": "Nemajú nič spoločné s aerosólovými sprejmi. Aerosóly sú lokálnymi znečisťovateľmi, ktoré škodia zdraviu a pochádzajú z tých istých tovární a výfukových potrubí ako CO2. Negatívne prispievajú ku radiačnému pôsobeniu (tj. ochladzujú podnebie).",
+        "explanation": "Aerosóly"
+    },
+    "39": {
+        "title": "Klimatickí utečenci",
+        "backDescription": "Predstavte si, že žijete na mieste, ktoré bolo zázračne ušetrené od klimatických zmien. Je možné, že niekoľko miliárd ľudí bude chcieť s vami zdieľať tento priestor!",
+        "explanation": "Klimatickí utečenci"
+    },
+    "15": {
+        "title": "Radiačné pôsobenie",
+        "backDescription": "Radiačné pôsobenie predstavuje rozdiel medzi energiou, ktorá každú sekundu prichádza na zem a energiou, ktorá je uvoľnená. To sa rovná 2,3 W/m² (Watt na meter štvorcový) (tj.3,1 W/m² pre skleníkový efekt mínus 0,8 W/m² pre aerosóly).",
+        "explanation": "Radiačné pôsobenie"
+    },
+    "35": {
+        "title": "Lesné požiare",
+        "backDescription": "Lesné požiare vznikajú častejšie kvôli suchám a vlnám horúčav.",
+        "explanation": "Lesné požiare"
+    },
+    "16": {
+        "title": "Topenie ľadovcov",
+        "backDescription": "Takmer všetky ľadovce stratili hmotu. Stovky z nich sa už úplne vytratili. Ľadovce hrajú úlohu regulátora ako zdroj sladkej vody.",
+        "explanation": "Topenie ľadovcov"
+    },
+    "40": {
+        "title": "Ozbrojené konflikty",
+        "backDescription": "Nemali by sme dopustiť, aby sa to takto skončilo...",
+        "explanation": "Ozbrojené konflikty"
+    },
+    "17": {
+        "title": "Nárast teploty vody",
+        "backDescription": "Oceán absorbuje 93% energie nahromadenej na Zemi. Teplota vody preto narastá a tým sa voda rozpína. ",
+        "explanation": "Nárast teploty vody"
+    }
+}

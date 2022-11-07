@@ -1,0 +1,354 @@
+[
+    {
+        "code": "fr-FR",
+        "language_fr": "Français",
+        "language_en": "French",
+        "language_local": "French",
+        "fresk_translation": "La Fresque du Climat",
+        "website_url": ""
+    },
+    {
+        "code": "en-GB",
+        "language_fr": "Anglais",
+        "language_en": "English",
+        "language_local": "English 🇬🇧",
+        "fresk_translation": "The Climate Collage",
+        "website_url": ""
+    },
+    {
+        "code": "de-DE",
+        "language_fr": "Allemand",
+        "language_en": "German",
+        "language_local": "German",
+        "fresk_translation": "Das Clima Puzzle",
+        "website_url": ""
+    },
+    {
+        "code": "bg-BG",
+        "language_fr": "Bulgare",
+        "language_en": "",
+        "language_local": "Bulgarian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "br-FR",
+        "language_fr": "Breton",
+        "language_en": "",
+        "language_local": "Breton",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "cs-CZ",
+        "language_fr": "Tchèque",
+        "language_en": "",
+        "language_local": "Czech",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "da-DK",
+        "language_fr": "Danois",
+        "language_en": "",
+        "language_local": "Danish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "en-US",
+        "language_fr": "Anglais (USA)",
+        "language_en": "",
+        "language_local": "American English 🇺🇸",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "es-ES",
+        "language_fr": "Espagnol",
+        "language_en": "",
+        "language_local": "Spanish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "es-MX",
+        "language_fr": "Espagnol (Mexique)",
+        "language_en": "",
+        "language_local": "Mexican Spanish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "et-EE",
+        "language_fr": "Estonien",
+        "language_en": "",
+        "language_local": "Estonian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "eu-ES",
+        "language_fr": "Basque",
+        "language_en": "",
+        "language_local": "Basque",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "el-GR",
+        "language_fr": "Grec",
+        "language_en": "",
+        "language_local": "Greek",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "he-IL",
+        "language_fr": "Hébreu",
+        "language_en": "",
+        "language_local": "Hebrew",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "hr-HR",
+        "language_fr": "Croate ",
+        "language_en": "",
+        "language_local": "Croatian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "hu-HU",
+        "language_fr": "Hungarian",
+        "language_en": "",
+        "language_local": "Hungarian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "it-IT",
+        "language_fr": "Italien",
+        "language_en": "",
+        "language_local": "Italian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "ja-JP",
+        "language_fr": "Japonais",
+        "language_en": "",
+        "language_local": "Japanese",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "lb-LU",
+        "language_fr": "Luxembourgeois",
+        "language_en": "",
+        "language_local": "Luxembourgish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "mg-MG",
+        "language_fr": "Malgache",
+        "language_en": "",
+        "language_local": "Malagasy",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "pl-PL",
+        "language_fr": "Polonais",
+        "language_en": "",
+        "language_local": "Polish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "pt-BR",
+        "language_fr": "Portugais (Brésil)",
+        "language_en": "",
+        "language_local": "Brazilian Portuguese",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "pT-PT",
+        "language_fr": "Portugais",
+        "language_en": "",
+        "language_local": "Portuguese",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "ro-RO",
+        "language_fr": "Roumain",
+        "language_en": "",
+        "language_local": "Romanian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "ru-RU",
+        "language_fr": "Russe",
+        "language_en": "",
+        "language_local": "Russian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "sk-SK",
+        "language_fr": "Slovaque",
+        "language_en": "",
+        "language_local": "Slovak",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "sr-SP",
+        "language_fr": "Serbe",
+        "language_en": "",
+        "language_local": "Serbian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "sv-SE",
+        "language_fr": "Suédois",
+        "language_en": "",
+        "language_local": "Swedish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "tr-TR",
+        "language_fr": "Turc",
+        "language_en": "",
+        "language_local": "Turkish",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "uk-UA",
+        "language_fr": "Ukrainien",
+        "language_en": "",
+        "language_local": "Ukrainian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "zh-CHT",
+        "language_fr": "Chinois (traditionnel)",
+        "language_en": "",
+        "language_local": "Traditional Mandarin (Chinese)",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "zh-CN",
+        "language_fr": "Chinois (simplifié)",
+        "language_en": "",
+        "language_local": "Chinese Mandarin (simplified)",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "si-LK",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Sinhala",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "sl-SL",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Slovenian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "ar-MA",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Arabic (Morocco)",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "ca-ES",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Catalan",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "sr-SP",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Serbian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "nb-NO",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Norwegian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "nl-NL",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Dutch",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "ar-AR",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Traditional Arabic",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "sq-AL",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Albanian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "mk-MK",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Macedonian",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "th-TH",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Thai",
+        "fresk_translation": "",
+        "website_url": ""
+    },
+    {
+        "code": "oc-ES",
+        "language_fr": "",
+        "language_en": "",
+        "language_local": "Occitan",
+        "fresk_translation": "",
+        "website_url": ""
+    }
+]

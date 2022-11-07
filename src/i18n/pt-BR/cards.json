@@ -1,0 +1,212 @@
+{
+    "24": {
+        "title": "Acidificação dos oceanos",
+        "backDescription": "Quando o CO2 se dissolve no oceano, transforma-se em H2CO3 e HCO3- que são íons ácidos. O efeito dessa transformação é a acidificação do oceano (o pH diminui).",
+        "explanation": "Acidificação dos oceanos"
+    },
+    "37": {
+        "title": "Fome",
+        "backDescription": "A fome pode ser causada pelo declínio dos rendimentos agrícolas ou pela redução da biodiversidade marinha.",
+        "explanation": "Fome"
+    },
+    "29": {
+        "title": "pterópodes e cococolitóforos",
+        "backDescription": "Os pterópodes são zooplânctons e os cococolitóforos são fitoplânctons. Esses microrganismos possuem uma concha calcária.",
+        "explanation": "pterópodes e cococolitóforos"
+    },
+    "21": {
+        "title": "Aumento da temperatura",
+        "backDescription": "Aqui estamos nos referindo à temperatura média do ar na superfície da Terra. Ela já aumentou em 1 ° C desde 1900. De acordo com os cenários, a temperatura poderia aumentar em 2 a 5 ° C até 2100.No final da última era glacial (20.000 anos atrás), estava ap",
+        "explanation": "Aumento da temperatura"
+    },
+    "5": {
+        "title": "Combustíveis Fósseis",
+        "backDescription": "Os combustíveis fósseis são carvão, petróleo e gás natural. Eles são usados principalmente na construção civil, transportes e indústria. Eles emitem CO2 quando queimados.",
+        "explanation": "Combustíveis Fósseis"
+    },
+    "32": {
+        "title": "Declínio da produção agrícola",
+        "backDescription": "A produção de alimentos pode ser afetada pela temperatura, pelas secas, pelos eventos climáticos extremos, pelas inundações e submersões marinha (por exemplo, o Delta do Nilo).",
+        "explanation": "Declínio da produção agrícola"
+    },
+    "22": {
+        "title": "aumento do nível do mar",
+        "backDescription": "Desde 1900, o nível do mar subiu 20 cm, devido à expansão térmica das águas oceânicas e ao derretimento das geleiras e das calotas polares",
+        "explanation": "aumento do nível do mar"
+    },
+    "2": {
+        "title": "Indústria",
+        "backDescription": "A indústria utiliza combustíveis fósseis e eletricidade. Ela representa 40% das emissões de gases de efeito estufa (GEE).",
+        "explanation": "Indústria"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost (pergelissolo) refere-se ao solo permanentemente congelado. Vemos que está começando a descongelar, liberando metano e CO2 no ar, devido a decomposição de matéria orgânica que até então estava congelada. Acima de + 2°C, é provável que esse fenô",
+        "explanation": "Permafrost"
+    },
+    "9": {
+        "title": "Outros GEE",
+        "backDescription": "O CO2 não é o único gás de efeito de estufa. Há também o metano (CH4) e o óxido nitroso (N2O) (cujas emissões têm origem sobretudo na agricultura), bem como alguns outros.",
+        "explanation": "Outros GEE"
+    },
+    "42": {
+        "title": "Hidratos de Metano",
+        "backDescription": "Os hidratos de metano (ou clatratos de metano) são uma forma de gelo encontrada no fundo do oceano, ao longo das encostas continentais, que prende as moléculas de metano. Eles podem ficar instáveis acima de + 2 ° C.",
+        "explanation": "Hidratos de Metano"
+    },
+    "30": {
+        "title": "Secas",
+        "backDescription": "A perturbação do ciclo da água pode ocasionar mais água ou menos água. Quando essas perturbações levam a menos água, isso é uma seca. Estima-se que as secas poderão ser mais frequentes no futuro.",
+        "explanation": "Secas"
+    },
+    "31": {
+        "title": "Reservas de Água Doce",
+        "backDescription": "As reservas de água doce são afetadas pelas mudanças nas precipitações e pelo desaparecimento das geleiras que desempenham um papel regulador no fluxo dos rios.",
+        "explanation": "Reservas de Água Doce"
+    },
+    "6": {
+        "title": "Desmatamento",
+        "backDescription": "O desmatamento consiste em cortar ou queimar árvores além da capacidade de restauração natural da floresta original. 80% do desmatamento está relacionado à agricultura.",
+        "explanation": "Desmatamento"
+    },
+    "35": {
+        "title": "Incêndios Florestais",
+        "backDescription": "Os incêndios florestais começam mais facilmente durante as secas e ondas de calor.",
+        "explanation": "Incêndios Florestais"
+    },
+    "23": {
+        "title": "Problemas de calcificação",
+        "backDescription": "Se o pH diminuir, a formação calcária torna-se mais dificil, especialmente para as conchas.",
+        "explanation": "Problemas de calcificação"
+    },
+    "11": {
+        "title": "Concentração de CO2 (ppm)",
+        "backDescription": "Ainda que a metade de nossas emissões de CO2 seja capturada pelo processo de sequestro de carbono, a outra metade permanecerá na atmosfera. A concentração de CO2 na atmosfera aumentou de 280 para 410 ppm (partes por milhão) nos últimos 150 anos.",
+        "explanation": "Concentração de CO2 (ppm)"
+    },
+    "7": {
+        "title": "Emissões CO2",
+        "backDescription": "O CO2 é o mais importante gás de efeito estufa de origem antrópica (isto é, produzida pelas atividades humanas). As emissões de CO2 têm origem na queima de combustíveis fósseis e no desmatamento.",
+        "explanation": "Emissões CO2"
+    },
+    "4": {
+        "title": "Transporte",
+        "backDescription": "O setor de transporte é muito dependente do petróleo. Ele representa 15% das emissões de gases de efeito estufa (GEE).",
+        "explanation": "Transporte"
+    },
+    "20": {
+        "title": "Perturbação do ciclo da água",
+        "backDescription": "O aumento das temperaturas da agua e da atmosfera sao responsavéis pela evaporaçao da agua na superficie do oceano e consequetemente a formaçao de nuvens de chuva. O mesmo fenômeno de evaporação acontece na terra e resseca o solo.",
+        "explanation": "Perturbação do ciclo da água"
+    },
+    "12": {
+        "title": "Sequestros de carbono",
+        "backDescription": "Metade do CO2 que emitimos todos os anos é absorvida pelos sequestros de carbono: - ¼ pela vegetação (fotossíntese), - ¼ pelo oceano. Os 50% restantes permanecem na atmosfera",
+        "explanation": "Sequestros de carbono"
+    },
+    "8": {
+        "title": "Agricultura",
+        "backDescription": "A agricultura é responsável pela emissão de uma pequena parcela de CO2, de grande parcela de metano (da pecuária e arrozais) e óxido nitroso (de fertilizantes). No total, ela representa 25% dos GEE emitidos, se consideramos ainda o desmatamento induzido",
+        "explanation": "Agricultura"
+    },
+    "10": {
+        "title": "Aerossóis",
+        "backDescription": "Não se trata dos sprays de aerossóis. Os aerossóis são poluição de base local proveniente da combustão imperfeita de combustíveis fósseis. São nocivos à saúde e contribuem negativamente para o forçamento radiativo ( esfriam o clima).",
+        "explanation": "Aerossóis"
+    },
+    "36": {
+        "title": "Ondas de Calor",
+        "backDescription": "Uma das consequências do aumento da temperatura é a multiplicação das ondas de calor.",
+        "explanation": "Ondas de Calor"
+    },
+    "28": {
+        "title": "Vetores de Doenças",
+        "backDescription": "Com o aquecimento global, os animais migram. Alguns deles carregam doenças e atingem áreas onde a população não está imunizada contra essas doenças.",
+        "explanation": "Vetores de Doenças"
+    },
+    "38": {
+        "title": "Saúde Humana",
+        "backDescription": "Fome, deslocamento dos vetores de doenças, ondas de calor e conflitos armados podem afetar a saúde humana.",
+        "explanation": "Saúde Humana"
+    },
+    "39": {
+        "title": "Refugiados climáticos",
+        "backDescription": "Imagine que você vive em um lugar que foi milagrosamente poupado pela mudança climática. Vários bilhões de seres humanos podem querer compartilhá-lo com você.",
+        "explanation": "Refugiados climáticos"
+    },
+    "14": {
+        "title": "Balanço Energético",
+        "backDescription": "Esse gráfico explica para onde vai a energia acumulada na Terra devido ao forçamento radiativo: ela aquece o oceano, derrete o gelo, se dissipa no solo e aquece a atmosfera.",
+        "explanation": "Balanço Energético"
+    },
+    "34": {
+        "title": "Ciclones",
+        "backDescription": "Os ciclones absorvem a energia das águas quentes da superfície do oceano. Eles são cada vez mais fortes devido à mudança climática.",
+        "explanation": "Ciclones"
+    },
+    "3": {
+        "title": "Setor da Construção Civil",
+        "backDescription": "O setor de construção civil (residencial e comercial) utiliza combustíveis fósseis e eletricidade. Ele representa  20% das emissões de gases de efeito estufa (GEE).",
+        "explanation": "Setor da Construção Civil"
+    },
+    "26": {
+        "title": "Enchentes",
+        "backDescription": "A perturbação do ciclo da água pode ocasionar mais ou menos água. Mais água pode levar à inundações nas terras.  A situação se agrava se o solo estiver seco porque a água não escoa.",
+        "explanation": "Enchentes"
+    },
+    "17": {
+        "title": "Aumento da temperatura da água",
+        "backDescription": "O oceano absorve 93% da energia acumulada na Terra. Ao se aquecer, a água se expande.",
+        "explanation": "Aumento da temperatura da água"
+    },
+    "25": {
+        "title": "Biodiversidade Terrestre",
+        "backDescription": "Animais e plantas são afetados pelas mudanças de temperatura e do ciclo da água: migram ou desaparecem e, em alguns casos, proliferam.",
+        "explanation": "Biodiversidade Terrestre"
+    },
+    "33": {
+        "title": "Submersões",
+        "backDescription": "Ciclones e perturbações climáticas trazem vento (portanto ondas) e zonas de baixa pressão. Agora, 1 hectopascal a menos representa 1 cm a mais para o nível do mar. É por isso que eles podem causar submersões (grandes inundações nas costas) que se agravam ",
+        "explanation": "Submersões"
+    },
+    "19": {
+        "title": "Derretimento das calotas polares",
+        "backDescription": "As calotas polares estão na Groenlândia e na Antártica. Se elas derreterem completamente, o nível do mar aumentaria em 7 metros na Groenlândia e em 54 metros na Antártica. Durante a última era glacial, as calotas polares eram tão grandes que o nível do ma",
+        "explanation": "Derretimento das calotas polares"
+    },
+    "18": {
+        "title": "Derretimento da banquisa / gelo marinho",
+        "backDescription": "O derretimento do gelo marinho não é responsável pela elevação do nível do mar (um cubo de gelo que derrete em um copo de água não faz a água transbordar). Entretanto, ao derreter, aumenta a proporção da superfície escura nos oceanos, que absorvem maior q",
+        "explanation": "Derretimento da banquisa / gelo marinho"
+    },
+    "16": {
+        "title": "Derretimento das Geleiras",
+        "backDescription": "Quase todas as geleiras perderam massa. Centenas delas já desapareceram. Essas geleiras desempenham um papel regulador como fonte de água doce.",
+        "explanation": "Derretimento das Geleiras"
+    },
+    "1": {
+        "title": "Atividades Humanas",
+        "backDescription": "É aqui onde tudo começa...",
+        "explanation": "Atividades Humanas"
+    },
+    "13": {
+        "title": "Efeito Estufa Adicional",
+        "backDescription": "O efeito estufa é um fenômeno natural (a propósito, o principal GEE é o vapor de água). Sem efeito estufa, o planeta seria 33° C mais frio. Mas o CO2 e outros GEE relacionados às atividades humanas aumentam o efeito estufa natural e aquecem o clima.",
+        "explanation": "Efeito Estufa Adicional"
+    },
+    "40": {
+        "title": "Conflitos Armados",
+        "backDescription": "É como não deveríamos permitir que tudo terminasse...",
+        "explanation": "Conflitos Armados"
+    },
+    "15": {
+        "title": "Forçamento Radioativo",
+        "backDescription": "O forçamento radiativo representa a diferença entre a energia que chega à Terra a cada segundo e a energia por ela liberada. Ele foi estimado a 2,3 W/m² (Watt por metro quadrado), sendo 3,1 W/m²  para o efeito estufa e - 0,8 W / m² para os aerossóis.",
+        "explanation": "Forçamento Radioativo"
+    },
+    "27": {
+        "title": "Biodiversidade Marinha",
+        "backDescription": "Como os pterópodes e os cococolitóforos são a base da cadeia alimentar, se eles desaparecerem, toda a vida nos oceanos está ameaçada. O aquecimento do oceano representa um importante impacto sobre a biodiversidade marinha.",
+        "explanation": "Biodiversidade Marinha"
+    }
+}

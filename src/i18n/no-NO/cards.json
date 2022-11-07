@@ -1,0 +1,212 @@
+{
+    "30": {
+        "title": "Tørke",
+        "backDescription": "Forstyrrelser i vannets kretsløp kan føre til mer eller mindre vann. Ved mindre vann blir det tørke. Tørke vil sannsynligvis skje oftere i fremtiden.",
+        "explanation": "Tørke"
+    },
+    "4": {
+        "title": "Transport",
+        "backDescription": "Transportsektoren er veldig avhengig av olje. Den står for 15 % av de totale klimagassutslippene.",
+        "explanation": "Transport"
+    },
+    "11": {
+        "title": "CO2-konsentrasjon (ppm)",
+        "backDescription": "Rundt halvparten av våre CO2-utslipp fanges av naturlige karbonsluker. Den andre halvparten forblir i atmosfæren; CO2-konsentrasjonen i atmosfæren har økt fra 280 til 410 ppm (andeler per million) i løpet av 150 år.",
+        "explanation": "CO2-konsentrasjon (ppm)"
+    },
+    "10": {
+        "title": "Aerosoler",
+        "backDescription": "Aerosoler er en type lokal forurensning som kommer fra forbrenning av fossil brensel. De er helseskadelige og bidrar negativt til strålingspådrivet (de avkjøler klimaet).",
+        "explanation": "Aerosoler"
+    },
+    "29": {
+        "title": "Pteropoder og kalkflagellater",
+        "backDescription": "Pteropoder er en type dyreplankton og kalkflagellater er en type planteplankton. Disse mikroorganismene har et forkalket skall. ",
+        "explanation": "Pteropoder og kalkflagellater"
+    },
+    "20": {
+        "title": "Forstyrrelser i vannets kretsløp",
+        "backDescription": "Fordampningen av vann fra havoverflaten øker ved økende vann- og lufttemperaturer. Dette fører til flere regnskyer og mer regn. Hvis temperaturøkningen skjer på land, tørker jorden ut.",
+        "explanation": "Forstyrrelser i vannets kretsløp"
+    },
+    "39": {
+        "title": "Klimaflyktninger",
+        "backDescription": "Tenk deg at du bor på et sted som mirakuløst har blitt spart fra klimaendringene. Flere milliarder mennesker vil kanskje dele dette stedet med deg.",
+        "explanation": "Klimaflyktninger"
+    },
+    "27": {
+        "title": "Marint biologisk mangfold",
+        "backDescription": "Pteropoder og kalkflagellater befinner seg nederst i havets næringkjede. Hvis de skulle forsvinne, vil det true alt marint biologisk mangfold. Økning i havtemperaturen truer også det biologiske mangfoldet i havet. ",
+        "explanation": "Marint biologisk mangfold"
+    },
+    "25": {
+        "title": "Biologisk mangfold på land",
+        "backDescription": "Dyr og planter påvirkes av temperaturendringer og forstyrrelser i vannets kretsløp. De kan migrere, bli utryddet eller, noen få ganger, spre seg.",
+        "explanation": "Biologisk mangfold på land"
+    },
+    "19": {
+        "title": "Smelting av innlandsis",
+        "backDescription": "Innlandsis er isbreer som dekker et større landområde. I dag er det kun Grønland og Antarktis som er dekket av innlandsis. Om de skulle smelte helt ville det føre til en havnivåstigning på 7 meter for Grønland og 54 meter for Antarktis. I den siste istide",
+        "explanation": "Smelting av innlandsis"
+    },
+    "18": {
+        "title": "Smelting av sjøis",
+        "backDescription": "Smelting av sjøis fører ikke til havnivåstigning (akkurat som en smeltende isbit ikke får et glass til å renne over). Men når isen smelter, blir overflaten erstattet med det mørke havet, som absorberer flere solstråler enn hvit is.",
+        "explanation": "Smelting av sjøis"
+    },
+    "21": {
+        "title": "Temperaturøkning",
+        "backDescription": "Her snakker vi om det globale gjennomsnittet av lufttemperaturen på jordens overflate. Den har økt med 1°C siden 1900. Avhengig av scenariene, temperaturøkningen kan nå mellom 2°C og 5°C innen 2100. Mot slutten av siste istid var den gjennomsnittlige temp",
+        "explanation": "Temperaturøkning"
+    },
+    "13": {
+        "title": "Forsterket drivhuseffekt",
+        "backDescription": "Drivhuseffekten er en naturlig prosess, og den viktigste naturlige klimagassen er vanndamp. Uten drivhuseffekten ville planeten vært 33°C kaldere. Men CO2 og de andre klimagassene knyttet til menneskelige aktiviteter forsterker den naturlige drivhuseffekt",
+        "explanation": "Forsterket drivhuseffekt"
+    },
+    "15": {
+        "title": "Strålingspådriv",
+        "backDescription": "Strålingspådriv måler ubalansen mellom inngående og utgående energi fra jorda hvert sekund. I IPCCs femte hovedrapport vurderes strålingspådriv til 2,3 W/m² (watt per kvadratmeter).",
+        "explanation": "Strålingspådriv"
+    },
+    "2": {
+        "title": "Industri",
+        "backDescription": "Industrien bruker fossil energi og elektrisitet. Den står for 40 % av de totale klimagassutslippene.",
+        "explanation": "Industri"
+    },
+    "35": {
+        "title": "Skogbranner",
+        "backDescription": "Skogbranner starter enklere ved tørke og hetebølger.",
+        "explanation": "Skogbranner"
+    },
+    "37": {
+        "title": "Hungersnød",
+        "backDescription": "Hungersnød kan forårsakes av nedgang i landbruksutbyttet og tap av marin biodiversitet.",
+        "explanation": "Hungersnød"
+    },
+    "31": {
+        "title": "Ferskvannsressurser",
+        "backDescription": "Ferskvannsressurser påvirkes av endringer i nedbør og av at isbreer forsvinner (isbreer regulerer vannstrømmen i flere elver).",
+        "explanation": "Ferskvannsressurser"
+    },
+    "42": {
+        "title": "Metanhydrat",
+        "backDescription": "Metanhydrat (eller metanklatrat) er en form for is som finnes på havbunnen langs kontinentale skråninger, som fanger metan. De kan bli ustabile over +2°C.   ",
+        "explanation": "Metanhydrat"
+    },
+    "33": {
+        "title": "Flom og stormflo ved kysten",
+        "backDescription": "Sykloner og værforstyrrelser gir vind (derfor bølger) og lavtrykksforhold. En endring i lufttrykket på en hectopascal vil føre til en endring i vannstanden på om lag en cm. Derfor kan sykloner forårsake stormflo, forsterket av havnivåstigning som allerede",
+        "explanation": "Flom og stormflo ved kysten"
+    },
+    "38": {
+        "title": "Helse",
+        "backDescription": "Hungersnød, endring av smittekilder, hetebølger og væpnede konflikter kan påvirke folks helse.",
+        "explanation": "Helse"
+    },
+    "28": {
+        "title": "Sykdomsvektorer",
+        "backDescription": "Dyr migrerer på grunn av global oppvarming. Noen av dem er sykdomsvektorer og kan nå områder hvor befolkningen ikke er immun mot disse sykdommene.",
+        "explanation": "Sykdomsvektorer"
+    },
+    "17": {
+        "title": "Økning i vanntemperatur ",
+        "backDescription": "Havene absorberer 93% av energien som samles opp på jorda. Ved økt temperatur ekspanderer vannet.",
+        "explanation": "Økning i vanntemperatur "
+    },
+    "32": {
+        "title": "Nedgang i avlingsutbyttet",
+        "backDescription": "Matproduksjon kan påvirkes av temperatur, tørke, ekstremvær, flom og stormflo (f.eks. Nildeltaet).",
+        "explanation": "Nedgang i avlingsutbyttet"
+    },
+    "34": {
+        "title": "Sykloner",
+        "backDescription": "Sykloner bruker energi fra varmt vann på havets overflate. De blir sterkere på grunn av global oppvarming.",
+        "explanation": "Sykloner"
+    },
+    "36": {
+        "title": "Hetebølger",
+        "backDescription": "Temperaturøkning fører blandt annet til flere hetebølger.",
+        "explanation": "Hetebølger"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost er fast frossen jord. Smelting av permafrost fører til oppløsing av organisk materiale som tidligere ble frosset under jorda. Dette slipper ut både metan og CO2 til atmosfæren. Etter 2 grader vil dette mest sannsynligvis øke og resultere i en n",
+        "explanation": "Permafrost"
+    },
+    "26": {
+        "title": "Elveflom",
+        "backDescription": "Forstyrrelser i vannets kretsløp kan føre til mer eller mindre vann. Mer vann kan føre til flom. Hvis jordoverflaten på forhånd har tørket ut på grunn av tørke, kan flommen forverres fordi vannet renner av i stedet for å trekke ned i jorda.",
+        "explanation": "Elveflom"
+    },
+    "22": {
+        "title": "Havnivåstigning",
+        "backDescription": "Siden 1900 har havnivået steget med 20 cm. Havnivåstigning skyldes varmeutvidelse (termisk ekspansjon) av havvannet, og smelting av isbreer og innlandsis:",
+        "explanation": "Havnivåstigning"
+    },
+    "3": {
+        "title": "Bruk av bygninger",
+        "backDescription": "Bygningssektoren (boliger og kommersielle bygg) bruker fossil energi og elektrisitet. Den står for 20 % av de totale klimagassutslippene.",
+        "explanation": "Bruk av bygninger"
+    },
+    "40": {
+        "title": "Væpnede konflikter",
+        "backDescription": "Denne slutten må vi unngå...",
+        "explanation": "Væpnede konflikter"
+    },
+    "24": {
+        "title": "Havforsuring",
+        "backDescription": "Når CO2 løses opp i sjøvann dannes det syreioner (H2CO3 og HCO3-). Dette fører til havforsuring (pH-verdien går ned).",
+        "explanation": "Havforsuring"
+    },
+    "9": {
+        "title": "Andre klimagasser",
+        "backDescription": "CO2 er ikke den eneste klimagassen. Blant andre er metan (CH4) og nitrogenoksid (N2O), to gasser som hovedsakelig avgis fra landbruket.",
+        "explanation": "Andre klimagasser"
+    },
+    "23": {
+        "title": "Forhindret forkalkning",
+        "backDescription": "Når pH-verdien går ned, blir dannelsen av kalsiumkarbonat (og videre produksjonen av skjell) redusert. ",
+        "explanation": "Forhindret forkalkning"
+    },
+    "1": {
+        "title": "Menneskelige aktiviteter",
+        "backDescription": "Alt starter her...",
+        "explanation": "Menneskelige aktiviteter"
+    },
+    "5": {
+        "title": "Fossile brensler",
+        "backDescription": "Fossile brensler består av kull, olje, og naturgass. De brukes hovedsakelig i bygninger, transport og industri. De avgir CO2 når de brennes. ",
+        "explanation": "Fossile brensler"
+    },
+    "7": {
+        "title": "CO2-utslipp",
+        "backDescription": "CO2 (karbondioksid) er den største menneskeskapte klimagassen når det kommer til utslipp. Disse utslippene kommer fra forbruket av fossile brensler og avskoging.",
+        "explanation": "CO2-utslipp"
+    },
+    "14": {
+        "title": "Strålingsbalanse",
+        "backDescription": "Denne grafen viser hvor energien som samles opp på kloden fra strålingspådriv havner: den varmer opp havet, smelter is, forsvinner i jorda og varmer opp atmosfæren.",
+        "explanation": "Strålingsbalanse"
+    },
+    "16": {
+        "title": "Smelting av isbreer",
+        "backDescription": "Nesten alle isbreer har mistet masse. Hundrevis av dem har allerede forsvunnet. Disse breene spiller en regulerende rolle i ferskvannsforsyningen.",
+        "explanation": "Smelting av isbreer"
+    },
+    "12": {
+        "title": "Karbonsluk",
+        "backDescription": "Halvparten av alt CO2 vi slipper ut hvert år, absorberes av karbonsluk:\n- 1/4 absorberes av vegetasjon (gjennom fotosyntese)\n- 1/4 absorberes av havet\nResten (1/2) forblir i atmosfæren.",
+        "explanation": "Karbonsluk"
+    },
+    "8": {
+        "title": "Landbruk",
+        "backDescription": "Landbruket slipper ikke ut mye CO2, men står for store metan- (fra kyr og rismarker) og nitrogenoksidutslipp (fra gjødsel). Totalt står landbruket for 25 % av klimagassutslippene hvis vi inkluderer utslippene fra avskoging til landbruksformål.",
+        "explanation": "Landbruk"
+    },
+    "6": {
+        "title": "Avskoging",
+        "backDescription": "Avskoging er nedhugging eller brenning av skog i et slikt omfang at gjenvekst av skogen reduseres eller opphøres. 80% av avskoging er knyttet til landbruk. ",
+        "explanation": "Avskoging"
+    }
+}

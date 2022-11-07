@@ -1,0 +1,212 @@
+{
+    "27": {
+        "title": "Tengeri biodiverzitás",
+        "backDescription": "A pteropódák és kokkolitofórok az óceáni tápláléklánc legalját képezik. Ebből adódóan, ha eltűnnek, a tengeri biodiverzitás egésze veszélybe kerül. A tenger biodiverzitását veszélyezteti továbbá az óceáni vizek felmelegedése is.",
+        "explanation": "Tengeri biodiverzitás"
+    },
+    "9": {
+        "title": "Egyéb üvegházhatású gázok",
+        "backDescription": "A CO2 nem az egyetlen üvegházhatású gáz. Egyebek mellett a metán (CH4) és a dinitrogén-oxid (N2O) is annak számít, melyek főként a mezőgazdasági tevékenység során kerülnek kibocsátásra.",
+        "explanation": "Egyéb üvegházhatású gázok"
+    },
+    "40": {
+        "title": "Fegyveres konfliktusok",
+        "backDescription": "Így nem szabadna hagynunk, hogy mindez végződjön…",
+        "explanation": "Fegyveres konfliktusok"
+    },
+    "15": {
+        "title": "Sugárzási kényszer",
+        "backDescription": "A sugárzási kényszer a másodpercenként a Földre érkező és a felszabaduló energia közötti (az emberek által okozott) különbséget jelenti. Ennek értékét az IPCC 5. értékelő jelentésében (Szintézis Jelentés) 2,3 W/m² -ben (Watt per négyzetméter) határozták m",
+        "explanation": "Sugárzási kényszer"
+    },
+    "2": {
+        "title": "Ipar",
+        "backDescription": "Az ipar fosszilis- és villamos energia felhasználása az üvegházhatású gázok kibocsátásának 40%-áért felel.",
+        "explanation": "Ipar"
+    },
+    "32": {
+        "title": "Mezőgazdasági hozam csökkenése",
+        "backDescription": "Az élelmiszertermelésre hatással lehet a hőmérséklet, az aszályok, a szélsőséges időjárási események, árvizek és a tengeri áradás (pl. a Nílus Delta).",
+        "explanation": "Mezőgazdasági hozam csökkenése"
+    },
+    "41": {
+        "title": "Permafroszt",
+        "backDescription": "A permafroszt állandóan fagyott talajt jelent. A permafroszt olvadása olyan szerves anyagok bomlásához vezet, melyek azelőtt fagyott állapotban voltak a talajban. A folyamat metánt és CO2-ot szabadít a légkörbe. +2°C-on túl szinte bizonyos, hogy ez a jele",
+        "explanation": "Permafroszt"
+    },
+    "1": {
+        "title": "Emberi tevékenységek",
+        "backDescription": "Így kezdődött...",
+        "explanation": "Emberi tevékenységek"
+    },
+    "39": {
+        "title": "Klímamenekültek",
+        "backDescription": "Képzeld el, hogy olyan helyen élsz, amit csoda folytán elkerült a klímaváltozás. Lehetséges, hogy több milliárd ember szeretne osztozni veled a lakóhelyeden.",
+        "explanation": "Klímamenekültek"
+    },
+    "29": {
+        "title": "Pteropódák és kokkolitofórák",
+        "backDescription": "A pteropódák zooplanktonfélék, a kokkolitofórák fitoplanktonfélék, melyeknek meszes héjuk van.",
+        "explanation": "Pteropódák és kokkolitofórák"
+    },
+    "8": {
+        "title": "Mezőgazdaság",
+        "backDescription": "A mezőgazdaság CO2-kibocsátása nem kimagasló, viszont (a tehéntartás és a rizsföldek miatt) nagymennyiségű metánkibocsátásért és (a trágyázás miatt) nitrogén-oxid kibocsátásért felelős. Összeségében a mezőgazdaság, az erdőírtást is beleértve, az üvegházha",
+        "explanation": "Mezőgazdaság"
+    },
+    "21": {
+        "title": "Hőmérséklet-emelkedés",
+        "backDescription": "Itt a Föld földfelszín feletti átlaghőmérsékletére utalunk. Ez 1°C-al emelkedett 1900 óta. A különböző forgatókönyvektől függően, a hőmérséklet-emelkedés elérheti a 2 illetve 5°C-ot 2100-ig. Az utolsó jégkorszak végén az átlaghőmérséklet 5°C-al alacsonyab",
+        "explanation": "Hőmérséklet-emelkedés"
+    },
+    "35": {
+        "title": "Erdőtüzek",
+        "backDescription": "Az erdőtüzek aszályok és hőhullámok idején könnyebben alakulnak ki.",
+        "explanation": "Erdőtüzek"
+    },
+    "37": {
+        "title": "Éhínségek",
+        "backDescription": "Az éhínséget okozhatja az alacsonyabb mezőgazdasági terméshozam és a tengeri biodiverzitás csökkenése.",
+        "explanation": "Éhínségek"
+    },
+    "14": {
+        "title": "Energia mérleg",
+        "backDescription": "Ez a grafikon azt magyarázza el, hogy a Földön a sugárzási kényszer hatására felhalmozódott energia hol jelenik meg: felmelegíti az óceánt, megolvasztja a jeget, szétoszlik a talajban és felmelegíti a légkört.",
+        "explanation": "Energia mérleg"
+    },
+    "28": {
+        "title": "Betegségek vektorai",
+        "backDescription": "A globális felmelegedés miatt az állatok vándorolnak. Némelyikük kórokozókat hordoz magával és olyan területeket is elérhet, ahol a lakosság nem immunis az adott kórokozóval szemben.",
+        "explanation": "Betegségek vektorai"
+    },
+    "12": {
+        "title": "Szénelnyelők",
+        "backDescription": "Az általunk évente kibocsátott CO2 felét szénelnyelők kötik meg:\n - 1/4-ét a vegetáció (fotoszintézisen keresztül)\n - 1/4-ét az ócán \n A megmaradó másik fele (1/2) a légkörben marad.",
+        "explanation": "Szénelnyelők"
+    },
+    "4": {
+        "title": "Közlekedés",
+        "backDescription": "A közlekedési szektor erős kőolajfüggőségével az üvegházhatású gázok kibocsátásának 15%-áért felel.",
+        "explanation": "Közlekedés"
+    },
+    "18": {
+        "title": "Tengeri jég olvadása",
+        "backDescription": "A tengeri jég olvadásától a tengerszint nem emelkedik (épp úgy, ahogy egy jégkockától sem csordul túl a víz a poháron).\n Ugyanakkor, ahogy a jég olvad, utat enged a sokkal sötétebb színű tengervíznek, amely sokkal több napsugarat fog elnyelni, mint a fehé",
+        "explanation": "Tengeri jég olvadása"
+    },
+    "25": {
+        "title": "Szárazföldi biodiverzitás",
+        "backDescription": "A hőmérséklet-változás és a vízkörforgás zavara hatással van a növény- és állatvilágra. Egyes fajokat migrációra késztethet, a kihalásukat okozhatja vagy ritka esetben fokozhatja a szaporodásukat.",
+        "explanation": "Szárazföldi biodiverzitás"
+    },
+    "34": {
+        "title": "Ciklonok",
+        "backDescription": "A ciklonok az óceán felszínéhez közeli meleg vízrétegek energiáját hasznosítják. A globális felmelegedés miatt egyre erősebbé válnak.",
+        "explanation": "Ciklonok"
+    },
+    "7": {
+        "title": "CO2-kibocsátás",
+        "backDescription": "A CO2 (vagy szén-dioxid) kibocsátását tekintve az elsőszámú antropogén (emberi tevékenységhez kapcsolódó) üvegházhatású gáz. A kibocsátás a fosszilis energiahordozók elégetéséből és az erdőírtásból ered.",
+        "explanation": "CO2-kibocsátás"
+    },
+    "31": {
+        "title": "Édesvízi források",
+        "backDescription": "Az édesvíz forrásaira hatással van az esőzések változása és a folyók vízhozamát szabályozó gleccserek eltűnése.",
+        "explanation": "Édesvízi források"
+    },
+    "33": {
+        "title": "Tengeri áradás",
+        "backDescription": "A ciklonok és időjárási zavarok szelet (és ezáltal hullámokat) és alacsony légnyomási körülményeket hoznak. 1 hektopaszkál légnyomás-csökkenés 1 cm tengerszint-emelkedést jelent. Ebből fakadóan a ciklonok tengeri áradáshoz (vagy parti áradáshoz) vezethetn",
+        "explanation": "Tengeri áradás"
+    },
+    "22": {
+        "title": "Tengerszint-emelkedés",
+        "backDescription": "1900 óta a világtenger szintje 20 cm-t emelkedett. A tengerszint-emelkedést a víz hőtágulása és a gleccserek és jégtakarók olvadása okozza.",
+        "explanation": "Tengerszint-emelkedés"
+    },
+    "6": {
+        "title": "Erdőírtás",
+        "backDescription": "Az erdőírtás során a fák kivágása és elégetése olyan mértékű, ami az erdő megújulási képességén túlmutat. Az erdőírtás 80%-a mezőgazdasági tevékenységhez kapcsolódik.",
+        "explanation": "Erdőírtás"
+    },
+    "17": {
+        "title": "Vízhőmérséklet-emelkedés",
+        "backDescription": "Az óceánok a Földön felhalmozódott energia 93%-át elnyelik. Ennek köszönhetően hőmérsékletük emelkedik, különösképpen a felső rétegekben. A víz ahogy melegszik, úgy tágul.",
+        "explanation": "Vízhőmérséklet-emelkedés"
+    },
+    "24": {
+        "title": "Óceánok savasodása",
+        "backDescription": "Amikor a CO2 feloldódik az óceánban, savas ionvegyületekké (H2CO3: szénsav és HCO3-: hidrogén-karbonát) alakul. Ezen átalakulás következménye az óceánok savasodása (a pH csökken).",
+        "explanation": "Óceánok savasodása"
+    },
+    "13": {
+        "title": "További üvegházhatás",
+        "backDescription": "Az üvegházhatás természetes jelenség (az elsőszámú üvegházhatású gáz a vízpára). Üvegházhatás nélkül a Föld 33°C-al lenne hidegebb és az élet a ma ismert formájában nem lenne lehetséges. De az emberi tevékenységhez köthető CO2 és más üvegházhatású gázok k",
+        "explanation": "További üvegházhatás"
+    },
+    "30": {
+        "title": "Aszályok",
+        "backDescription": "A vízkörforgás zavara csökkentheti vagy növelheti a rendszerben jelen levő vízmennyiséget. Kisebb vízmennyiség aszályokhoz vezet, melyek valószínűleg egyre gyakoribbá válnak a jövőben.",
+        "explanation": "Aszályok"
+    },
+    "19": {
+        "title": "Jégtakaró olvadása",
+        "backDescription": "Szárazföldi jég (vagy jégtakaró) Grönlandon és az Antarktiszon található. Ha teljesen elolvadnak, Grönland 7 méterrel, az Antarktisz 54 méterrel emelné meg az óceán vízszintjét.",
+        "explanation": "Jégtakaró olvadása"
+    },
+    "10": {
+        "title": "Aeroszolok",
+        "backDescription": "Semmi közük az aeroszolos flakonokhoz. Az aeroszolok a helyi szennyezés egy bizonyos típusa, mely a fosszilis energiahordozók tökéletlen égése során keletkezik. Az emberi egészségre ártalmasak és negatívan járulnak hozzá a sugárzási kényszerhez (hűtik a k",
+        "explanation": "Aeroszolok"
+    },
+    "26": {
+        "title": "Árvizek",
+        "backDescription": "A vízkörforgás zavara csökkentheti vagy növelheti a rendszerben jelen levő vízmennyiséget. Nagyobb vízmennyiség a folyók áradásához vezethet. Ha a talaj ki van száradva, a károk még nagyobbak lesznek, mivel a víz egyszerűen elfolyik.",
+        "explanation": "Árvizek"
+    },
+    "36": {
+        "title": "Hőhullámok",
+        "backDescription": "A hőmérséklet-emelkedés egyik velejárója, hogy a hőhullámok gyakoribbá válnak.",
+        "explanation": "Hőhullámok"
+    },
+    "11": {
+        "title": "CO2 koncentráció (ppm)",
+        "backDescription": "Körülbelül a CO2-kibocsátás felét természetes szénelnyelők kötik meg, a másik fele a légkörben marad. A légköri CO2 koncentráció 280 ppm-ről (parts per million=az egy milliomod része) 410 ppm-re emelkedett 150 év alatt.",
+        "explanation": "CO2 koncentráció (ppm)"
+    },
+    "42": {
+        "title": "Metán-hidrátok",
+        "backDescription": "A metán-hidrátok (vagy metán-klatrátok) a jég egy formái az óceánfenéken, a kontinentális lejtők mentén, melyek csapdába ejtik a metánmolekulákat. +2°C felett instabillá válnak.",
+        "explanation": "Metán-hidrátok"
+    },
+    "16": {
+        "title": "Gleccserolvadás",
+        "backDescription": "Majdnem minden gleccser veszített a tömegéből. Közülük több száz már teljesen eltűnt. A gleccserek szabályozó szerepet töltenek be az édesvíz biztosításában.",
+        "explanation": "Gleccserolvadás"
+    },
+    "20": {
+        "title": "Vízkörforgás zavara",
+        "backDescription": "Ahogy az óceánok és a légkör felmelegszik, úgy az óceánok felszínéről történő párolgás mértéke is növekszik. Ez fokozottabb felhőképződéshez és esőhöz vezet. Ha a párolgás a szárazföld felett történik, a talaj kiszárad.",
+        "explanation": "Vízkörforgás zavara"
+    },
+    "38": {
+        "title": "Emberi egészség",
+        "backDescription": "Az éhínségek, a betegség-vektorok térbeli elmozdulása, a hőhullámok és fegyveres konfliktusok mind hatással lehetnek az emberi egészségre.",
+        "explanation": "Emberi egészség"
+    },
+    "3": {
+        "title": "Épülethasználat",
+        "backDescription": "Az építési szektor (lakhatási és kereskedelmi használat) fosszilis- és villamos energia felhasználása az üvegházhatású gázok kibocsátásának 20%-áért felel.",
+        "explanation": "Épülethasználat"
+    },
+    "23": {
+        "title": "Akadályozott kalcifikáció",
+        "backDescription": "Amikor a pH csökken, a kálcium-karbonát (különösképpen a meszes kagylóhéjak) képződése nehezebbé válik.",
+        "explanation": "Akadályozott kalcifikáció"
+    },
+    "5": {
+        "title": "Fosszilis energiahordozók",
+        "backDescription": "Fosszilis energiahordozónak számít a kőszén, a kőolaj és a földgáz. Ezek nagy részben az iparban, az építési- és közlekedési szektorban kerülnek felhasználásra. Elégetésük CO2-kibocsátással jár.",
+        "explanation": "Fosszilis energiahordozók"
+    }
+}

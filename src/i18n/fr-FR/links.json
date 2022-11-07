@@ -1,0 +1,449 @@
+{
+    "1_2": {
+        "explanation": ""
+    },
+    "1_3": {
+        "explanation": ""
+    },
+    "1_4": {
+        "explanation": ""
+    },
+    "1_6": {
+        "explanation": "La déforestation peut être considérée comme une activité humaine ou comme une conséquence de l'agriculture ou les deux."
+    },
+    "1_8": {
+        "explanation": ""
+    },
+    "1_25": {
+        "explanation": "L'être humain occupe presque tout l'espace disponible sur terre, ne laissant aucune place aux animaux et aux plantes. C'est ce qu'on appelle la disparition des habitats naturels et c'est la principale cause de perte de biodiversité aujourd'hui, bien devant les causes climatiques."
+    },
+    "1_27": {
+        "explanation": "Par ce lien, on exprime toutes les dégradations que l'Homme est capable d'infliger à la vie marine comme la pollution au plastique et la surpêche. C'est hors-sujet par rapport au changement climatique, mais c'est intéressant de faire le lien quand même et l'occasion d'évoquer la Fresque Océane. Si on parle a un public âgé, on peut par exemple parler de la taille des boites de sardines qui a diminué car elles n'ont plus le temps de grandir avant d'être pêchées. Le phénomène est aggravé par le réchauffement de l'eau qui réduit l'apport en plancton."
+    },
+    "2_5": {
+        "explanation": ""
+    },
+    "2_6": {
+        "explanation": "Ce lien est possible pour les industries qui consomment du bois. Cependant, il faut faire attention, du bois utilisé par une usine dans une forêt gérée durablement n'est pas considéré comme de la déforestation."
+    },
+    "2_9": {
+        "explanation": "En réalité, l'industrie est responsable d'autant d'émissions de méthanes que l'agriculture à cause des émissions fugitives (les fuites de gaz naturels dans les pipelines). C'est un point qui est peu connu, donc cette relation n'est pas considérée comme incontournable. L'industrie émet également des HFC (fluides réfrigérants)."
+    },
+    "2_10": {
+        "explanation": ""
+    },
+    "3_5": {
+        "explanation": ""
+    },
+    "3_6": {
+        "explanation": "On pourrait dire que le chauffage au bois des bâtiments est responsable de déforestation mais ce n'est pas significatif. On pourrait dire que l'espace utilisé pour les bâtiments pousse à la déforestation mais ce n'est pas le même ordre de grandeur. L'agriculture est la cause principale de la déforestation bien avant les bâtiments."
+    },
+    "3_10": {
+        "explanation": "Les bâtiments émettent peu d'aérosols de manière directe. Les seules émissions significatives sont les feux de cheminée. A Chamonix, 85% des particules fines présentes dans l'atmosphère proviennent de chauffage au bois. De manière indirecte, via la production d'électricité, il y a bien émissions de particules."
+    },
+    "3_26": {
+        "explanation": "L'artificialisation des sols est également responsable d'inondations car le sol n'est plus drainant."
+    },
+    "4_5": {
+        "explanation": ""
+    },
+    "4_6": {
+        "explanation": "La construction de route nécessite parfois de déforester, mais l'aspect unidimensionnelle de la route la rend quasiment négligeable devant la déforestation lié à l'agriculture."
+    },
+    "4_10": {
+        "explanation": "La pollution locale que représentent les échappements des voitures est une motivation forte pour pousser la voiture électrique. Or cette dernière est responsable d'émissions dues à la génération de l'électricité elle-même (selon le mix électrique du pays considéré)."
+    },
+    "5_1": {
+        "explanation": "On peut se demander si les activités humaines consomment des énergies fossiles ou si les énergies fossiles permettent les activités humaines. Ce débat ne doit pas prendre de temps et on peut regrouper les deux cartes au besoin. Quand je chante dans mon jardin, je réalise une activité humaine sans énergie fossile. Quand les moulins à vent ou à eau produisaient de la farine, ils n'utilisaient pas d'énergie fossile. Il reste, heureusement de nombreuses activités humaines sans énergie fossile."
+    },
+    "5_2": {
+        "explanation": "voir 5=>1"
+    },
+    "5_3": {
+        "explanation": "voir 5=>1"
+    },
+    "5_4": {
+        "explanation": "voir 5=>1"
+    },
+    "5_7": {
+        "explanation": "C'est écrit sur la carte 7 !"
+    },
+    "5_25": {
+        "explanation": "L'amoco-cadiz "
+    },
+    "5_27": {
+        "explanation": "La marée noire qu'a provoqué le naufrage du supertanker l'Amoco Cadiz est un exemple de lien entre énergie fossile et biodiversité."
+    },
+    "5_40": {
+        "explanation": "Bien que des conflits peuvent avoir lieu à cause des ressources, ce n'est pas directement causé par une perturbation du climat, mais bien par un appauvrissement des ressources. La relation peut-être faite, mais elle est plus politique que climatique."
+    },
+    "6_7": {
+        "explanation": "La déforestation émet du CO2 car 93% du bois déforesté par l'homme est brûlé."
+    },
+    "6_12": {
+        "explanation": "Les participants pensent souvent que la déforestation réduit les puits de carbone. En réalité, l'impact est minime car les zones déforestées représentent une toute petite partie de la surface totale de forêt. De plus, une forêt à l'équilibre n'absorbe plus de carbone. Or, on déforeste souvent des forêts à l'équilibre, ce qui n'impacte pas les puits de carbone. Par contre le CO2 dégagé est très important."
+    },
+    "6_20": {
+        "explanation": "La déforestation peut avoir des conséquences locales sur le régime des pluies."
+    },
+    "6_26": {
+        "explanation": "La végétation retient l'eau. Si on la coupe, cela facilite les crues."
+    },
+    "6_30": {
+        "explanation": "La déforestation peut être la cause directe de sécheresses car les arbres stockent beaucoup d'eau. Si on les coupe, ils ne jouent plus ce rôle de régulateurs de l'humidité."
+    },
+    "7_11": {
+        "explanation": "Il faut plutôt faire un lien via la carte 12 Puits de Carbone."
+    },
+    "7_12": {
+        "explanation": "Les deux cartes se mettent bord à bord pour faire un même graphique. \nC'est ce qu'il faut réussir à leur faire trouver : \n- Regardez la carte 12. Qu'est-ce que vous voyez de bizarre ? \n- c'est écrit à l'envers !\n- exactement. C'est une énigme à résoudre. La solution est sur la table."
+    },
+    "7_24": {
+        "explanation": "Il faut plutôt faire un lien via la carte 12 Puits de Carbone."
+    },
+    "8_5": {
+        "explanation": "L'agriculture n'utilise pas beaucoup d'énergies fossiles. Tout juste un peu d'essence pour mettre dans les tracteurs. Attention, ça ne veut pas dire qu'elle n'a pas une empreinte carbone importante, mais c'est surtout du méthane et du protoxyde d'azote (lire les cartes 8 et 9)."
+    },
+    "8_6": {
+        "explanation": "La déforestation est liée à 80% à l'agriculture, donc oui. Elle peut être considérée comme une activité humaine ou comme une conséquence de l'agriculture ou les deux."
+    },
+    "8_7": {
+        "explanation": "L'agriculture émet peu de CO2 à part à travers la déforestation. Son empreinte carbone est surtout dûe aux autres GES."
+    },
+    "8_9": {
+        "explanation": "Les images en fond de carte n°9 devraient les mettre sur la voie !"
+    },
+    "8_10": {
+        "explanation": "Dans l'absolu, c'est vrai : les épandages font des aérosols qui entrent en ligne de compte dans les pollutions locales aux alentours, mais c'est beaucoup moins important que la combustion incomplète des centrales thermiques."
+    },
+    "8_12": {
+        "explanation": "Ce n'est pas grave si ce lien n'est pas fait, mais il est vrai que l'agriculture peut améliorer la capacité de stockage via la photosynthèse. C'est le principe des 4 pour 1000 (si on augmentait ne serait-ce que de 4/1000 la capacité du sol à séquestrer du carbone, on aurait un impact important sur le CO2)."
+    },
+    "8_25": {
+        "explanation": "On pense ici surtout aux pesticides (notamment au round-up ou aux néonicotinoïdes). Pas de lien avec le climat, mais relation intéressante à faire."
+    },
+    "9_13": {
+        "explanation": "Le E et le S de la carte 'Autres GES' sont à mettre en lien avec Effet de Serre."
+    },
+    "10_15": {
+        "explanation": "Ce qui est expliqué au dos de la carte 10 et dans la nouvelle version de la carte 15 (> oct 2018) : Les aérosols refroidissent le climat. Voir les fiches thématiques sur les aérosols et sur le forçage radiatif."
+    },
+    "10_38": {
+        "explanation": "Bien que les aérosols ne soient pas les seuls à rentrer dans la catégorie \"Particule fines\", chaque année, 391 000 personnes dans les pays de l'UE décèdent de la pollution de l'air, et elle cause 1.1 millions décès prématurés en Inde et en Chine."
+    },
+    "11_12": {
+        "explanation": "On peut argumenter que les émissions de CO2 ont eu lieu dans l'atmosphère avant d'aller dans les puits de carbones. Ce lien est défendable. Mais l'idée était plutôt de faire un lien dans l'autre sens."
+    },
+    "11_13": {
+        "explanation": ""
+    },
+    "11_24": {
+        "explanation": "On retrouve souvent comme origine de cette carte concentration en CO2 (ppm). Or toute molécule qui se retrouve dans l'océan ne se retrouve pas dans l'atmosphère, et donc le lien le plus logique provient de la carte puits de carbone."
+    },
+    "12_11": {
+        "explanation": "La carte 11, c'est la concentration en CO2, sous-entendu \"dans l'atmosphère\" (qui est écrit sur la carte 12)."
+    },
+    "12_14": {
+        "explanation": "Le but n'est pas ici de dire qu'il n'y a pas de lien de cause à effet entre ces deux cartes, mais d'alerter sur le risque de les confondre. La première (Puits de carbone), nous dit où va le carbone. La deuxième (Budget énergétique) nous dit où va l'énergie en excès sur la Terre. Les deux notions sont proches (dans les deux cas, c'est un dispatching), mais ne concernent pas la même chose : d'un côté, le carbone, de l'autre, l'énergie. Ce qui contribue encore plus à faire la confusion, c'est que l'atmosphère et l'océan sont présents des deux côtés."
+    },
+    "12_24": {
+        "explanation": "Le mot \"Océan\" est écrit des deux côtés."
+    },
+    "12_32": {
+        "explanation": "Des études ont montré que les rendements augmentent avec de l'augmentation du CO2, mais que la teneur en éléments nutritifs des légumes s'en trouve réduite. En effet, les oligo-éléments ne sont pas plus abondants sous prétexte que les rendements augmentent."
+    },
+    "13_15": {
+        "explanation": "Le mot Effet de serre est écrit des deux cotés."
+    },
+    "13_21": {
+        "explanation": "Dans le cas de la version simplifiée, on fait un lien directement entre la carte 13 et la carte 21 qui change alors de rôle et devient la température de la terre et non plus de l'atmosphère uniquement. \nLa définition de la température de la terre, c'est justement la température de l'air, au niveau du sol, en moyenne sur la surface de la terre."
+    },
+    "14_16": {
+        "explanation": ""
+    },
+    "14_17": {
+        "explanation": ""
+    },
+    "14_18": {
+        "explanation": ""
+    },
+    "14_19": {
+        "explanation": ""
+    },
+    "14_21": {
+        "explanation": "Il est précisé au dos de la carte qu'il s'agit de la température de l'air."
+    },
+    "14_41": {
+        "explanation": "Si l'on veut rester dans la même logique de conservation de l'énergie, il faudrait faire le lien de fonte à partir de bilan énergétique. Cependant pour des raisons pratiques, on peut préférer faire le lien à partir de la hausse de la température."
+    },
+    "15_14": {
+        "explanation": "Le texte au verso de la carte 14 ne laisse place à aucune ambiguïté. C'est pour cette raison qu'il faut supprimer ces deux cartes en même temps si on veut avoir une version simplifiée."
+    },
+    "16_22": {
+        "explanation": "Une fonte de 100 gigatonnes de glace par an équivaut à environ 0,28 mm par an d’élévation du niveau moyen des mers. Ainsi l'élévation du niveau de la mer est liée de 15 à 35% à la fonte des glaciers, selon les scénarios du GIEC. Le reste est liée de 30% à 35% à la dilatation de l'eau, ainsi qu'à la fonte des calottes glaciaires."
+    },
+    "16_26": {
+        "explanation": "Il est possible, dans certaines circonstances de forte chaleur, que la fonte trop rapide des glaciers provoque des crues. Mais le vrai sujet de préoccupation à propos des ces glaciers, c'est le fait qu'ils disparaissent progressivement, privant l'irrigation en aval d'un appoint d'eau en été."
+    },
+    "16_31": {
+        "explanation": "La fonte des glaciers menace l'approvisionnement en eau. En effet, l'importance relative des eaux de fonte des glaciers en été peut être considérable, contribuant par exemple à 25% des débits d'août dans les bassins drainant les Alpes européennes, avec une superficie d'environ 105 km2 et seulement 1% de couverture glaciaire. Leur disparition pourrait être catastrophique pour des villes situées dans les vallées arrosées par les rivières descendant des montagnes environnantes et pour la faune d'eau douce. L'eau de fonte des glaciers augmente également en importance pendant les sécheresses et les vagues de chaleur."
+    },
+    "17_20": {
+        "explanation": ""
+    },
+    "17_22": {
+        "explanation": ""
+    },
+    "17_24": {
+        "explanation": "La hausse de la température de l'eau n'a aucun lien avec l'acidification de l'océan, du moins à court terme. A plus long terme (sur plusieurs centaines d'années), en se réchauffant, l'océan perd sa capacité à dissoudre le CO2 atmosphérique. Le puits océan perd donc de son efficacité au fur et à mesure que l'océan se réchauffe. La hausse de la température de l'eau a donc un effet sur l'acidification, inhibiteur en l'occurrence."
+    },
+    "17_27": {
+        "explanation": ""
+    },
+    "17_34": {
+        "explanation": ""
+    },
+    "18_13": {
+        "explanation": "Il y a ici confusion avec l’effet d’amplification dû à l’albédo. La banquise blanche qui fond laisse place à une surface beaucoup plus foncée et l'énergie absorbée réchauffe la terre. Ce mécanisme est appelé albédo et n’a rien à voir avec l’effet de serre. Ça joue sur les flèches oranges de la carte 13 et non sur les flèches rouges."
+    },
+    "18_15": {
+        "explanation": "Quand la banquise fond, une surface blanche est remplacé par une surface bleu marine, qui à un albédo plus faible, donc absorbe plus d'énergie. Cette relation n'est pas indispensable mais permet de mettre en avant une autre boucle de rétroaction du jeu."
+    },
+    "18_20": {
+        "explanation": "La fonte de la banquise arctique, mais également la fonte des glaciers du Groenland peuvent amener, dans un futur lointain, à perturber la circulation thermohaline (qui donne le Gulf Stream). Mais attention, la carte \"cycle de l'eau\" ne fait pas du tout référence à la Circulation thermohaline."
+    },
+    "18_22": {
+        "explanation": "C'est le piège qui est tendu aux participants dans le lot N°1. \nPour cela, ne les incitez pas tout de suite à lire de verso des cartes, mais attendez qu'ils les aient placées avant de leur proposer de les lire."
+    },
+    "18_25": {
+        "explanation": "Eh oui, le pauvre ours polaire, emblématique du changement climatique... Il ne s’agit pas d’un phénomène tellement significatif sur l'équilibre de la biodiversité terrestre, mais si les participants font ce lien, proposez-leur de dessiner un ours! ;-)."
+    },
+    "18_27": {
+        "explanation": "Il va forcément y avoir un impact..."
+    },
+    "19_22": {
+        "explanation": ""
+    },
+    "19_42": {
+        "explanation": "C'est l'apport en eau douce en provenance du Groenland qui menace de ralentir la circulation thermohaline."
+    },
+    "20_19": {
+        "explanation": "C'est très technique, mais si on est pointilleux, la partie bleue du graphique de la carte 19 concernant l'Antarctique représente un gain de masse dû à une augmentation des précipitations. Les parties rouges représentent une perte de masse. Au total, l'Antarctique perd de la masse."
+    },
+    "20_22": {
+        "explanation": "Eh non, plus de pluie ne va pas faire déborder l'océan ! Il est assez rare de voir ce lien, mais on ne sait jamais. Si c'est le cas, demandez aux participants d'où vient la pluie, ou encore d'où viennent les nuages..."
+    },
+    "20_25": {
+        "explanation": ""
+    },
+    "20_26": {
+        "explanation": ""
+    },
+    "20_28": {
+        "explanation": "La carte vecteurs de maladie est en général reliée à la carte Biodiversité terrestre car les vecteurs de maladie sont une sous-partie de la biodiversité, mais on peut aussi la relier aux mêmes causes que la carte biodiversité, c’est-à-dire perturbation du cycle de l'eau et hausse de la température."
+    },
+    "20_30": {
+        "explanation": "Le manque de pluie et l’évaporation sont les causes de sécheresses. Dans les deux cas, c’est la perturbation du cycle de l’eau qui est en cause."
+    },
+    "20_33": {
+        "explanation": "Dans les phénomènes de submersion, la baisse de pression atmosphérique joue un rôle important. Ces dépressions sont une manifestation de la perturbation du cycle de l'eau."
+    },
+    "20_34": {
+        "explanation": "On peut considérer les cyclones comme une manifestation de la perturbation du cycle de l'eau."
+    },
+    "21_16": {
+        "explanation": "Oui, dans la version simplifiée."
+    },
+    "21_17": {
+        "explanation": "Oui, dans la version simplifiée."
+    },
+    "21_18": {
+        "explanation": "Oui, dans la version simplifiée."
+    },
+    "21_19": {
+        "explanation": "Oui, dans la version simplifiée."
+    },
+    "21_20": {
+        "explanation": "La hausse de la température sur terre augmente l'évaporation et perturbe le cycle de l'eau. D'ailleurs, autrefois, on parlait de réchauffement climatique (Global Warming) et aujourd'hui, on parle de changement climatique (Climate Change), voire de dérèglement climatique. Ce shift dans le vocabulaire est matérialisé par cette relation qui a donc une importance fondamentale. N'hésitez pas à faire une remarque sur ce point aux équipes."
+    },
+    "21_25": {
+        "explanation": ""
+    },
+    "21_28": {
+        "explanation": "La carte vecteurs de maladie est en général reliée à la carte Biodiversité terrestre car les vecteurs de maladie sont une sous-partie de la biodiversité, mais on peut aussi la relier aux mêmes causes que la carte biodiversité, c’est-à-dire perturbation du cycle de l'eau et hausse de la température."
+    },
+    "21_32": {
+        "explanation": "Dans les pays du Nord, une hausse de la température peut améliorer les rendements. Dans les pays du Sud, c'est le contraire : la moindre augmentation de température se traduit par une baisse de rendement."
+    },
+    "21_36": {
+        "explanation": ""
+    },
+    "21_38": {
+        "explanation": ""
+    },
+    "21_41": {
+        "explanation": "Si l'on veut rester dans la même logique de conservation de l'énergie, il faudrait faire le lien de fonte à partir de budget énergétique."
+    },
+    "22_33": {
+        "explanation": ""
+    },
+    "23_27": {
+        "explanation": "Les problèmes de calcification ne concernent pas seulement les ptéropodes et les coccolithophores. Ils peuvent aussi impacter le corail par exemple. Donc ce lien est tout à fait acceptable."
+    },
+    "23_29": {
+        "explanation": ""
+    },
+    "24_23": {
+        "explanation": ""
+    },
+    "25_8": {
+        "explanation": "Il serait plus logique de faire un lien vers les rendements agricoles."
+    },
+    "25_28": {
+        "explanation": "Il faut voir les vecteurs de maladie comme un sous-ensemble de la biodiversité terrestre."
+    },
+    "25_32": {
+        "explanation": "Les abeilles et les vers de terre, pour ne citer qu'eux, sont indispensables à l'agriculture."
+    },
+    "26_28": {
+        "explanation": "Attention aux associations d'idées : Crues / marécages / moustiques... Les crues peuvent amener des situations sanitaires dégradées, mais ce n'est pas de cela qu'on parle quand on évoque les vecteurs de maladie qui se déplacent à cause du changement climatique."
+    },
+    "26_31": {
+        "explanation": "TODO"
+    },
+    "26_32": {
+        "explanation": ""
+    },
+    "26_33": {
+        "explanation": "Ne pas confondre 'Crues' et 'Submersions'. Les crues, ce sont les rivières / fleuves qui débordent (c'est de l'eau douce). Les submersions, c'est la mer qui entre dans les terres (c'est de l'eau salée)."
+    },
+    "26_38": {
+        "explanation": "Les crues amènent souvent des problèmes sanitaires graves : les égouts débordent, le choléra menace."
+    },
+    "27_37": {
+        "explanation": "Oui, à cause de la pêche..."
+    },
+    "28_38": {
+        "explanation": ""
+    },
+    "29_27": {
+        "explanation": ""
+    },
+    "30_12": {
+        "explanation": "Si la pénurie de précipitations se produit au cours de la période de croissance de la végétation, il y a alors une diminution de la photosynthèse et donc une diminution de la capacité du puits de carbone. En Europe, en 2018, les puits de carbone ont baissé de 18 %."
+    },
+    "30_26": {
+        "explanation": "Voir la carte 26 : Si le sol a été durci par une sécheresse, c'est pire car l'eau ruisselle."
+    },
+    "30_31": {
+        "explanation": ""
+    },
+    "30_32": {
+        "explanation": ""
+    },
+    "30_35": {
+        "explanation": ""
+    },
+    "31_32": {
+        "explanation": ""
+    },
+    "31_37": {
+        "explanation": "Si l'on considère qu'une famine n'est pas seulement un manque de nourriture mais également un manque d'eau."
+    },
+    "31_40": {
+        "explanation": ""
+    },
+    "32_8": {
+        "explanation": "Effectivement, la baisse des rendements agricoles affecte l'agriculture. Mais la carte agriculture est plutôt là pour incarner les causes des émissions de GES."
+    },
+    "32_37": {
+        "explanation": ""
+    },
+    "32_39": {
+        "explanation": ""
+    },
+    "33_31": {
+        "explanation": "Si l'eau de mer monte, elle peut pénétrer les nappes phréatiques qui sont des réserves d'eau douce."
+    },
+    "33_32": {
+        "explanation": ""
+    },
+    "33_39": {
+        "explanation": ""
+    },
+    "34_32": {
+        "explanation": ""
+    },
+    "34_33": {
+        "explanation": ""
+    },
+    "34_38": {
+        "explanation": ""
+    },
+    "35_6": {
+        "explanation": "Une partie de la déforestation est faite en brûlant la forêt qui peut ensuite dégénérer en feu non-maîtrisé. C'est ce qu'il s'est passé pendant l'été 2019 en Amazonie et en Australie."
+    },
+    "35_10": {
+        "explanation": "Les analyses par satellite montrent dans les fumées des quantités de particules toxiques qui posent des problèmes de santé publique."
+    },
+    "35_25": {
+        "explanation": "Cela reste un élément mineur. Sauf sur des hotspots particuliers de biodiversité."
+    },
+    "35_32": {
+        "explanation": "En général, ce qui brûle bien, c'est la forêt, pas les champs de blé."
+    },
+    "35_38": {
+        "explanation": "630 disparus suite aux incendies en Californie à l'automne 2018."
+    },
+    "36_30": {
+        "explanation": "Une canicule, c'est la température. Une sécheresse, c'est l'humidité. Ceci étant dit, si il fait chaud, l'eau s'évapore et cela peut entraîner une sécheresse. Les deux vont de fait souvent ensemble."
+    },
+    "36_35": {
+        "explanation": ""
+    },
+    "36_38": {
+        "explanation": "Les canicules peuvent être dévastatrices, notamment chez les personnes âgées."
+    },
+    "37_38": {
+        "explanation": ""
+    },
+    "37_39": {
+        "explanation": ""
+    },
+    "37_40": {
+        "explanation": ""
+    },
+    "39_38": {
+        "explanation": "Lorsque les réfugiés se déplacent, ils se retrouvent souvent placés dans des camps \"de réfugiés\" dans lesquels la concentration humaine et le manque d'infrastructures sanitaires favorisent l'apparition et la circulation des vecteurs de maladie."
+    },
+    "39_40": {
+        "explanation": ""
+    },
+    "40_1": {
+        "explanation": "C'est \"la boucle du club de Rome\" ! Tout cela finira bien par se réguler, mais pas forcément de manière soft. Les participants font souvent ce lien, et proposent parfois de faire un rouleau avec la fresque pour mettre bord à bord la fin et le début. D'ailleurs, il est intéressant de remarquer qu'il y a des humains dans les cartes du début et celles de la fin, mais pas au milieu."
+    },
+    "40_5": {
+        "explanation": "C'est vrai, les conflits armés sont souvent dûs aux énergies fossiles. Mais la relation est plutôt dans l'autre sens."
+    },
+    "40_38": {
+        "explanation": "Les conflits armés dégradent les infrastructures et réduisent l'accès aux biens de premières nécessité (nourriture, eau, ...)"
+    },
+    "40_39": {
+        "explanation": "Les populations locales fuient les zones de combat et migrent pour retrouver la sécurité et le confort minimum"
+    },
+    "41_9": {
+        "explanation": ""
+    },
+    "41_13": {
+        "explanation": "On peut relier directement les feedback liés au Méthane à la carte Autres GES ou à la carte Effet de Serre. En effet, la carte des autres GES représente les GES d'origine humaine, alors qu'ici, il s'agit de GES qui ne sont pas émis directement par l'homme."
+    },
+    "42_12": {
+        "explanation": "Le CO2 est absorbé à la surface de l'océan. La circulation thermohaline a pour effet de mélanger l'eau de surface et l'océan profond, ce qui est indispensable à l'absorption du CO2 par l'océan."
+    },
+    "42_14": {
+        "explanation": "La circulation thermohaline a pour effet de mélanger l'eau de surface et l'océan profond, ce qui est indispensable à l'absorption de la chaleur par l'océan."
+    },
+    "42_20": {
+        "explanation": "Le ralentissement de la circulation thermohaline va avoir pour effet un dérèglement du cycle de l'eau dans un certain nombre de région du monde."
+    }
+}

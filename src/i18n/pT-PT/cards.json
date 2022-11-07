@@ -1,0 +1,212 @@
+{
+    "2": {
+        "title": "Indústria",
+        "backDescription": "A indústria utiliza combustíveis fósseis e eletricidade. Representa 40% das emissões de gases de efeito estufa (GEE).",
+        "explanation": "Indústria"
+    },
+    "3": {
+        "title": "Utilização dos edifícios",
+        "backDescription": "O setor da construção civil (habitação e uso comercial) utiliza combustíveis fósseis e eletricidade. Representa 20% das emissões de gases de efeito estufa (GEE).",
+        "explanation": "Utilização dos edifícios"
+    },
+    "38": {
+        "title": "Saúde Humana",
+        "backDescription": "Fomes, deslocamento de vetores de doenças, ondas de calor e conflitos armados podem afetar a saúde humana.",
+        "explanation": "Saúde Humana"
+    },
+    "39": {
+        "title": "Refugiados climáticos",
+        "backDescription": "Imagine que vive num lugar que foi milagrosamente poupado pelas alterações climáticas. Vários biliões de seres humanos podem querer compartilhá-lo consigo.",
+        "explanation": "Refugiados climáticos"
+    },
+    "36": {
+        "title": "Ondas de Calor",
+        "backDescription": "Uma das consequências do aumento de temperatura é a multiplicação de ondas de calor.",
+        "explanation": "Ondas de Calor"
+    },
+    "40": {
+        "title": "Conflitos Armados",
+        "backDescription": "É o fim que devemos evitar...",
+        "explanation": "Conflitos Armados"
+    },
+    "6": {
+        "title": "Desflorestação",
+        "backDescription": "A desflorestação consiste no corte ou queima de árvores para além da capacidade de renovação natural da floresta. 80% da desflorestação está relacionada com a agricultura.",
+        "explanation": "Desflorestação"
+    },
+    "31": {
+        "title": "Reservas de Água Doce",
+        "backDescription": "As reservas de água doce são afetadas por mudanças na precipitação e pelo desaparecimento dos glaciares, que desempenham um papel regulador no fluxo dos cursos de água.",
+        "explanation": "Reservas de Água Doce"
+    },
+    "8": {
+        "title": "Agricultura",
+        "backDescription": "A agricultura é responsável pela emissão de uma pequena parcela de CO2, mas de uma grande parcela de metano (da pecuária e arrozais) e óxido nitroso (de fertilizantes). No total, representa 25% dos GEE emitidos, se considerarmos ainda a desflorestação ind",
+        "explanation": "Agricultura"
+    },
+    "11": {
+        "title": "Concentração de CO2 (ppm)",
+        "backDescription": "Cerca de metade das nossas emissões de CO2 são capturadas por sumidouros de carbono naturais. A outra metade permanece na atmosfera. A concentração de CO2 no ar aumentou de 280 para 415 ppm (partes por milhão) ao longo dos últimos 150 anos. Isto é mais el",
+        "explanation": "Concentração de CO2 (ppm)"
+    },
+    "10": {
+        "title": "Aerossóis",
+        "backDescription": "Nada relacionado com sprays de aerossol. Os aerossóis são poluição de base local, proveniente das mesmas fábricas e tubos de escape que emitem o CO2. São nocivos à saúde e contribuem negativamente para o Forçamento Radiativo (arrefecem o clima).",
+        "explanation": "Aerossóis"
+    },
+    "4": {
+        "title": "Transporte",
+        "backDescription": "O setor dos transportes é muito dependente do petróleo. Representa 15% das emissões de gases de efeito estufa (GEE).",
+        "explanation": "Transporte"
+    },
+    "23": {
+        "title": "Problemas de calcificação",
+        "backDescription": "Se o pH baixar, a formação de exoesqueletos (ou conchas calcárias) torna-se mais difícil.",
+        "explanation": "Problemas de calcificação"
+    },
+    "7": {
+        "title": "Emissões de CO2",
+        "backDescription": "O CO2 (dióxido de carbono) é o mais importante gás de efeito de estufa de origem antrópica (relacionado com as atividades humanas). As emissões de CO2 têm origem na queima de combustíveis fósseis e na desflorestação.",
+        "explanation": "Emissões de CO2"
+    },
+    "27": {
+        "title": "Biodiversidade Marinha",
+        "backDescription": "Os pterópodes e os cocolitóforos estão na base da cadeia alimentar, pelo que o seu desaparecimento ameaça toda a biodiversidade marinha. O aquecimento da água desempenha também um papel importante no enfraquecimento da biodiversidade marinha.",
+        "explanation": "Biodiversidade Marinha"
+    },
+    "1": {
+        "title": "Atividades Humanas",
+        "backDescription": "É aqui que tudo começa...",
+        "explanation": "Atividades Humanas"
+    },
+    "30": {
+        "title": "Secas",
+        "backDescription": "A perturbação do ciclo da água pode ocasionar mais ou menos água. Quando esses distúrbios provocam diminuição da quantidade de água, verfica-se uma seca. Estima-se que as secas serão mais frequentes no futuro.",
+        "explanation": "Secas"
+    },
+    "15": {
+        "title": "Forçamento Radiativo",
+        "backDescription": "O Forçamento Radiativo representa a diferença entre a energia que chega à Terra a cada segundo e a energia que é libertada. É avaliado em 2,8 W/m² (Watt por metro quadrado), 3,8 W/m² do efeito de estufa e -1 W/m² dos aerossóis.",
+        "explanation": "Forçamento Radiativo"
+    },
+    "21": {
+        "title": "Aumento da temperatura do ar",
+        "backDescription": "Referimo-nos aqui à temperatura média do ar na superfície da Terra, que aumentou 1 °C desde 1900. Dependendo dos diferentes cenários, o aumento da temperatura poderá atingir 2 a 5 °C até 2100. No final da última era glacial (há 20.000 anos) a temperatura ",
+        "explanation": "Aumento da temperatura do ar"
+    },
+    "29": {
+        "title": "Pterópodes e cocolitóforos",
+        "backDescription": "Pterópodes são zooplânctons e cocolitóforos são fitoplânctons. Estes organismos possuem uma concha calcária.",
+        "explanation": "Pterópodes e cocolitóforos"
+    },
+    "25": {
+        "title": "Biodiversidade Terrestre",
+        "backDescription": "Animais e plantas são afetados pelas mudanças de temperatura e do ciclo da água: migram ou desaparecem e, em alguns casos, proliferam.",
+        "explanation": "Biodiversidade Terrestre"
+    },
+    "12": {
+        "title": "Sumidouros de Carbono",
+        "backDescription": "Metade do CO2 que emitimos todos os anos é absorvido pelos sumidouros de carbono: \n- ¼ pela vegetação (através da fotossíntese)\n- ¼ pelo oceano. \nA metade restantes (1/2) permanece na atmosfera.",
+        "explanation": "Sumidouros de Carbono"
+    },
+    "34": {
+        "title": "Ciclones",
+        "backDescription": "Os ciclones usam energia de águas quentes da superfície do oceano. Devido às alterações climáticas, são cada vez mais fortes.",
+        "explanation": "Ciclones"
+    },
+    "24": {
+        "title": "Acidificação dos oceanos",
+        "backDescription": "Quando o CO2 se dissolve no oceano, transforma-se em iões ácidos (H2CO3 e HCO3-). O efeito dessa transformação é a acidificação do oceano (o pH diminui).",
+        "explanation": "Acidificação dos oceanos"
+    },
+    "28": {
+        "title": "Vetores de Doenças",
+        "backDescription": "Com o aquecimento global, os animais migram. Alguns são portadores de doenças e podem atingir áreas onde as populações não são imunes a essas doenças.",
+        "explanation": "Vetores de Doenças"
+    },
+    "42": {
+        "title": "Abrandamento da corrente do Gulf Stream",
+        "backDescription": "A circulação termohalina, da qual o Gulf Stream faz parte, poderia abrandar devido ao influxo de água doce da Gronelândia derretida. Isto iria desregulamentar ainda mais o ciclo da água e reduzir a capacidade do oceano de absorver carbono e calor.",
+        "explanation": "Abrandamento da corrente do Gulf Stream"
+    },
+    "17": {
+        "title": "Aumento da temperatura da água",
+        "backDescription": "O oceano absorve 91% da energia acumulada na Terra. À medida que aquece, a água expande.",
+        "explanation": "Aumento da temperatura da água"
+    },
+    "18": {
+        "title": "Derretimento do Gelo Marítimo",
+        "backDescription": "O derretimento do gelo marítimo não é responsável pela elevação do nível do mar (um cubo de gelo que derrete num copo de água não faz a água transbordar). No entanto, ao derreter, dá lugar a uma superfície mais escura (o oceano), que absorve mais raios so",
+        "explanation": "Derretimento do Gelo Marítimo"
+    },
+    "19": {
+        "title": "Derretimento das calotas polares",
+        "backDescription": "Os calotes glaciares situam-se na Gronelândia e na Antártida. Se derretessem por completo, provocariam um aumento nos níveis dos oceanos de 7 metros para a Gronelândia e 54 metros para a Antártida. Durante a última era glacial, os calotes eram tão grandes",
+        "explanation": "Derretimento das calotas polares"
+    },
+    "37": {
+        "title": "Fome",
+        "backDescription": "A fome pode ser causada pelo declínio nos rendimentos agrícolas ou pela redução da biodiversidade marinha.",
+        "explanation": "Fome"
+    },
+    "26": {
+        "title": "Inundações",
+        "backDescription": "A perturbação do ciclo da água pode ocasionar mais ou menos água. Mais água, pode provocar inundações. A gravidade da situação é maior se o solo estiver endurecido pela seca, pois a água escorre.",
+        "explanation": "Inundações"
+    },
+    "22": {
+        "title": "Aumento do nível do mar",
+        "backDescription": "Desde 1900, o nível do mar subiu 20 cm. Esta subida é causada pela expansão térmica das águas oceânicas, pelo derretimento dos glaciares e pela fusão dos calotes polares.",
+        "explanation": "Aumento do nível do mar"
+    },
+    "32": {
+        "title": "Declínio da produção agrícola",
+        "backDescription": "A produção de alimentos pode ser afetada pela temperatura, secas, eventos climáticos extremos, inundações e submersão marinha (por exemplo, o Delta do Nilo).",
+        "explanation": "Declínio da produção agrícola"
+    },
+    "41": {
+        "title": "Permafrost (pergelissolo)",
+        "backDescription": "Permafrost refere-se a solo permanentemente congelado. Verifica-se que está a começar a descongelar, libertando metano e CO2 no ar em resultado da decomposição de matéria orgânica previamente congelada. Isto constitui uma retroacção, da mesma forma que os",
+        "explanation": "Permafrost (pergelissolo)"
+    },
+    "9": {
+        "title": "Outros GEE's",
+        "backDescription": "O CO2 não é o único gás com efeito de estufa. O metano (CH4) e o óxido nitroso (N2O), cujas emissões têm origem sobretudo na agricultura, são alguns dos exemplos.",
+        "explanation": "Outros GEE's"
+    },
+    "14": {
+        "title": "Orçamento para Energia",
+        "backDescription": "Este gráfico explica os efeitos da energia acumulada na Terra (em função do Forçamento Radiativo): ela aquece o oceano, derrete o gelo, é dissipada no solo e aquece a atmosfera.",
+        "explanation": "Orçamento para Energia"
+    },
+    "16": {
+        "title": "Derretimento dos glaciares",
+        "backDescription": "Quase todos os glaciares perderam massa. Centenas já desapareceram. Estes glaciares desempenham um papel regulador no fornecimento de água doce.",
+        "explanation": "Derretimento dos glaciares"
+    },
+    "33": {
+        "title": "Submersão Marinha",
+        "backDescription": "Ciclones e perturbações climáticas envolvem ventos (e, portanto, ondas) e baixas pressões. 1 hectopascal a menos representa um aumento do nível do mar de 1 cm. Por conseguinte, os ciclones podem causar submersão marinha (inundação costeira) amplificada pe",
+        "explanation": "Submersão Marinha"
+    },
+    "35": {
+        "title": "Incêndios Florestais",
+        "backDescription": "Os incêndios florestais começam mais facilmente durante as secas e ondas de calor.",
+        "explanation": "Incêndios Florestais"
+    },
+    "13": {
+        "title": "Efeito de estufa adicional",
+        "backDescription": "O efeito estufa é um fenómeno natural (a propósito, o principal GEE é o vapor de água). Sem efeito de estufa, o planeta seria 33° C mais frio e a vida tal como a conhecemos não seria possível. \nMas o CO2 e outros GEE inerentes às atividades humanas aument",
+        "explanation": "Efeito de estufa adicional"
+    },
+    "20": {
+        "title": "Perturbação do ciclo da água",
+        "backDescription": "Os oceanos mais quentes e uma atmosfera mais quente levam a uma evaporação mais forte, causando nuvens de chuva e precipitação. A terra mais quente e uma atmosfera mais quente conduzem também a uma evaporação mais forte, causando desta vez a secura do sol",
+        "explanation": "Perturbação do ciclo da água"
+    },
+    "5": {
+        "title": "Combustíveis Fósseis",
+        "backDescription": "Os combustíveis fósseis são o carvão, o petróleo e o gás natural. São usados principalmente em edifícios, transportes e indústria e emitem CO2 durante a combustão.",
+        "explanation": "Combustíveis Fósseis"
+    }
+}

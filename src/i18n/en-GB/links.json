@@ -1,0 +1,452 @@
+{
+    "1_2": {
+        "explanation": "accounts for 40% of greenhouse gas (GHG) emissions"
+    },
+    "1_3": {
+        "explanation": "accounts for 20% of GHG emissions"
+    },
+    "1_4": {
+        "explanation": "accounts for 15% of GHG emissions"
+    },
+    "1_6": {
+        "explanation": "Deforestation can be considered either as a human activity, or as a consequence of agriculture, or both."
+    },
+    "1_8": {
+        "explanation": "accounts for 25% of GHGs if we include induced deforestation."
+    },
+    "1_25": {
+        "explanation": "Humans occupy almost all available space on Earth, leaving no room for animals and plants. This entails the disappearance of natural habitats and it is the main cause of biodiversity loss today, well ahead of climate change."
+    },
+    "1_27": {
+        "explanation": "With this link, we highlight all the degradations that humans are inflicting on marine life such as plastic pollution and overfishing. It's irrelevant to climate change, but it's interesting to make the connection anyway."
+    },
+    "2_5": {
+        "explanation": ""
+    },
+    "2_6": {
+        "explanation": "This link is possible for wood-consuming industries. However, wood used by a factory in a sustainably managed forest would not be considered as deforestation."
+    },
+    "2_9": {
+        "explanation": "In fact, methane emissions from industry are as strong as emissions from agriculture because of fugitive emissions (natural gas leaks from pipelines). This is a point that is little known, so this relationship is not considered strongly relevant. Industry also emits HFCs (refrigerants)."
+    },
+    "2_10": {
+        "explanation": ""
+    },
+    "3_5": {
+        "explanation": ""
+    },
+    "3_6": {
+        "explanation": "It can be said that heating buildings with wood is in part responsible for deforestation, but it is not significant. Neither is building a major cause of deforestation. Agriculture is the main cause of deforestation, way in front of buildings and their usage."
+    },
+    "3_10": {
+        "explanation": "Buildings emit few aerosols directly. The only significant emissions are chimney fires. In Chamonix, 85% of the fine particles present in the atmosphere come from wood heating."
+    },
+    "3_26": {
+        "explanation": "Soil artificialisation is also responsible for flooding because the soil is no longer able to absorb rain water."
+    },
+    "4_5": {
+        "explanation": ""
+    },
+    "4_6": {
+        "explanation": "Road construction sometimes requires deforestation, but the one-dimensional aspect of the road makes it almost negligible compared to deforestation linked to agriculture."
+    },
+    "4_10": {
+        "explanation": "Local pollution due to exhausts pipes is one of the main motivations to promote electric cars, far more than climate change. But EV are responsible for CO2 emissions due to power generation. These emissions depend a lot on the country where the car is rolling.\nSee the file about it."
+    },
+    "5_1": {
+        "explanation": "What comes first? Do human activities cause the use of fossil fuels or do fossil fuels ensable human activities? Don't waste time on this and group the two cards together if necessary. Plenty of activities, happily, do not require burning fossil fuels, like windmills and watermills grinding grains for flour."
+    },
+    "5_2": {
+        "explanation": "see 5=>1"
+    },
+    "5_3": {
+        "explanation": "see 5=>1"
+    },
+    "5_4": {
+        "explanation": "see 5=>1"
+    },
+    "5_7": {
+        "explanation": "It's written on card 7!"
+    },
+    "5_10": {
+        "explanation": ""
+    },
+    "5_25": {
+        "explanation": ""
+    },
+    "5_27": {
+        "explanation": "Oils slicks in the ocean are an example of a link between fossil fuels and marine biodiversity."
+    },
+    "5_40": {
+        "explanation": "Although conflicts may occur because of resources, they are not directly caused by climate change, rather by resource depletion or scarcity. The relationship can be made, but it is due more to politics than to the climate crisis."
+    },
+    "6_7": {
+        "explanation": "It's written on card 7!"
+    },
+    "6_12": {
+        "explanation": "Participants often think that deforestation reduces carbon sinks. In reality, the impact is minimal because deforested areas represent a very small part of the total forest area. Moreover, a mature forest has reached its equilibrium and no longer absorbs carbon. Therefore, as mainly mature forests are deforested, this does not impact carbon sinks. On the other hand, the amount CO2 released is very high."
+    },
+    "6_20": {
+        "explanation": "Deforestation can perturb local precipitation."
+    },
+    "6_26": {
+        "explanation": "Vegetation retains water. Cutting it down can lead to flooding."
+    },
+    "6_30": {
+        "explanation": "Deforestation can be the direct cause of droughts because trees stock a lot of water. If they are cut down, they no longer play their part as humidity regulators."
+    },
+    "7_11": {
+        "explanation": "Why not, but better link card 12 (Carbon sinks) to card 11. Card 12 is meant for that."
+    },
+    "7_12": {
+        "explanation": "These two cards can be put border-to-border in order to reconstitute the original graph. \nAsk the participants: \"Have a look at card 12. What do you notice ? - It's written upside down - Exact. This is an enigma. The answer to it is on the table.\"\n\nWhen they have found that 12 and 7 go together, then explain the resulting graph: it shows where the CO2 comes from and where it goes to. This is why the outer curves are symetricals. Each year, the CO2 emitted by Human beings has to go somewhere. If it's not in the carbon sinks, then it's in the atmosphere."
+    },
+    "7_24": {
+        "explanation": "Why not but rather link Card 12 (Carbon sinks) to card 24. It is meant for it."
+    },
+    "8_5": {
+        "explanation": "Agriculture does not use much fossil fuel, just enough to keep tractors running. Its carbon emissions are high, bu mainly because of methane and nitrous oxide."
+    },
+    "8_6": {
+        "explanation": "Deforestation is due for 80% to agriculture. It can be considered as a human activity or as a consequence of agriculture of both."
+    },
+    "8_7": {
+        "explanation": "Agriculture does not emit much CO2 except from deforestation. Its carbon emissions mainly come from othe GHGs."
+    },
+    "8_9": {
+        "explanation": "The pictures in the background of card 9 should put you on the track!"
+    },
+    "8_10": {
+        "explanation": "Spraying crops does result in aerosols and air pollution, but not to the same extent as incomplete combustion from power plants."
+    },
+    "8_12": {
+        "explanation": "It doesn't matter if this link is not made, but it is true that agriculture can improve storage capacity through photosynthesis. This is the 0.4% principle (if we increased the soil's capacity to sequester carbon by even 0,4%, we would have a significant impact on CO2)."
+    },
+    "8_25": {
+        "explanation": "Here, we are thinking mainly of pesticides (especially Roundup or neonicotinoids). No link with the climate, but an interesting relation to make."
+    },
+    "9_13": {
+        "explanation": "the \"G\" and the \"H\" on card 9 relate to \"GreenHouse\" on card 13."
+    },
+    "10_15": {
+        "explanation": "Aerosols cool down the climate."
+    },
+    "10_38": {
+        "explanation": "Although aerosols are not alone in the \"fine particle\" category, every year 391,000 people in EU countries die from air pollution, and it causes 1.1 million premature deaths in India and China. Air pollution such as soot caused by the burning of fossil fuels such as coal and oil was responsible for 8.7m deaths globally in 2018."
+    },
+    "11_12": {
+        "explanation": "It can be argued that CO2 emissions take place before reaching carbon sinks. But the opposite link has our preference."
+    },
+    "11_13": {
+        "explanation": "You can recognize the molecules of the different GHGs on the card 13 : H2O (red and white), CO2 (grey and red), CH4 (grey and white), nitrious (blue and red)."
+    },
+    "11_24": {
+        "explanation": "Players often identify CO2 concentration as a cause for ocean acidification. But it is more logical to link back to carbon sinks."
+    },
+    "12_11": {
+        "explanation": "the card n11 represents the concentration in CO2, understood in the atmosphere (it's written behind the card)."
+    },
+    "12_14": {
+        "explanation": "The idea here is not to say there is no link between these two cards, but to make sure they are not mixed up. The carbon sinks card tells us where the carbon goes. The energy budget card tells us where the excess energy goes. Both distribute something, but not the same thing. To make it even more confusing, the atmosphere and the ocean are present in both."
+    },
+    "12_24": {
+        "explanation": "The word \"Ocean\" is written on both sides."
+    },
+    "12_32": {
+        "explanation": "Studies have shown that yields increase with increased CO2, but that the nutrient content of vegetables is reduced as a result, because trace elements are not more abundant when yields increase."
+    },
+    "13_15": {
+        "explanation": "The expression \"Greenhouse Effect\" is written on both sides (as of last version, October 2018)."
+    },
+    "13_21": {
+        "explanation": "In the simplified version, we make a direct link between cards 13 and 21. In this case, the role of card 21 changes and it becomes the temperature of the Earth, not only of the atmosphere."
+    },
+    "14_16": {
+        "explanation": ""
+    },
+    "14_17": {
+        "explanation": ""
+    },
+    "14_18": {
+        "explanation": ""
+    },
+    "14_19": {
+        "explanation": ""
+    },
+    "14_21": {
+        "explanation": "As mentionned on card 21, this is the temperature of the air, above ground, in average on the Earth."
+    },
+    "14_41": {
+        "explanation": "If we take the idea of energy conservation all the way, we can link the energy budget to the thawing of permafrost."
+    },
+    "15_14": {
+        "explanation": "The text behind card n14 allows no ambiguity. Therefore the 2 cards have to be skipped together or not at all."
+    },
+    "16_22": {
+        "explanation": "A melting of 100 gigatons of ice per year is equivalent to about 0.28 mm per year of mean sea level rise. Thus, 15 to 35% of sea level rise is linked to the melting of glaciers, according the IPCC scenarios. 30% to 35% is linked to the expansion of water. The remainder is linked to the melting of the ice caps."
+    },
+    "16_26": {
+        "explanation": "It is possible, in certain circumstances of high heat, that very fast rapid melting of glaciers may cause flooding. But the real concern about these glaciers is that they are gradually disappearing, depriving downstream irrigation of a top-up in summer."
+    },
+    "16_31": {
+        "explanation": "Melting glaciers threaten water supplies. Indeed, the relative importance of glacier melt water in summer can be considerable, contributing for example to 25% of August flows in the basins draining the European Alps, with an area of about 105 km2 and only 1% glacial cover. Their disappearance could be catastrophic for cities located in valleys watered by rivers flowing down from the surrounding mountains and for freshwater fauna. Glacier meltwater also increases in importance during droughts and heat waves."
+    },
+    "17_20": {
+        "explanation": ""
+    },
+    "17_22": {
+        "explanation": ""
+    },
+    "17_24": {
+        "explanation": "The increase of water temperature is not linked to ocean acidification, at least for the time being. In the long term (over several centuries), as it heats up, the water will lose its capacity to dissolve atmospheric CO2 and will become less efficient as a carbon sink. So the increase in water temperature will inhibit, to some extent, ocean acidification."
+    },
+    "17_27": {
+        "explanation": ""
+    },
+    "17_34": {
+        "explanation": ""
+    },
+    "18_13": {
+        "explanation": "This link would mark confusion with the amplifying effect due to albedo. The white sea ice melts to reveal a darker surface underneath and the extra energy absorbed warms the Earth. This mechanism is called albedo and has nothing to do with the greenhouse effect. It belongs to the orange arrows on card 13, not to the red arrows."
+    },
+    "18_15": {
+        "explanation": "When the ice pack melts, a white surface is replaced by a dark blue surface, which has a lower albedo and therefore absorbs more energy. This relationship is not essential but it does allow another feedback loop of the game to be put forward."
+    },
+    "18_20": {
+        "explanation": "The melting of the Arctic ice pack, but also the melting of Greenland's glaciers may lead, in the distant future, to a disruption of the thermohaline circulation (which gives rise to the Gulf Stream). But beware, the \"Water Cycle\" card does not refer at all to the thermohaline circulation."
+    },
+    "18_22": {
+        "explanation": "This it the trap in which participants can fall while playing with cards set n1. Therefore, do not ask them to read the cards from the beginning. Once they have put them in place, ask them to read the texts."
+    },
+    "18_25": {
+        "explanation": "The poor polar bear is a powerful symbol of the climat. If players make this connection, suggest they draw a bear!"
+    },
+    "18_27": {
+        "explanation": "There's probably some sort of link here..."
+    },
+    "19_22": {
+        "explanation": ""
+    },
+    "19_42": {
+        "explanation": "Freshwater coming from the melting of Greenland may threaten the thermohaline circulation."
+    },
+    "20_19": {
+        "explanation": "It's a bit technical, but the blue part of the map of Antarctica on card 19 represents a gain in mass due to an increase of precipitations. The red part represents a loss in mass. In total, Antarctica is losing mass."
+    },
+    "20_22": {
+        "explanation": "No, more rain is not going to cause the oceans to overflow! This is a rare mistake to be made, but if it happens to you, ask the players where rainclouds come from..."
+    },
+    "20_25": {
+        "explanation": ""
+    },
+    "20_26": {
+        "explanation": ""
+    },
+    "20_28": {
+        "explanation": "The Vectors of disease card is generally linked to the Terrestrial Biodiversity card because disease vectors are a sub-part of biodiversity, but it can also be linked to the same causes as the biodiversity card, i.e. Disruption of the Water Cycle and Rising Air Temperatures."
+    },
+    "20_30": {
+        "explanation": ""
+    },
+    "20_33": {
+        "explanation": ""
+    },
+    "20_34": {
+        "explanation": ""
+    },
+    "21_16": {
+        "explanation": "Yes, in the simplified version."
+    },
+    "21_17": {
+        "explanation": "Yes, in the simplified version."
+    },
+    "21_18": {
+        "explanation": "Yes, in the simplified version."
+    },
+    "21_19": {
+        "explanation": "Yes, in the simplified version."
+    },
+    "21_20": {
+        "explanation": ""
+    },
+    "21_25": {
+        "explanation": ""
+    },
+    "21_28": {
+        "explanation": "The vectors of disease card is generally linked to the Terrestrial Biodiversity card because disease vectors are a sub-part of biodiversity, but it can also be linked to the same causes as the biodiversity card, i.e. Disruption of the Water Cycle and Rising Air Temperatures."
+    },
+    "21_32": {
+        "explanation": "In northern countries, a little increase in temperature can lead to better yields, but in southern countries, it's the contrary: Any degree warmer is a decrease in yields."
+    },
+    "21_36": {
+        "explanation": ""
+    },
+    "21_38": {
+        "explanation": ""
+    },
+    "21_41": {
+        "explanation": ""
+    },
+    "22_33": {
+        "explanation": ""
+    },
+    "23_27": {
+        "explanation": "Calcification problems do not only affect pteropods and coccolithophores. Coral reefs are also affected, for example, so this link is acceptable."
+    },
+    "23_29": {
+        "explanation": ""
+    },
+    "24_23": {
+        "explanation": ""
+    },
+    "25_8": {
+        "explanation": "It would be more logical to link to agricultural yields."
+    },
+    "25_28": {
+        "explanation": "Vectors of disease are just one part of biodiversity. They will move like the rest."
+    },
+    "25_32": {
+        "explanation": "Bees and worms are indispensable to agriculture."
+    },
+    "26_28": {
+        "explanation": "Be wary of common misconceptions about flooding, marshes, mosquitos... Flooding can cause sanitation issues, but that is not what we are talking about here."
+    },
+    "26_31": {
+        "explanation": "Flooding can lead in some cases to contamination of freshwater resources and affect drinking water systems."
+    },
+    "26_32": {
+        "explanation": ""
+    },
+    "26_33": {
+        "explanation": "Do not make any confusion between floods and submersions. Floods concern rivers (it's fresh water) while submersions concern sea water (salt water)."
+    },
+    "26_38": {
+        "explanation": "Floods can lead to grave sanitary issues : sewers overflow, cholera threatens."
+    },
+    "27_37": {
+        "explanation": "Yes, because of fishing."
+    },
+    "28_38": {
+        "explanation": ""
+    },
+    "29_27": {
+        "explanation": ""
+    },
+    "30_12": {
+        "explanation": "If a lack of rain occurs while plants are growing, there is less photosynthesis and therefore a reduction in capacity of the carbon sink. In Europe, in 2018, carbon sinks declined by 18%."
+    },
+    "30_26": {
+        "explanation": "See card n26: \"If the soil is dried by drought it's worse because the water runs off.\""
+    },
+    "30_31": {
+        "explanation": ""
+    },
+    "30_32": {
+        "explanation": ""
+    },
+    "30_35": {
+        "explanation": ""
+    },
+    "31_32": {
+        "explanation": ""
+    },
+    "31_37": {
+        "explanation": "If we consider that hunger and famines are not only a lack of food but also a lack of water."
+    },
+    "31_40": {
+        "explanation": ""
+    },
+    "32_8": {
+        "explanation": "Yes, the yield decline does affect agriculture, but the agriculture card is here to stand for one of the causes of GHG emissions."
+    },
+    "32_37": {
+        "explanation": ""
+    },
+    "32_39": {
+        "explanation": ""
+    },
+    "33_31": {
+        "explanation": "If seawater rises, it can penetrate the water tables, which are freshwater reserves."
+    },
+    "33_32": {
+        "explanation": ""
+    },
+    "33_39": {
+        "explanation": ""
+    },
+    "34_32": {
+        "explanation": ""
+    },
+    "34_33": {
+        "explanation": ""
+    },
+    "34_38": {
+        "explanation": "Sunday, August 2, 2020, Florida is preparing for the passage of Isaias, the hurricane that dumped torrential rains on the Bahamas the day before. It could regain strength and test the emergency services of one of the states most affected by the Covid-19 epidemic in the United States. It has more than 480,000 cases detected since the start of the pandemic, surpassing New York, long the epicentre of the American epidemic in the spring, and second only to California, which has twice the population. Due to the weather, the state has had to close Covid-19 testing centres, many of which were set up in tents, in anticipation of the hurricane's arrival, although county testing centres remain open."
+    },
+    "35_6": {
+        "explanation": "Deforestation is partly done by burning the forest, which can then degenerate into uncontrolled fire. This is what happened in the summer of 2019 in the Amazon and Australia."
+    },
+    "35_10": {
+        "explanation": "Smoke from wildfires has been shown to carry toxic particles."
+    },
+    "35_25": {
+        "explanation": "This is a more minor link, except for specific biodiversity-rich areas."
+    },
+    "35_32": {
+        "explanation": "Generally forests burn better than wheat fields."
+    },
+    "35_38": {
+        "explanation": "630 people died in Californian wildfires in autumn 2018."
+    },
+    "36_30": {
+        "explanation": "Heatwaves can cause droughts. They often go together."
+    },
+    "36_35": {
+        "explanation": ""
+    },
+    "36_38": {
+        "explanation": "Heat waves can be devastating, especially for the elderly."
+    },
+    "37_38": {
+        "explanation": ""
+    },
+    "37_39": {
+        "explanation": ""
+    },
+    "37_40": {
+        "explanation": ""
+    },
+    "39_38": {
+        "explanation": ""
+    },
+    "39_40": {
+        "explanation": ""
+    },
+    "40_1": {
+        "explanation": "It's the final loop of the Club of Rome. All this will eventually regulate itself, but not necessarily peacefully. The players often make this link and sometimes propose to roll up the Fresk to connect the beginning and ending edges. Moreover, it is noteworthy that humankind appears in the first and last cards, but not in the middle of the Fresk."
+    },
+    "40_5": {
+        "explanation": "Conflicts are often linked to fossil fuels, but the link is more the other way round."
+    },
+    "40_38": {
+        "explanation": "A bullet is not good for health "
+    },
+    "40_39": {
+        "explanation": ""
+    },
+    "41_9": {
+        "explanation": ""
+    },
+    "41_13": {
+        "explanation": "The permafrost card can be linked either to Other GHGs or to Additional Greenhouse Effect. The Other GHGs card is about GHGs emitted by human activities, while the methane in permafrost is not of human origin."
+    },
+    "42_12": {
+        "explanation": "CO2 is absorbed at the surface of the ocean. Thermohaline circulation helps mix watersurface and deep ocean which is essential to the absoption of CO2 by the ocean."
+    },
+    "42_14": {
+        "explanation": "Heat is absorbed at the surface of the ocean. Thermohaline circulation helps mix watersurface and deep ocean which is essential to the absoption of energy by the ocean."
+    },
+    "42_20": {
+        "explanation": "Weakening of thermohaline circulation may disrupt water cycle even more in many places in the word."
+    }
+}

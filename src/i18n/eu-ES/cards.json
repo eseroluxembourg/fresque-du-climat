@@ -1,0 +1,212 @@
+{
+    "25": {
+        "title": "Lurreko bioaniztasuna",
+        "backDescription": "Animaliek eta landareek, tenperaturan eta uraren zikloan gertatzen diren aldaketak pairatzen dituzte: lekuz aldatzen dira edo desagertzen dira (edo, bakanago, ugaritzen dira).",
+        "explanation": "Lurreko bioaniztasuna"
+    },
+    "19": {
+        "title": "Izotz-kaskoen urtzea",
+        "backDescription": "Groenlandia eta Antartika izotz-kaskoak dira. Osoki urtzen balira, itsas maila 7 metro igoko litzateke Groenlandian, eta 54 metro Antartikan. Azken glaziazioan, izotz-kaskoak hain ziren handiak non itsas maila 120 metro gaur baino apalago baitzen.",
+        "explanation": "Izotz-kaskoen urtzea"
+    },
+    "2": {
+        "title": "Industria",
+        "backDescription": "Industriak, energia fosilak eta argindarra erabiltzen ditu, berotegi-efektuko gasen % 40 sortuz.",
+        "explanation": "Industria"
+    },
+    "28": {
+        "title": "Eritasun-bektoreak",
+        "backDescription": "Berotzearekin, animaliek migratzen dute. Alta, batzuk eritasun-bektoreak dira eta eritasun horien aurka biztanleria immunizatua ez den lekuetara hel daitezke.",
+        "explanation": "Eritasun-bektoreak"
+    },
+    "14": {
+        "title": "Energia-aurrekontua",
+        "backDescription": "Grafiko honek erakusten du, erradiazioaren bortxaketarengatik, lurraren gainean metatzen den energia nora doan: ozeanoa berotzen du, izotzak urtzen ditu, lurrean barreiatzen da eta atmosfera berotzen du.",
+        "explanation": "Energia-aurrekontua"
+    },
+    "3": {
+        "title": "Eraikinen erabilpena",
+        "backDescription": "Eraikinek (bizitegiak eta zerbitzuak) energia fosilak eta argindarra erabiltzen dituzte, berotegi-efektuko gasen % 20 sortuz.",
+        "explanation": "Eraikinen erabilpena"
+    },
+    "23": {
+        "title": "Kaltzifikazio arazoak",
+        "backDescription": "PH-a apaltzen bada, kareharria egitea zailagoa da, bereziki maskorrentzat.",
+        "explanation": "Kaltzifikazio arazoak"
+    },
+    "37": {
+        "title": "Goseteak",
+        "backDescription": "Laborantzako etekinen murrizketak eta itsas-bioaniztasunaren ttipitzeak goseteak ekar ditzakete.",
+        "explanation": "Goseteak"
+    },
+    "41": {
+        "title": "Permafrosta",
+        "backDescription": "Permafrosta deitzen da, etengabe izoztua den lurra. Ohartu gara urtzen hasia dela, airean metano eta CO₂-a isuriz, ordu arte izoztua zen materia organikoa deskonposatzen baita. 2°C baino gehiago emendatzen bada, fenomeno hau bizkortu daiteke, klima aldake",
+        "explanation": "Permafrosta"
+    },
+    "27": {
+        "title": "Itsas-bioaniztasuna",
+        "backDescription": "Pteropodoak eta kokolitoforoak elikakatearen hastapenean daudanez, desagertuz gero, itsas-bioaniztasun zinez arriskuan izan daiteke. Uraren berotzeak, itsas-bioaniztasunaren ahultze prozesuan zerikusi handia du ere.",
+        "explanation": "Itsas-bioaniztasuna"
+    },
+    "8": {
+        "title": "Laborantza",
+        "backDescription": "Laborantzak CO₂ pixka bat isurtzen du. Aldiz, metano (behiek, irris-alorrek) eta oxido nitroso (ongailuek) anitz isurtzen ditu. Horotara, ondorioz sortzen den oihan soiltzea kontuan hartzen bada, berotegi-efektuko gasen % 25 da.",
+        "explanation": "Laborantza"
+    },
+    "16": {
+        "title": "Glaziarren urtzea",
+        "backDescription": "Kasik glaziar guziek masa galdu dute. Jadanik ehunka desagertu dira. Alta, glaziarrek, ur gezaren hornidura erregulatzen dute.",
+        "explanation": "Glaziarren urtzea"
+    },
+    "17": {
+        "title": "Uraren tenperaturaren emendatzea",
+        "backDescription": "Ozeanoak, lurrazalean metatzen den energiaren % 93 xurgatzen du. Berotzean, ura dilatatzen da.",
+        "explanation": "Uraren tenperaturaren emendatzea"
+    },
+    "26": {
+        "title": "Ur handitzeak",
+        "backDescription": "Ur zikloaren asaldurak ur gehiago edo ur gutiago ekar lezake. Ur gehiago denean, ur handitzeak gerta daitezke (uholdeak lurretan). Idorteak lurra gogortu badu, okerrago da, ura turrustan isurtzen baita.",
+        "explanation": "Ur handitzeak"
+    },
+    "4": {
+        "title": "Garraioa",
+        "backDescription": "Garraioaren sektorea petrolioaren menpe dago. Berotegi-efektuko gasen isurketen % 15 sortzen du.",
+        "explanation": "Garraioa"
+    },
+    "21": {
+        "title": "Tenperaturaren emendatzea",
+        "backDescription": "Hemen aipatzen dena, lurrazaleko lurzoruko airearen bataz besteko tenperatura da. 1900az geroztik, 1°C inguru emendatu da, eta, hemendik 2100. urtera 2 eta 5°C artean emendatuko da. Alta, azken glaziazioan (duela 20000 urte), orain baino 5°C apalagoa zen.",
+        "explanation": "Tenperaturaren emendatzea"
+    },
+    "15": {
+        "title": "Erradiazioaren bortxaketa",
+        "backDescription": "Erradiazioaren bortxaketa, segunduro lur gainera heltzen den eta lurretik joaten den energiaren arteko desoreka da. Berotegi- efektuak 3,1 W/m² balio ditu, espraiek - 0,8 W/m², hots, orotara, 2,3 W/m².",
+        "explanation": "Erradiazioaren bortxaketa"
+    },
+    "20": {
+        "title": "Uraren zikloaren asaldurak",
+        "backDescription": "Ura eta airea berotzen badira, ozeanoaren azalean sortzen den lurrunketa handitzen da. Euria eraginen duten hodei gehiago agertzen dira. Aldiz, lurrunketa lurraren azalean gertatzen bada, lurra idortzen da.",
+        "explanation": "Uraren zikloaren asaldurak"
+    },
+    "42": {
+        "title": "Metano hidratoak",
+        "backDescription": "Metano hidratoak (edo metano klatratoak), itsas hondoan, kontinente ezponden luzeran den izotz mota bat da. Metano molekulak bahitzen ditu eta ezegonkor bilaka daitezke 2°C-tik gorago.",
+        "explanation": "Metano hidratoak"
+    },
+    "39": {
+        "title": "Errefuxiatu klimatikoak",
+        "backDescription": "Irudika ezazu, mirariz klima aldaketak kaltetzen ez duen leku batean bizi zarela. Miliarka pertsonek zurekin tokia partekatzeko gogo handia izanen lukete!!",
+        "explanation": "Errefuxiatu klimatikoak"
+    },
+    "22": {
+        "title": "Itsas mailaren igoera",
+        "backDescription": "1900az geroztik, ozeanoaren maila 20 cm igo da. Hau, uraren dilatatzearen, glaziarren urtzearen eta izotz-kaskoen urtzearen ondorioa da.",
+        "explanation": "Itsas mailaren igoera"
+    },
+    "7": {
+        "title": "CO₂ isurketak",
+        "backDescription": "CO₂-a, lehen berotegi-efektuko gas antropikoa da (gizakiak eragindakoa). CO₂ isurketak, energia fosilen erretzeak eta oihan soiltzeak sortzen dituzte.",
+        "explanation": "CO₂ isurketak"
+    },
+    "38": {
+        "title": "Giza-osasuna",
+        "backDescription": "Goseteek, eritasun-bektoreen lekualdatzeek, berote handiek eta gatazka armatuek, giza-osasuna kaltetu dezakete.",
+        "explanation": "Giza-osasuna"
+    },
+    "1": {
+        "title": "Giza jarduerak",
+        "backDescription": "Hemen da dena hasten...",
+        "explanation": "Giza jarduerak"
+    },
+    "18": {
+        "title": "Bankisaren urtzea",
+        "backDescription": "Bankisaren urtzeak ez dakar uren igoera (baso batean urtzen den izotz koxkorrak ez du basoa gaindiarazten). Aldiz, urtzean, iguzki izpiak zurrupatzen dituzten eremu ilunagoak agerrarazten ditu.",
+        "explanation": "Bankisaren urtzea"
+    },
+    "34": {
+        "title": "Zikloiak",
+        "backDescription": "Zikloiak, itsasoaren azalean dauden ur beroen energiaz elikatzen dira. Klima aldaketaren ondorioz indartu dira.",
+        "explanation": "Zikloiak"
+    },
+    "24": {
+        "title": "Ozeanoaren azidotzea",
+        "backDescription": "CO₂-a ozeanoan disolbatzen denean, azido karboniko bilakatzen da (H₂CO₃ eta ondotik HCO₃). Ozeanoa azidoagoa bilakatzen da (pH-a apaltzen da).",
+        "explanation": "Ozeanoaren azidotzea"
+    },
+    "6": {
+        "title": "Deforestazioa",
+        "backDescription": "Deforestazioa, oihanaren berrosatze ahalmenetik haratago zuhaitzen moztea edo erretzea da. % 80an laborantzarekin lotua da.",
+        "explanation": "Deforestazioa"
+    },
+    "36": {
+        "title": "Berote handiak",
+        "backDescription": "Tenperatura igotzearen adierazleetako bat berote handien emendioa da.",
+        "explanation": "Berote handiak"
+    },
+    "32": {
+        "title": "Laborantzako etekinen apaltzea",
+        "backDescription": "Tenperaturek, idorteek, muturreko gertakariek, uholdeek eta lurren urperatzeek, laborantza ekoizpena kaltetu dezake (ad. Niloren delta).",
+        "explanation": "Laborantzako etekinen apaltzea"
+    },
+    "33": {
+        "title": "Urperatzeak",
+        "backDescription": "Zikloiek eta perturbazioek, haizea (beraz uhinak) eta depresioak sortzen dituzte. Alta, hektopascal bat gutiago = 1 cm ur gehiago. Ondorioz, itsas mailaren gorakadak okertu ditzateken urperatzeak eragin ditzazke (itsas bazterren urperatzeak).",
+        "explanation": "Urperatzeak"
+    },
+    "9": {
+        "title": "Beste berotegi-efektuko gasak",
+        "backDescription": "CO₂-a ez da berotegi-efektuko gas bakarra. Beste batzuk ere daude, horien artean metanoa (CH₄) eta oxido nitrosoa (N₂O), laborantzak gehien sortzen dituenak.",
+        "explanation": "Beste berotegi-efektuko gasak"
+    },
+    "11": {
+        "title": "CO₂ kontzentrazioa (ppm)",
+        "backDescription": "Putzu naturalek CO₂ isurketen erdia xurgatu ondoan, beste erdia atmosferan gelditzen da. 150 urtez, atmosferan kontzentratzen den CO₂ kopurua 280 ppm-etik (milioikoparte) 410 ppm-era emendatu da.",
+        "explanation": "CO₂ kontzentrazioa (ppm)"
+    },
+    "10": {
+        "title": "Aerosolak",
+        "backDescription": "Honek ez du zerikusirik aerosol espraiekin. Aerosolak hurbileko kutsadura dira, CO2-a isurtzen duten fabrika eta ihes hodi beretatik datorrena. Osasunarentzat kaltegarriak dira eta eragin ezkorra dute erradiazioaren bortxaketan (klima hozten dute).",
+        "explanation": "Aerosolak"
+    },
+    "35": {
+        "title": "Suteak",
+        "backDescription": "Suteak, idorteen eta bero handien ondorioz sortzen dira.",
+        "explanation": "Suteak"
+    },
+    "13": {
+        "title": "Berotegi-efektu gehigarria",
+        "backDescription": "Berotegi-efektua naturala da. Izan ere, ur-lurruna da lehen berotegi-efektuko gasa. Berotegi-efekturik gabe, lurra 33 °C hotzagoa litzateke. Baina, gizakiak sortzen dituen CO₂-a eta berotegi-efektuko beste gasek, berotegi efektu naturala areagotzen dute, ",
+        "explanation": "Berotegi-efektu gehigarria"
+    },
+    "40": {
+        "title": "Gatazka armatuak",
+        "backDescription": "Agian ez da hola bukatuko…",
+        "explanation": "Gatazka armatuak"
+    },
+    "31": {
+        "title": "Ur geza baliabideak",
+        "backDescription": "Prezipitazio aldaketen eta glaziarren desagertzearen ondorioz, ur geza baliabideak kaltetuak dira. Alta, haiek dute ibaien emaria erregulatzen.",
+        "explanation": "Ur geza baliabideak"
+    },
+    "12": {
+        "title": "Karbono hustulekuak",
+        "backDescription": "Karbono hustulekuek, urtean isurtzen dugun CO₂-aren erdia xurgatzen dute: \n- landarediak laurdena (fotosintesiaren bidez) \n- ozeanoak laurdena \n- Gaineratekoa (erdia), atmosferan gelditzen da.",
+        "explanation": "Karbono hustulekuak"
+    },
+    "30": {
+        "title": "Idorteak",
+        "backDescription": "Ur zikloaren asaldurak, ur gehiago edo ur gutiago ekar lezake. Ur eskasiak idortea eragiten du. Izan ere, etorkizunean idorteak ugaritu daitezkeela aurreikusten da.",
+        "explanation": "Idorteak"
+    },
+    "29": {
+        "title": "Pteropodoak eta kokolitoforoak",
+        "backDescription": "Pteropodoak zooplanktona dira eta kokolitoforoak fitoplanktona. Mikroorganismo horiek kareharrizko maskorra dute.",
+        "explanation": "Pteropodoak eta kokolitoforoak"
+    },
+    "5": {
+        "title": "Energia fosilak",
+        "backDescription": "Ikatza, petrolioa eta gasa dira energia fosilak. Eraikinetan, garraioan eta industrian erabiltzen dira gehien. Erretzean CO₂-a isurtzen dute.",
+        "explanation": "Energia fosilak"
+    }
+}

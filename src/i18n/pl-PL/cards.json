@@ -1,0 +1,212 @@
+{
+    "28": {
+        "title": "Nosiciele chorób",
+        "backDescription": "Z powodu ocieplenia zwierzęta migrują. Niektóre z nich przenoszą choroby, na które zamieszkałe w innych strefach organizmy nie są uodpornione.",
+        "explanation": "Nosiciele chorób"
+    },
+    "18": {
+        "title": "Topnienie morskiej pokrywy lodowej",
+        "backDescription": "Topnienie lodu morskiego nie wpływa na wzrost poziomu wód w morzach i oceanach (kostka lodu, rozpuszczając się w wypełnionej po brzegi szklance wody nie spowoduje przelania się zawartości). Jednak jego topnienie powoduje, że większa powierzchnia Ziemi jes",
+        "explanation": "Topnienie morskiej pokrywy lodowej"
+    },
+    "8": {
+        "title": "Rolnictwo",
+        "backDescription": "Rolnictwo jest odpowiedzialne za emisje niewielkiej ilości CO2 oraz znacznych ilości metanu (bydło, uprawa ryżu) i podtlenku azotu (nawozy). W sumie daje to 25% gazów cieplarnianych, jeśli wliczyć skutki wylesiania.",
+        "explanation": "Rolnictwo"
+    },
+    "7": {
+        "title": "Emisje CO2",
+        "backDescription": "CO2 jest głównym antropogenicznym (tzn. emitowanym przez człowieka) gazem cieplarnianym. Emisje CO2 są następstwem spalania paliw kopalnych oraz wylesiania.",
+        "explanation": "Emisje CO2"
+    },
+    "12": {
+        "title": "Rezerwuary węgla",
+        "backDescription": "Połowę emitowanego przez nas rocznie CO2 pochłaniają naturalne rezerwuary węgla:\n- roślinność w procesie fotosyntezy (1/4)\n- oceany (1/4)\nReszta (1/2) pozostaje w atmosferze.",
+        "explanation": "Rezerwuary węgla"
+    },
+    "39": {
+        "title": "Uchodźcy klimatyczni",
+        "backDescription": "Wyobraźcie sobie, że mieszkacie w miejscu, którego w cudowny sposób nie dotykają zmiany klimatu. Prawdopodobnie kilka miliardów ludzi będzie chciało do was dołączyć!",
+        "explanation": "Uchodźcy klimatyczni"
+    },
+    "6": {
+        "title": "Wylesianie",
+        "backDescription": "Wylesianie oznacza wycinkę lub wypalanie drzew w tempie szybszym niż proces odnawiania się lasu. 80% wylesiania ma związek z rolnictwem.",
+        "explanation": "Wylesianie"
+    },
+    "35": {
+        "title": "Pożary",
+        "backDescription": "Pożary pojawiają się częściej w okresach susz i upałów.",
+        "explanation": "Pożary"
+    },
+    "14": {
+        "title": "Bilans energetyczny",
+        "backDescription": "Ten wykres pokazuje, dokąd trafia energia skumulowana na powierzchni Ziemi w efekcie wymuszania radiacyjnego: podnosi ona temperaturę oceanów, powoduje topnienie pokrywy lodowej, wnika w głąb lądów i ogrzewa atmosferę.",
+        "explanation": "Bilans energetyczny"
+    },
+    "20": {
+        "title": "Zaburzenia obiegu wody w przyrodzie",
+        "backDescription": "Wraz z ocieplaniem się wody i powietrza wzrasta parowanie na powierzchni oceanów. W rezultacie tworzy się więcej chmur, z których spada deszcz. To samo zjawisko zachodzi na lądzie, ale tam powoduje wysychanie gleby.",
+        "explanation": "Zaburzenia obiegu wody w przyrodzie"
+    },
+    "40": {
+        "title": "Konflikty zbrojne",
+        "backDescription": "Takiego zakończenia wolelibyśmy uniknąć…",
+        "explanation": "Konflikty zbrojne"
+    },
+    "41": {
+        "title": "Wieczna zmarzlina",
+        "backDescription": "Wieczna zmarzlina to stale zamarznięta warstwa gruntu. Zaobserwowano, że zaczyna ona rozmarzać. W efekcie zamrożona dotąd materia organiczna zaczyna się rozkładać, co powoduje uwalnianie metanu i CO2. Mamy tu do czynienia z tzw. sprzężeniem zwrotnym, podo",
+        "explanation": "Wieczna zmarzlina"
+    },
+    "4": {
+        "title": "Transport",
+        "backDescription": "Sektor transportu jest bardzo zależny od ropy naftowej. Odpowiada za 15% emisji gazów cieplarnianych.",
+        "explanation": "Transport"
+    },
+    "13": {
+        "title": "Dodatkowy efekt cieplarniany",
+        "backDescription": "Efekt cieplarniany to zjawisko naturalne. Podstawowym gazem cieplarnianym jest para wodna. Bez efektu cieplarnianego temperatura powierzchni Ziemi byłaby o 33°C niższa. Jednak emisje CO2 i innych gazów cieplarnianych, związane z działalnością człowieka, z",
+        "explanation": "Dodatkowy efekt cieplarniany"
+    },
+    "38": {
+        "title": "Zdrowie człowieka",
+        "backDescription": "Na zdrowie ludzkie wpływają głód, migracje nosicieli chorób, upały i konflikty zbrojne.",
+        "explanation": "Zdrowie człowieka"
+    },
+    "33": {
+        "title": "Zalania terenów nadmorskich",
+        "backDescription": "Cyklony i zaburzenia pogodowe przynoszą wiatr (a więc i fale) oraz spadek ciśnienia. A każdy hektopaskal mniej oznacza 1 cm wody więcej. Cyklony mogą więc powodować zalania terenów nadmorskich, których skala będzie dodatkowo potęgowana przez wzrost poziom",
+        "explanation": "Zalania terenów nadmorskich"
+    },
+    "17": {
+        "title": "Wzrost temperatury wody",
+        "backDescription": "Oceany absorbują 91% energii, która gromadzi się na powierzchni Ziemi. Woda, ogrzewając się, zwiększa swoją objętość.",
+        "explanation": "Wzrost temperatury wody"
+    },
+    "32": {
+        "title": "Spadek plonów rolnych",
+        "backDescription": "Na produkcję rolną wpływają zmiany temperatury, susze, zjawiska ekstremalne, powodzie i zalania terenów nadmorskich (np. delta Nilu).",
+        "explanation": "Spadek plonów rolnych"
+    },
+    "22": {
+        "title": "Wzrost poziomu mórz",
+        "backDescription": "Od 1900 r. poziom mórz i oceanów podniósł się o 20 cm. Doszło do tego na skutek wzrostu objętości wody, topnienia lodowców i topnienia lądolodów.",
+        "explanation": "Wzrost poziomu mórz"
+    },
+    "34": {
+        "title": "Cyklony",
+        "backDescription": "Cyklony powstają pod wpływem energii ciepłych wód na powierzchni oceanów. W wyniku zmian klimatu przybrały na sile.",
+        "explanation": "Cyklony"
+    },
+    "26": {
+        "title": "Powodzie",
+        "backDescription": "Zaburzenia obiegu wody w przyrodzie mogą wpływać na wzrost lub spadek poziomu wód. Przybór wody grozi powodziami (zatopienia lądu). Jeśli gleba została mocno wysuszona na skutek suszy, to pogarsza sprawę, gdyż woda nie wchłania się, a spływa po powierzchn",
+        "explanation": "Powodzie"
+    },
+    "9": {
+        "title": "Inne gazy cieplarnianie",
+        "backDescription": "CO2 nie jest jedynym gazem cieplarnianym. Są nimi również, generowane głównie przez rolnictwo, metan (CH4) i podtlenek azotu (N2O), a także kilka innych.",
+        "explanation": "Inne gazy cieplarnianie"
+    },
+    "5": {
+        "title": "Paliwa kopalne",
+        "backDescription": "Do paliw kopalnych zalicza się węgiel, ropę naftową i gaz ziemny. Znajdują zastosowanie głównie w eksploatacji budynków, transporcie i przemyśle. Podczas spalania wytwarzają CO2.",
+        "explanation": "Paliwa kopalne"
+    },
+    "16": {
+        "title": "Topnienie lodowców",
+        "backDescription": "Prawie wszystkie lodowce straciły na objętości, a setki nawet zanikły. Tymczasem lodowce pełnią rolę regulatora zasobów słodkiej wody.",
+        "explanation": "Topnienie lodowców"
+    },
+    "1": {
+        "title": "Działalność człowieka",
+        "backDescription": "To tu wszystko się zaczyna...",
+        "explanation": "Działalność człowieka"
+    },
+    "23": {
+        "title": "Spowolnienie wapnienia",
+        "backDescription": "Kiedy pH obniża się, utrudnia to powstawanie wapienia (w szczególności wapiennych muszli).",
+        "explanation": "Spowolnienie wapnienia"
+    },
+    "3": {
+        "title": "Eksploatacja budynków",
+        "backDescription": "Eksploatacja budynków (mieszkalnych i usługowych) powoduje zużycie paliw kopalnych oraz energii elektrycznej. Odpowiada za 20% emisji gazów cieplarnianych.",
+        "explanation": "Eksploatacja budynków"
+    },
+    "37": {
+        "title": "Głód",
+        "backDescription": "Głód może być konsekwencją spadku plonów rolnych oraz ubożenia bioróżnorodności morskiej.",
+        "explanation": "Głód"
+    },
+    "30": {
+        "title": "Susze",
+        "backDescription": "Zaburzenia obiegu wody w przyrodzie mogą wpływać na wzrost lub spadek poziomu wód. Niedobór wody powoduje susze. Przewiduje się, że w przyszłości susze będą występować coraz częściej.",
+        "explanation": "Susze"
+    },
+    "27": {
+        "title": "Bioróżnorodność morska",
+        "backDescription": "Skrzydłonogi i kokolitofory stanowią podstawę łańcucha żywnościowego, dlatego ich zanikanie zagraża całej bioróżnorodności morskiej. Wzrost temperatury wody także zagraża morskiej bioróżnorodności.",
+        "explanation": "Bioróżnorodność morska"
+    },
+    "19": {
+        "title": "Topnienie lądolodów",
+        "backDescription": "Lądolody to pokrywy lodowe na Grenlandii i Antarktydzie. Gdyby całość ich masy uległa stopnieniu, poziom wód podniósłby się o 7 m w przypadku Grenlandii i o 54 m w przypadku Antarktydy. W czasie ostatniego zlodowacenia obszar pokryty lodem był tak rozległ",
+        "explanation": "Topnienie lądolodów"
+    },
+    "29": {
+        "title": "Skrzydłonogi i kokolitofory",
+        "backDescription": "Skrzydłonogi to przedstawiciele zooplanktonu, a kokolitofory – fitoplanktonu. Te mikroorganizmy wykształcają wapienne szkielety.",
+        "explanation": "Skrzydłonogi i kokolitofory"
+    },
+    "21": {
+        "title": "Wzrost temperatury",
+        "backDescription": "Chodzi tutaj o średnią temperaturę powietrza na powierzchni Ziemi, która od 1900 r. wzrosła już o blisko 1,2°C . Według przewidywań do 2100 r. może się podnieść o 2-5°C. W czasie ostatniego zlodowacenia (20 000 lat temu) była zaledwie o 5°C stopni niższa ",
+        "explanation": "Wzrost temperatury"
+    },
+    "2": {
+        "title": "Przemysł",
+        "backDescription": "Przemysł wykorzystuje paliwa kopalne oraz energię elektryczną. Odpowiada za 40% emisji gazów cieplarnianych.",
+        "explanation": "Przemysł"
+    },
+    "15": {
+        "title": "Wymuszanie radiacyjne",
+        "backDescription": "Wymuszanie radiacyjne jest miarą braku równowagi między energią, która przybywa co sekundę na Ziemię, i tą, która ją opuszcza. Jego wartość wynosi 3,8 W/m² (Watt na m²) dla efektu cieplarnianego i -1 W/m² dla aerozoli, czyli dla całości 2,8 W/m².",
+        "explanation": "Wymuszanie radiacyjne"
+    },
+    "11": {
+        "title": "Stężenie CO2 (ppm)",
+        "backDescription": "O ile połowa naszych emisji CO2 zostaje pochłonięta przez naturalne rezerwuary węgla, to druga połowa pozostaje w atmosferze. Stężenie CO2 w atmosferze wzrosło z 280 do 415 ppm (liczba części na milion) w ciągu 150 lat. To najwyższy poziom w ciągu ostatni",
+        "explanation": "Stężenie CO2 (ppm)"
+    },
+    "42": {
+        "title": "Osłabienie Prądu Zatokowego",
+        "backDescription": "Napływ słodkiej wody z topnienia Grenlandii może spowodować spowolnienie cyrkulacji termohalinowej, do której zalicza się także Prąd Zatokowy (Golfsztrom). Może to spowodować jeszcze większe zaburzenia obiegu wody i zmniejszyć zdolność oceanów do pochłani",
+        "explanation": "Osłabienie Prądu Zatokowego"
+    },
+    "24": {
+        "title": "Zakwaszenie oceanów",
+        "backDescription": "Pochłonięty przez ocean CO2, rozpuszczając się w wodzie zmienia się w jony o charakterze kwasowym (H2CO3 i HCO3-). Powoduje to wzrost kwasowości oceanów (obniżenie pH).",
+        "explanation": "Zakwaszenie oceanów"
+    },
+    "31": {
+        "title": "Zasoby wód słodkich",
+        "backDescription": "Zasoby wód słodkich dotknięte są skutkami zmienności ilości opadów i procesu topnienia lodowców, które odgrywają rolę regulatora w natężeniu przepływów.",
+        "explanation": "Zasoby wód słodkich"
+    },
+    "25": {
+        "title": "Bioróżnorodność lądowa",
+        "backDescription": "Zmiany temperatury i zaburzenia w obiegu wody w przyrodzie wpływają na rośliny i zwierzęta: te przenoszą swoje siedliska lub zanikają (a czasem, chociaż rzadko, gwałtownie się rozmnażają).",
+        "explanation": "Bioróżnorodność lądowa"
+    },
+    "36": {
+        "title": "Upały",
+        "backDescription": "Objawem wzrostu temperatury są coraz liczniejsze fale upałów.",
+        "explanation": "Upały"
+    },
+    "10": {
+        "title": "Aerozole",
+        "backDescription": "Nie mylić ze sprayami. Aerozole to lokalne zanieczyszczenia, takie jak np. dwutlenek siarki, które pochodzą z niepełnego spalania paliw kopalnych. Mają niekorzystny wpływ na zdrowie, a także przyczyniają się do ujemnego wymuszenia radiacyjnego (ochładzają",
+        "explanation": "Aerozole"
+    }
+}

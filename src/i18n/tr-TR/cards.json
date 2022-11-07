@@ -1,0 +1,212 @@
+{
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost sürekli donmuş toprak tabakasına denir. Permafrostun erimeye ve erirken de hapsettiği metan gazını havaya salmaya başladığını gözlemliyoruz. Bu fenomen hızlanırsa, özellikle +2°C üzerindeki sıcaklık artışında iklim değişikliğinin öngörülemez ha",
+        "explanation": "Permafrost"
+    },
+    "37": {
+        "title": "Kıtlık",
+        "backDescription": "Kıtlıklar, düşük tarımsal verimlilik ve deniz biyoçeşitliliğinde azalma sebebiyle olur.",
+        "explanation": "Kıtlık"
+    },
+    "18": {
+        "title": "Deniz buzullarının erimesi",
+        "backDescription": "Deniz buzullarının erimesi, deniz seviyesinde yükselişe sebep olmamaktadır (bir bardak suyun içerisindeki buz küpü eridiğinde bardaktan su taşırmaz). Ancak deniz buzulları eridikçe, daha koyu renkte olan denizlerin alanı genişlemekte ve buzdan geri yansıy",
+        "explanation": "Deniz buzullarının erimesi"
+    },
+    "42": {
+        "title": "Metan Hidrat",
+        "backDescription": "Metan hidratlar (veya metan klatratlar) okyanus tabanında, kıta yamaçları boyunca metan moleküllerini hapseden bir buz türüdür. 2°C'nin üzerindeki sıcaklık artışında kararsız olabilirler.",
+        "explanation": "Metan Hidrat"
+    },
+    "21": {
+        "title": "Hava sıcaklığının yükselmesi",
+        "backDescription": "Burada yeryüzündeki ortalama hava sıcaklığından bahsediyoruz. 1900'den beri 1 °C artmıştır. Senaryolara bağlı olarak ortalama sıcaklık 2100 yılına kadar 2°C ile 5°C arasında artabilir. Son buzul çağının sonunda ortalama sıcaklık bugünkünden sadece 5 °C da",
+        "explanation": "Hava sıcaklığının yükselmesi"
+    },
+    "40": {
+        "title": "Silahlı Çatışmalar",
+        "backDescription": "Bu şekilde sonlanmasını önlemeliyiz.",
+        "explanation": "Silahlı Çatışmalar"
+    },
+    "38": {
+        "title": "İnsan Saglığı",
+        "backDescription": "Kıtlık, hastalık vektorleri, sıcak hava dalgaları ve silahlı çatışmalar insan sağlığını etkileyebilir.",
+        "explanation": "İnsan Saglığı"
+    },
+    "22": {
+        "title": "Deniz seviyesinin yükselişi",
+        "backDescription": "1900'den beri deniz seviyesi 20 cm yükseldi. Deniz seviyesinin yükselmesi, okyanus sularının termal genişlemesi ve kara buzullarının erimesinden kaynaklanmaktadır.",
+        "explanation": "Deniz seviyesinin yükselişi"
+    },
+    "39": {
+        "title": "İklim Mültecileri",
+        "backDescription": "İklim değişikliğinden mucizevi bir şekilde etkilenmemiş bir yerde yaşadığınızı düşünün. Milyarlarca insan sizinle bu yeri paylaşmak isteyebilir.",
+        "explanation": "İklim Mültecileri"
+    },
+    "23": {
+        "title": "Kalsiyum birikiminin engellenmesi",
+        "backDescription": "pH değeri düştükçe, kalsiyum karbonat (özellikle kalsiyum karbonattan oluşan kabukların) oluşumu güçleşir.",
+        "explanation": "Kalsiyum birikiminin engellenmesi"
+    },
+    "19": {
+        "title": "Kıtasal buzulların erimesi",
+        "backDescription": "Kıtasal buzullar (veya buz örtüleri) Grönland ve Antartika'da bulunurlar. Eğer hepsi erirse, Grönland deniz suyu seviyesini 7 metre yükseltirken, Antartika deniz suyu seviyesini 54 metre yükseltecektir. Bir önceki buzul çağında kıtasal buzullar o kadar bü",
+        "explanation": "Kıtasal buzulların erimesi"
+    },
+    "36": {
+        "title": "Sıcak hava dalgası",
+        "backDescription": "Hava sıcaklığının yükselmesinin sonuçlarından biri de sıcak hava dalgalarının sıklığındaki artıştır.",
+        "explanation": "Sıcak hava dalgası"
+    },
+    "31": {
+        "title": "Tatlı su kaynakları",
+        "backDescription": "Tatlı su kaynakları yağışlardaki değişikliklerden ve akarsuların akışında düzenleyici rol oynayan buzulların ortadan kalkmasından etkilenmektedir.",
+        "explanation": "Tatlı su kaynakları"
+    },
+    "33": {
+        "title": "Deniz suyu altında kalma",
+        "backDescription": "Kasırgalar ve dengesiz hava koşulları rüzgar (rüzgar nedeniyle dalga) ve düşük basınç getirir. 1 hektopaskal daha az basınç, deniz seviyesinin 1 cm yükselmesi demektir. Bu nedenle kasırgalar, halihazırda küresel ısınmanın neden olduğu deniz seviyesindeki ",
+        "explanation": "Deniz suyu altında kalma"
+    },
+    "2": {
+        "title": "Endüstri",
+        "backDescription": "Üretim endüstrisi fosil yakıt ve elektrik kullanır. Sera etkisini oluşturan gazların %40'ı üretim endüstrisi kaynaklıdır.",
+        "explanation": "Endüstri"
+    },
+    "30": {
+        "title": "Kuraklık",
+        "backDescription": "Su döngüsünün bozulması, farklı yerlerde daha az veya daha çok su anlamına gelir. Bu bozulmalar daha az suya yol açtığında, bu bir kuraklıktır. Kuraklıkların gelecekte daha sık olması muhtemeldir.",
+        "explanation": "Kuraklık"
+    },
+    "34": {
+        "title": "Kasırgalar",
+        "backDescription": "Kasırgalar okyanus yüzeylerindeki sıcak suların enerjisini kullanır. Küresel ısınma sebebiyle daha güçlü hale gelmektedirler.",
+        "explanation": "Kasırgalar"
+    },
+    "35": {
+        "title": "Orman yangınları",
+        "backDescription": "Orman yangınları sıcak hava dalgaları ve kuraklık sırasında daha kolay başlar.",
+        "explanation": "Orman yangınları"
+    },
+    "20": {
+        "title": "Su döngüsünün bozulması",
+        "backDescription": "Okyanus yüzeyinde gerçekleşen buharlaşma, okyanusların ve atmosferin sıcaklığının artmasıyla birlikte daha hızlı bir şekilde gerçekleşir. Bu da daha fazla yağmur bulutu demektir. Bu buharlaşma fenomeni toprak ve hava arasında da olmaktadır ve toprakların ",
+        "explanation": "Su döngüsünün bozulması"
+    },
+    "27": {
+        "title": "Deniz biyoçeşitliliği",
+        "backDescription": "Pteropodlar ve kokolittoforlar okyanustaki besin zincirinin temelini oluşturur. Bu nedenle, kaybolurlarsa, tüm deniz biyoçeşitliliği tehdit altında olur. Okyanus sularının ısınması, deniz biyoçeşitliliğini de tehdit ediyor.",
+        "explanation": "Deniz biyoçeşitliliği"
+    },
+    "24": {
+        "title": "Okyanusların asitleşmesi",
+        "backDescription": "CO2 okyanuslarda çözündükçe, asit iyonlarına dönüşür (H2CO3 ve HCO3). Bu dönüşümün sonucu olarak da okyanuslar asitleşir (pH değeri düşer).",
+        "explanation": "Okyanusların asitleşmesi"
+    },
+    "26": {
+        "title": "Seller",
+        "backDescription": "Su döngüsünün bozulması daha fazla veya daha az suya neden olabilir. Daha fazla su nehir taşmasına neden olur. Eğer topraklar kurak ise, durum daha da kötüdür çünkü su emilmeden hızlı bir şekilde akar.",
+        "explanation": "Seller"
+    },
+    "1": {
+        "title": "İnsan aktiviteleri",
+        "backDescription": "İşte burada her şey başlıyor…",
+        "explanation": "İnsan aktiviteleri"
+    },
+    "25": {
+        "title": "Karasal biyoçeşitlilik",
+        "backDescription": "Hayvanlar ve bitkiler, hava sıcaklığının değişmesinden ve su döngüsünün bozulmasından önemli ölçüde etkilenirler.",
+        "explanation": "Karasal biyoçeşitlilik"
+    },
+    "32": {
+        "title": "Tarımsal verimlilikte azalma",
+        "backDescription": "Gıda üretimi sıcaklık, kuraklık, aşırı hava olayları, seller ve kıyı taşkınlarından etkilenebilir (örneğin: Nil Deltası).",
+        "explanation": "Tarımsal verimlilikte azalma"
+    },
+    "3": {
+        "title": "Binaların Kullanımı",
+        "backDescription": "Yapı endüstrisi (mesken veya iş amaçlı) fosil yakıt ve elektrik kullanır. Sera etkisi oluşturan gazların %20'si yapı endüstrisi kaynaklıdır.",
+        "explanation": "Binaların Kullanımı"
+    },
+    "29": {
+        "title": "Pteropodlar ve kokolittoforlar",
+        "backDescription": "Pteropodlar zooplankton ve kokolittoforlar fitoplanktondur. Bu organizmalarda kalsiyum tuzlarıyla sertleşmiş bir kabuk vardır.",
+        "explanation": "Pteropodlar ve kokolittoforlar"
+    },
+    "28": {
+        "title": "Hastalık vektörleri (taşıyıcıları)",
+        "backDescription": "Küresel ısınma ile hayvanlar daha önce bulunmadıkları yerlere göç eder. Bazıları hastalık taşır ve bu hastalıklara karşı bağışıklığı bulunmayan nüfusların olduğu bölgelere ulaşır.",
+        "explanation": "Hastalık vektörleri (taşıyıcıları)"
+    },
+    "10": {
+        "title": "Aerosoller",
+        "backDescription": "Aerosol spreylerle bir ilişkisi yoktur. Aerosoller, tam yanmamış fosil yakıtlardan kaynaklı atık gazlardan oluşan bir kirlilik türüdür.  Fabrikalardan ve otomobil eksozlarından çıkar; az da olsa tarım ve orman yangınlarından da kaynaklanır. İnsan sağlığın",
+        "explanation": "Aerosoller"
+    },
+    "4": {
+        "title": "Ulaşım",
+        "backDescription": "Ulaşım sektörü büyük ölçüde petrol bazlı yakıtlara bağlıdır. Sera etkisini oluşturan gazların %15'i ulaşım kaynaklıdır.",
+        "explanation": "Ulaşım"
+    },
+    "15": {
+        "title": "Işınımsal zorlama",
+        "backDescription": "Işınımsal zorlama, her saniye dünyaya gelen enerji ile dünyadan salınan enerji arasındaki (insan faaliyetleri sebebiyle oluşan) farktır. IPCC'de sunulan 5. durum raporunda, 2,3 W/m2 (metrekare başına düşen watt) olarak belirtilmiştir.",
+        "explanation": "Işınımsal zorlama"
+    },
+    "8": {
+        "title": "Tarım ve Hayvancılık",
+        "backDescription": "Tarım tek başına çok fazla CO2 salımında bulunmaz ancak çeltik alanları ve endüstriyel hayvancılık (büyükbaş hayvanlar) metan salımında rol oynar. Aynı zamanda tarımda yüksek miktarda kullanılan azot oksit (suni gübre) de sera etkisini arttırır. Toplamda,",
+        "explanation": "Tarım ve Hayvancılık"
+    },
+    "7": {
+        "title": "CO2 emisyonu (salımı)",
+        "backDescription": "CO2 ilk ve en önemli insan aktivitesi kaynaklı sera gazıdır. CO2 salımı, insanların fosil yakıt kullanımından kaynaklanır. Aynı zamanda, ormanların yok edilmesi de ağaçların gövdelerinde tuttuğu CO2'nin yanarak açığa çıkmasıyla sera etkisini arttırıcı rol",
+        "explanation": "CO2 emisyonu (salımı)"
+    },
+    "13": {
+        "title": "İlave sera etkisi",
+        "backDescription": "Sera etkisi doğal bir fenomendir (aslında öncelikli sera gazı su buharıdır). Sera etkisi olmasaydı gezegenimiz 33°C daha soğuk olacak ve hayat bildiğimiz haliyle var olamayacaktı. Ancak insan aktivitesine bağlı CO2 ve diğer sera gazları doğal sera etkisin",
+        "explanation": "İlave sera etkisi"
+    },
+    "16": {
+        "title": "Buzulların erimesi",
+        "backDescription": "Dünya'daki hemen hemen bütün buzullar küçülmüştür, yüzlercesi de yok olmuştur. Bu buzullar, temiz su kaynakları açısından oldukça büyük önem taşımaktadır.",
+        "explanation": "Buzulların erimesi"
+    },
+    "5": {
+        "title": "Fosil Yakıtlar",
+        "backDescription": "Fosil yakıtlar kömür, petrol, ve doğal gazdır. Ulaşımda, binalarda ve endüstride kullanılır. Yakıldığında CO2 (karbondiyoksit) açığa çıkarırlar.",
+        "explanation": "Fosil Yakıtlar"
+    },
+    "9": {
+        "title": "Diğer sera gazları",
+        "backDescription": "CO2 sera etkisine sahip olan tek gaz değildir. Diğer gazlar içerisinde tarım ve hayvancılık sebebiyle açığa çıkan metan (CH4) ve azot oksit (N2O) vardır.",
+        "explanation": "Diğer sera gazları"
+    },
+    "12": {
+        "title": "Karbon Yutakları",
+        "backDescription": "Her yıl üretilen CO2 emisyonlarının yarısı doğal karbon yutakları tarafından tutulur:\n - 1/4 bitkiler tarafından fotosentez yoluyla\n - 1/4 okyanuslar tarafından\n Diğer yarısı (1/2) ise atmosferde kalır.",
+        "explanation": "Karbon Yutakları"
+    },
+    "6": {
+        "title": "Ormansızlaştırma (Ormanların yok edilmesi)",
+        "backDescription": "Ormansızlaştırma ormanların kendilerini yenileyemeyeceği ölçüde ağaçların kesilerek veya yakılarak yok edilmesidir. Dünyada ormanların yok olmasının sebebi %80 tarımdır.",
+        "explanation": "Ormansızlaştırma (Ormanların yok edilmesi)"
+    },
+    "17": {
+        "title": "Su sıcaklığındaki artış",
+        "backDescription": "Okyanuslar, dünyaya gelen enerjinin %93'ünü toplamaktadır. Dolayısıyla okyanusların sıcaklığı, özellikle de üst katmanlarda artmıştır. Su, sıcaklığı arttıkça (4°C'den yüksek sıcaklıklarda) genleşir.",
+        "explanation": "Su sıcaklığındaki artış"
+    },
+    "14": {
+        "title": "Enerji bütçesi",
+        "backDescription": "Bu grafik, ışınımsal zorlama sebebiyle toplanan enerjinin dünya üzerindeki dağılımını göstermektedir: Okyanusları ısıtır, buzulları eritir, toprak alanlara dağılır ve atmosferi ısıtır",
+        "explanation": "Enerji bütçesi"
+    },
+    "11": {
+        "title": "CO2 konsantrasyonu (ppm)",
+        "backDescription": "CO2 emisyonlarının yarısı doğal karbon yutakları tarafından tutulur. Diğer yarısı ise atmosferde kalır. Son 50 yılda CO2'nin atmosferdeki konsantrasyonu 280 ppm'den 410 ppm'e (ppm = her milyondaki partikül miktarı) yükselmiştir.",
+        "explanation": "CO2 konsantrasyonu (ppm)"
+    }
+}

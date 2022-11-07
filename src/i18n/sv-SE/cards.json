@@ -1,0 +1,212 @@
+{
+    "2": {
+        "title": "Industri",
+        "backDescription": "Industrin använder fossila bränslen och elektricitet. Den står för 40% av växthusgasutsläppen.",
+        "explanation": "Industri"
+    },
+    "3": {
+        "title": "Byggnader",
+        "backDescription": "Byggsektorn (boende och kommersiella fastigheter) använder fossila bränslen och elektricitet. Den uppgår till 20% av växthusgasutsläppen.",
+        "explanation": "Byggnader"
+    },
+    "4": {
+        "title": "Transport",
+        "backDescription": "Transportsektorn är särskilt oljeberoende. Den uppgår till 15% av växthusgasutsläppen.",
+        "explanation": "Transport"
+    },
+    "38": {
+        "title": "Hälsa",
+        "backDescription": "Svält, förflyttningar av sjukdomsvektorer, värmeböljor och väpnade konflikter påverkar människors hälsa.",
+        "explanation": "Hälsa"
+    },
+    "5": {
+        "title": "Fossila bränslen",
+        "backDescription": "Fossila bränslen är kol, olja och naturgas. De används i byggnader, transporter, och industrin. De släpper ut koldioxid när de förbränns.",
+        "explanation": "Fossila bränslen"
+    },
+    "1": {
+        "title": "Mänskliga aktiviteter",
+        "backDescription": "Allt startar här...",
+        "explanation": "Mänskliga aktiviteter"
+    },
+    "25": {
+        "title": "Landlevande biologisk mångfald",
+        "backDescription": "Djur och växter påverkas av både temperaturförändringar och störningar av vattnets kretslopp. De migrerar, dör, eller (mer sällan) sprider sig.",
+        "explanation": "Landlevande biologisk mångfald"
+    },
+    "32": {
+        "title": "Minskade skörder",
+        "backDescription": "Matproduktion kan påverkas av temperaturförändringar, torka, extremväder, översvämningar eller kustöversvämningar (t ex i Nildeltat).",
+        "explanation": "Minskade skörder"
+    },
+    "31": {
+        "title": "Sötvattentillgångar",
+        "backDescription": "Sötvattentillgångarna påverkas av förändrad nederbörd och försvinnandet av glaciärer, vilka spelar en reglerande roll för flödet i floder och vattendrag.",
+        "explanation": "Sötvattentillgångar"
+    },
+    "11": {
+        "title": "Koldioxidhalt (ppm)",
+        "backDescription": "Ungefär hälften av våra koldioxidutsläpp fångas av naturliga kolsänkor medan den andra halvan stannar i atmosfären. Koncentrationen av koldioxid i luften har de senaste 150 åren ökat från 280 till 415 ppm (parts per million). Det är den högsta koldioxidha",
+        "explanation": "Koldioxidhalt (ppm)"
+    },
+    "24": {
+        "title": "Havsförsurning",
+        "backDescription": "När koldioxid löses upp i haven, omvandlas det till syrajoner (H2CO3 and HCO3-). Detta leder till en försurning av haven (pH-halten minskar).",
+        "explanation": "Havsförsurning"
+    },
+    "29": {
+        "title": "Rovsimsnäckor och Coccoliter",
+        "backDescription": "Rovsimsnäckor är zooplankton och Coccoliter är fytoplankton. Dessa organismer har kalkstenskal.",
+        "explanation": "Rovsimsnäckor och Coccoliter"
+    },
+    "17": {
+        "title": "Ökning av vattentemperaturen",
+        "backDescription": "Havet absoberar 91% av den energi som ackumulerats på jorden. Därför ökar dess temperatur, särskilt i de övre lagren. Vatten expanderar när det blir varmare.",
+        "explanation": "Ökning av vattentemperaturen"
+    },
+    "12": {
+        "title": "Kolsänkor",
+        "backDescription": "Hälften av den koldioxid vi släpper ut årligen aborberas av kolsänkor: \n- 1/4 av vegetation via fotosyntes\n- 1/4 av havet\nDen resterande halvan stannar i atmosfären.",
+        "explanation": "Kolsänkor"
+    },
+    "28": {
+        "title": "Sjukdomsvektorer",
+        "backDescription": "Den globala uppvärmningen orsakar migration av djurarter. Vissa djur är sjukdomsbärare, och de kommer att nå områden där befolkningen inte är motståndskraftig mot av dessa sjukdomar.",
+        "explanation": "Sjukdomsvektorer"
+    },
+    "27": {
+        "title": "Marin biologisk mångfald",
+        "backDescription": "Rovsimsnäckor och Coccoliter utgör basen av havets näringskedja. Därför hotas hela den biologiska mångfalden i havet om de försvinner. Uppvärmningen av havet är även ett direkt hot mot den marina biologiska mångfalden.",
+        "explanation": "Marin biologisk mångfald"
+    },
+    "10": {
+        "title": "Aerosoler",
+        "backDescription": "Klimatmässigt har detta inget att göra med sprayflaskor. Aerosoler är en form av lokal förorening som uppkommer vid ofullständig förbränning av fossila bränslen. De har skadlig inverkan på mänsklig hälsa och bidrar negativt till strålningsdrivningen, vilk",
+        "explanation": "Aerosoler"
+    },
+    "26": {
+        "title": "Översvämningar",
+        "backDescription": "Störningar av vattnets kretslopp kan leda till ökade eller minskade mängder vatten. Mer vatten kan leda till översvämningar av floder och vattendrag. Om jordskorpan är uttorkad kan det få värre konsekvenser eftersom vattnet rinner av, i stället för att ab",
+        "explanation": "Översvämningar"
+    },
+    "30": {
+        "title": "Torka",
+        "backDescription": "Störningar av vattnets kretslopp kan leda till ökade eller minskade mängder vatten. När störningarna leder till mindre vatten kan torka uppstå. Torka kommer sannolikt att bli mer vanligt förekommande i framtiden.",
+        "explanation": "Torka"
+    },
+    "6": {
+        "title": "Avskogning",
+        "backDescription": "Avskogning är definierat som att hugga ner eller bränna träd bortom skogens egna återhämtningsförmåga. 80% av avskogningen drivs av jordbrukets utvidgning.",
+        "explanation": "Avskogning"
+    },
+    "14": {
+        "title": "Energibudget",
+        "backDescription": "Grafen förklarar vart den energi som ackumulerats på jorden tack vare strålningsdrivningen tar vägen: den värmer havet, smälter is, sprids i marken och värmer upp atmosfären.",
+        "explanation": "Energibudget"
+    },
+    "23": {
+        "title": "Hindrad förkalkningsprocess",
+        "backDescription": "När pH-värdet sjunker blir förkalkning svårare (speciellt bildandet av kalkhaltiga skal).",
+        "explanation": "Hindrad förkalkningsprocess"
+    },
+    "22": {
+        "title": "Havsnivåhöjning",
+        "backDescription": "Sedan 1900 havsnivån har stigit med 20 cm. Höjning av havsnivån orsakas av havsvattnets termiska expansion och smältningen av glaciärer.",
+        "explanation": "Havsnivåhöjning"
+    },
+    "15": {
+        "title": "Strålningsdrivning",
+        "backDescription": "Strålningsdrivning är skillnaden mellan mängden energi som tillkommer på jorden varje sekund, och den energi som lämnar jorden. Den är beräknad till totalt 2.8 W/m² (Watt per kvadratmeter): 3.8 W/m² från växthuseffekten och -1 W/m² från aerosoler.",
+        "explanation": "Strålningsdrivning"
+    },
+    "21": {
+        "title": "Temperaturökning",
+        "backDescription": "Luftens medeltemperatur på jordytan har sedan år 1900 ökat med 1.2°C. Utsläppsscenarion för framtiden förutspår att denna ökning kan nå upp emot 2 till 5°C år 2100. Under den senaste istiden för 20.000 år sedan var jordens medeltemperatur 5°C lägre än dag",
+        "explanation": "Temperaturökning"
+    },
+    "20": {
+        "title": "Störning av vattnets kretslopp",
+        "backDescription": "Varmare hav och en varmare atmosfär leder till en starkare avdunstning, vilket orsakar regnmoln och nederbörd. Varmare landområden och en varmare atmosfär leder också till en kraftigare avdunstning, men detta leder till att marken torkar ut.",
+        "explanation": "Störning av vattnets kretslopp"
+    },
+    "16": {
+        "title": "Smältning av glaciärer",
+        "backDescription": "Nästan alla glaciärer har förlorat massa, och hundratals av dem har försvunnit. Glaciärer spelar en viktig roll som reglerande källa för sötvatten",
+        "explanation": "Smältning av glaciärer"
+    },
+    "19": {
+        "title": "Smältning av istäcken",
+        "backDescription": "Kontinentala glaciärer (eller istäcken) finns på Grönland och Antarktis. Om de skulle smälta helt och hållet, skulle de orsaka en höjning av havsnivån med 7 meter för Grönland, och 54 meter för Antarktis. Under den senaste istiden var istäckena så stora a",
+        "explanation": "Smältning av istäcken"
+    },
+    "18": {
+        "title": "Smältning av havsis",
+        "backDescription": "Smältning av havsis bidrar inte till att höja havsnivån (ytnivån i ett glas vatten stiger inte när en isbit i glaset smälter).",
+        "explanation": "Smältning av havsis"
+    },
+    "13": {
+        "title": "Ytterliggare växthuseffekt",
+        "backDescription": "Växthuseffekten är ett naturligt fenomen (en huvudsaklig växthusgas är vattenånga). Utan växthuseffekten skulle planeten vara 33°C kallare och liv som vi känner det idag skulle inte vara möjligt. Men, koldioxid och andra växthusgaser som kommer från mänsk",
+        "explanation": "Ytterliggare växthuseffekt"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost är permanent frusen mark. Denna mark har börjat tina vilket frigör metan som lagrats under marken och som nu når atmosfären. Detta skapar en så kallad positiv återkoppling, precis som skogsbränder och smältande havsis.",
+        "explanation": "Permafrost"
+    },
+    "39": {
+        "title": "Klimatflyktingar",
+        "backDescription": "Föreställ dig att du bor på en plats som på ett mirakulöst sätt har undgått klimatförändringar. Miljarder människor kan komma att vilja dela den platsen med dig.",
+        "explanation": "Klimatflyktingar"
+    },
+    "40": {
+        "title": "Väpnade konflikter",
+        "backDescription": "Såhär ska vi inte låta det sluta...",
+        "explanation": "Väpnade konflikter"
+    },
+    "8": {
+        "title": "Jordbruk",
+        "backDescription": "Jordbruket släpper inte ut så mycket koldioxid, men däremot stora mängder metan (från boskap och risfält) och lustgas (från gödsel). Totalt står jordbrukssektorn för 25% av de globala växthusgasustläppen, om en räknar med utsläpp från avskogning.",
+        "explanation": "Jordbruk"
+    },
+    "7": {
+        "title": "Koldioxidutsläpp",
+        "backDescription": "Koldioxid står för den största delen av de antropogena (dvs som uppstår från mänsklig aktivitet) utsläppen av växthusgaser. Koldioxidutsläpp uppstår vid förbränning av fossila bränslen och avskogning.",
+        "explanation": "Koldioxidutsläpp"
+    },
+    "36": {
+        "title": "Värmeböljor",
+        "backDescription": "En konsekvens av högre temperaturer är mer frekventa värmeböljor.",
+        "explanation": "Värmeböljor"
+    },
+    "37": {
+        "title": "Svält",
+        "backDescription": "Svält kan uppstå efter minskade skördar samt av reducerad biologisk mångfald i havet.",
+        "explanation": "Svält"
+    },
+    "35": {
+        "title": "Skogsbränder",
+        "backDescription": "Skogsbränder startas och spridas lättare vid torka och värmeböljor.",
+        "explanation": "Skogsbränder"
+    },
+    "9": {
+        "title": "Andra växthusgaser",
+        "backDescription": "Koldioxid är inte den enda växthusgasen. Metan (CH4) och lustgas (N2O) är två andra växthusgaser. Dessa uppstår främst inom jordbruket.",
+        "explanation": "Andra växthusgaser"
+    },
+    "42": {
+        "title": "Försvagad Golfström",
+        "backDescription": "Golfströmmen är en del av havets termohalina cirkulation. När Grönlands istäcke smälter kan ökningen av sötvatten leda till att golfströmmen försvagas. Detta kan störa vattnets kretslopp ännu mer och reducera havets kapacitet att absorbera koldioxid och v",
+        "explanation": "Försvagad Golfström"
+    },
+    "34": {
+        "title": "Cykloner",
+        "backDescription": "Cykloner använder sig av energi från varmt vatten på havsytan. De blir allt starkare på grund av den globala uppvärmningen.",
+        "explanation": "Cykloner"
+    },
+    "33": {
+        "title": "Kustöversvämningar",
+        "backDescription": "Cykloner och andra oväder påverkar vindar (och därför även vågor) samt leder till sänkt havsnivåtryck. En hectopascal (hPa) mindre innebär en höjning av havsnivån med 1 cm. Därför kan cykloner orsaka kustöversvämningar, förstärkta av den höjda havsnivån s",
+        "explanation": "Kustöversvämningar"
+    }
+}

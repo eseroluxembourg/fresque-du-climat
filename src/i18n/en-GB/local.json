@@ -1,0 +1,36 @@
+{
+  "mode": "adult",
+  "print": false,
+  "url": "https://climatefresk.org/wp-content/uploads/2022/04/Climate-Fresk-EN-GB-Adults-V8.1.pdf",
+  "mini": false,
+  "version": "8.1",
+  "logo-full": "en-GB/logo-full.png",
+  "logo": "logo-simple.png",
+  "about":  {
+    "preview": "previews/memo-fresque-logo-1200-630-en.png",
+    "local-description": "<a href='https://fresqueduclimat.org' target='_blank'>La Fresque du Climat</a> est un atelier de sensibilisation où les participants co-construisent une fresque résumant les mécanismes du changement climatique tels qu'expliqués dans les rapports du GIEC.<br/> Le memo de la Fresque du Climat a pour but de proposer aux animateurs un accès rapide aux cartes particulièrement sur mobile afin de réviser les liens ou approfondir leurs connaissances.<br/> Vous avez remarqué un bug ou vous avez une amélioration à proposer, contactez-nous sur le canal dédié sur <a href='https://t.me/memofdc' target='_blank'>Telegram</a>"
+  },
+  "description": {
+    "site": "Climate Fresk card essentials. Explanations, causes and consequences, links and videos about each card explaining climate change.",
+    "all-cards": "Climate Fresk card essentials. Explanations, causes and consequences, links and videos about each card explaining climate change.",
+    "card": "Climate Fresk card '{cardTitle}' - {cardDesc} - description, causes and consequences and video explaining the climate change.",
+    "about": "Climate Fresk card essentials. Presentation of the goal of the Climate Fresk Memo website"
+  },
+  "config": {
+    "title": "Climate Fresk",
+    "subtitle": " Understanding Climate Change",
+    "website-url": "https://fresqueduclimat.org",
+    "wiki-root-url": "https://fresqueduclimat.org",
+    "instagram-root-url": "https://www.instagram.com/p/"
+  },
+  "layout": {
+    "set1": "Set 1 - Correction",
+    "set2": "Set 2 - Correction",
+    "set3": "Set 3 - Correction",
+    "set4": "Set 4 - Correction",
+    "full": "Climate Fresk - Correction",
+    "quiz2": "Quiz Fresk circle version in 32 cards",
+    "quiz31": "Quiz Fresk in 30 cards",
+    "giant-2x6": "giant-2x6"
+  }
+}

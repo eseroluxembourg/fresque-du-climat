@@ -1,0 +1,212 @@
+{
+    "1": {
+        "title": "Mënschlech Aktivitéiten",
+        "backDescription": "Hei geet et un... ",
+        "explanation": "Mënschlech Aktivitéiten"
+    },
+    "27": {
+        "title": "Mieresbiodiversitéit",
+        "backDescription": "De Plankton bildt d'Grondlag vun der Nahrungsketten am Ozean. Wann e verschwënnt kënnt d'ganz Biodiversitéit am Mier a Gefor. Och d'Erwiermung vum Mierwaasser ass esoueng Gefor. ",
+        "explanation": "Mieresbiodiversitéit"
+    },
+    "14": {
+        "title": "Energiebilan vun der Äerd",
+        "backDescription": "Dës Grafik erkläert, wou d'Energie higeet, déi sech op der Äerd duerch de forçage radiatif ugesammelt huet: se erwiermt den Ozean, deet d'Äis schmëlzen an erhëtzt d'Atmosphär. ",
+        "explanation": "Energiebilan vun der Äerd"
+    },
+    "28": {
+        "title": "Iwwerdroer vu Kränkten",
+        "backDescription": "Duerch d'Erwiermung migréieren d'Déieren. Verschiddener iwwerdroe Kränkten a kënnen duerch d'Migratioun Géigenden erreechen, wou d'Populatioun net immun dogéint ass. ",
+        "explanation": "Iwwerdroer vu Kränkten"
+    },
+    "2": {
+        "title": "Industrie",
+        "backDescription": "D'Industrie benotzt fossil Brennstoffen a Stroum. Se stellt 40% vun den Emissioune vun Zäregasen (ZG) duer. ",
+        "explanation": "Industrie"
+    },
+    "19": {
+        "title": "Schmëlze vum den Äiskappen",
+        "backDescription": "D'Äiskappen sinn a Grönland an an der Antarktis. Wann se ganz géife schmëlzen, da géif de Mieresspigel 7 m eropgoen fir Grönland a 54 m fir d'Antarktis. \nAn der leschter Äiszäit waren d'Äiskappen esou déck, dass de Mieresspigel 120 m méi niddreg war wéi e",
+        "explanation": "Schmëlze vum den Äiskappen"
+    },
+    "18": {
+        "title": "Schmëlze vum Mieräis",
+        "backDescription": "Duerch d'Schmëlze vum Mieräis geet de Mieresspigel net erop (en Äiscube am Waasser deet d'Glas net iwwerlafe, wann e schmëlzt). Par contre, wann d'Äis schmëlzt, gëtt d'Uewerfläch do méi däischter a reflektéiert d'Sonnestrahle manner (Albedo-Effekt). ",
+        "explanation": "Schmëlze vum Mieräis"
+    },
+    "15": {
+        "title": "Forçage radiatif",
+        "backDescription": "De forçage radiatif (et gëtt kee gutt Wuert dofir op Lëtzebuergesch) stellt d'Ongläichgewiicht duer tëscht däer Energie, déi all Sekonn op der Äerd ukënnt, an däer, déi nees fortgeet. \nDe forçage radiatif sinn 3,1 W/m2 (Watt pro Quadratmeter) fir den Zäre",
+        "explanation": "Forçage radiatif"
+    },
+    "25": {
+        "title": "terrestresch Biodiversitéit",
+        "backDescription": "Déieren a Planze si vun de Verännerunge vun Temperatur a Waasserkreeslaf staark betraff: se probéieren, op enger anerer Plaz Fouss ze faassen, se stierwen, an a seelene Fäll vermehren se sech. ",
+        "explanation": "terrestresch Biodiversitéit"
+    },
+    "8": {
+        "title": "Landwirtschaft",
+        "backDescription": "D'Landwirtschaft emittéiert e bëssen CO2, mee vill Methan (Rëndvéi a Räisfelder) a Laachgas oder Distéckstoffmonoxid (Dünger). Alles zesumme mécht dat 25% vun den ZG-Emissiounen aus, wann een déi induzéiert Deforestatioun mat abezitt. ",
+        "explanation": "Landwirtschaft"
+    },
+    "38": {
+        "title": "Gesondheet vum Mënsch",
+        "backDescription": "Hongersnéit, Iwwerdroer vu Kränkten, Hëtzwellen an arméiert Konflikter kënnen d'Gesondheet vum Mënsch op d'Spill setzen. ",
+        "explanation": "Gesondheet vum Mënsch"
+    },
+    "13": {
+        "title": "Zousätzlechen Zäreneffekt",
+        "backDescription": "Den Zäreneffekt ass en natierleche Phänomen, deen éischten Zäregas (ZG) ass iwwregens Waasserdamp. Ouni den Zäreneffekt wir eise Planéit eng 33 °C méi kal. Mee den CO2 and déi aner vum Mënsch ausgestoussen ZGe verstäerken deen natierlechen Zäreneffekt, wa",
+        "explanation": "Zousätzlechen Zäreneffekt"
+    },
+    "3": {
+        "title": "Benotzung vu Gebaier",
+        "backDescription": "D'Notzung vu Gebaier (Logement a Servicer) benotzt fossil Energien a Stroum. Dat stellt 20% vun den Zäregasen (ZG) duer. ",
+        "explanation": "Benotzung vu Gebaier"
+    },
+    "42": {
+        "title": "Methanhydraten",
+        "backDescription": "Methanhydraten oder -clathraten sinn eng Zort Äis, déi um Mieresbuedem laanscht d'Kontinentalhäng läit. Si kënnen onstabil ginn, wann d'Temperatur ëm méi wéi 2 °C zouhëllt. ",
+        "explanation": "Methanhydraten"
+    },
+    "5": {
+        "title": "Fossil Brennstoffer",
+        "backDescription": "Fossil Brennstoffer si Kuel, Pëtrol a Gas. Se gi virum allem an de Gebaier, dem Transport an der Industrie benotzt. Wann se verbrannt gi stoussen se CO2 aus. ",
+        "explanation": "Fossil Brennstoffer"
+    },
+    "24": {
+        "title": "Versauerung vun den Ozeanen",
+        "backDescription": "Wa sech CO2 am Waasser vum Ozean opléist, gëtt en zu saueren Ionen (H2CO3 an HCO3-). Dat féiert derzou, dass den Ozean méi sauer gëtt (de pH-Wäert geet erof). ",
+        "explanation": "Versauerung vun den Ozeanen"
+    },
+    "21": {
+        "title": "Hausse vun der Temperatur",
+        "backDescription": "Hei geet et ëm d'Lofttemperatur um Buedem, an der Moyenne op der ganzer Äerd. Zënter 1900 ass se scho bal 1 °C eropgaang. Je no Szenario wäert se bis 2100 ëm 2 bis 5 °C eropgaang sinn. An der läschter Äiszäit, virun 20.000 Joer, war se nëmme 5°C méi niddr",
+        "explanation": "Hausse vun der Temperatur"
+    },
+    "31": {
+        "title": "Séisswaasserressourcen",
+        "backDescription": "Séisswaasserressource gi beaflosst vu Verännerungen am Nidderschlag a vum Verschwanne vu Gletscheren, déi bäi der Regulatioun vun de Flëss eng Roll spillen. ",
+        "explanation": "Séisswaasserressourcen"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost ass Buedem, dee permanent gefruer ass. Wann en entdeet, zersetzt sech organesch Matière a setzt Methan an CO2 fräi. Et ass bal sécher, dass bäi méi wéi 2 °C Ophëtzung dee Phänomen sech selwer acceleréiert an dass de Klimawandel dann onberecheba",
+        "explanation": "Permafrost"
+    },
+    "34": {
+        "title": "Zyklonen",
+        "backDescription": "Zyklonen huelen hir Energie aus dem waarme Waasser un der Mieresuewerfläch. Duerch de Klimawandel gi se méi staark. ",
+        "explanation": "Zyklonen"
+    },
+    "10": {
+        "title": "Aerosolen",
+        "backDescription": "En Aerosol ass e Gas, an deem butzeg fest oder flësseg Deelercher schwiewen. D'Verbrennung vu fossilen Energië féiert zur Bildung vun Aerosolen, déi schiedlech fir d'Gesondheet sinn an en negative Bäitrag op de forçage radiatif hunn - dat heescht, si kill",
+        "explanation": "Aerosolen"
+    },
+    "16": {
+        "title": "Schmëlze vun de Gletscheren",
+        "backDescription": "Bal all d'Gletscheren hunn u Mass verluer, Honnerte si scho ganz verschwonn. Mee d'Gletscheren hunn eng reguléierend Roll als Quell vu Séisswaasser.  ",
+        "explanation": "Schmëlze vun de Gletscheren"
+    },
+    "4": {
+        "title": "Transport",
+        "backDescription": "Den Transportsektor as staark ofhängeg vum Pëtrol. E représentéiert 15% vun den Emissioune vun Zäregasen (ZG). ",
+        "explanation": "Transport"
+    },
+    "11": {
+        "title": "CO2-Konzentratioun (ppm)",
+        "backDescription": "Ronn d'Halschent vun eisem CO2-Ausstouss gëtt vun natierleche Kuelestoffpëtzer opgefaang, déi aner Halschent bleift an der Atmosphär. D'CO2-Konzentratioun an der Atmosphär ass a 150 Joer vun 280 op 410 ppm eropgaang (parts per million). ",
+        "explanation": "CO2-Konzentratioun (ppm)"
+    },
+    "26": {
+        "title": "Héichwaasser",
+        "backDescription": "D'Stéierung vum Waasserkreeslaf ka méi Waasser oder manner Waasser bedeiten. Méi Waasser féiert zu Héichwaasser (Iwwerschwemmung). Et gëtt méi schro wann de Buedem virdrun wéinst Dréchent haart ginn ass, well dann d'Waasser driwwer leeft amplaz anzesicker",
+        "explanation": "Héichwaasser"
+    },
+    "23": {
+        "title": "Probleme bäi der Calcificatioun",
+        "backDescription": "Wann de pH-Wäert erofgeet, gëtt d'Bildung vu Kallek (méi genee gesot vu Kallekschuelen) méi schwéier. ",
+        "explanation": "Probleme bäi der Calcificatioun"
+    },
+    "9": {
+        "title": "Aner ZGen",
+        "backDescription": "Den CO2 ass net deen eenzegen Zäregas. Et gëtt och nach de Methan (CH4) an de Laachgas (N2O, Distéckstoffmonoxid), déi allebéid zum groussen Deel aus der Landwirtschaft kommen, an eng Rëtsch aner ZGen. ",
+        "explanation": "Aner ZGen"
+    },
+    "22": {
+        "title": "Montée vum Mieresspigel",
+        "backDescription": "Zënter 1900 ass de Mieresspigel ëm 20 cm eropgaang. D'Grënn dofir sinn d'thermesch Ausdeenung vum Waasser an d'Schmëlze vu Gletscheren a Poläis. ",
+        "explanation": "Montée vum Mieresspigel"
+    },
+    "32": {
+        "title": "Baisse vun de Rendementën an der Landwirtschaft",
+        "backDescription": "D'landwirtschaftlech Produktioun gëtt beaflosst vun der Temperatur, den Dréchenten, extremem Wieder, Héichwaasser an Iwwerschwemmungen (z.B. am Nildelta)",
+        "explanation": "Baisse vun de Rendementën an der Landwirtschaft"
+    },
+    "17": {
+        "title": "Hausse vun der Waassertemperatur",
+        "backDescription": "Den Ozean absorbéiert 93% vun der Energie déi sech opder Äerd usammelt. Wann d'Waasser méi waarm gëtt, deent et sech aus. ",
+        "explanation": "Hausse vun der Waassertemperatur"
+    },
+    "39": {
+        "title": "Klimaflüchtlingen",
+        "backDescription": "Stellt iech vir, dir wunnt op enger Plaz, déi wéi e Wonner vum Klimawandel verschount bliwwen ass. E puer Milliarde Mënsche wëllen dee Raum elo mat iech deelen...",
+        "explanation": "Klimaflüchtlingen"
+    },
+    "29": {
+        "title": "Pteropoden a Coccolithophoren",
+        "backDescription": "Pteropode sinn Zooplankton a Coccolithophore si Phytoplankton. Dës Mikroorganismen hunn eng Schuel aus Kallek. ",
+        "explanation": "Pteropoden a Coccolithophoren"
+    },
+    "20": {
+        "title": "Perturbatioun vum Waasserkreeslaf",
+        "backDescription": "Wann d'Waasser an d'Loft méi waarm ginn, da verdonst méi Waasser un der Uewerfläch vum Ozean. Dat féiert zu méi Wolleken a méi Reen. Mee wann d'Verdonstung u Land stattfënnt, dréchent de Buedem aus. ",
+        "explanation": "Perturbatioun vum Waasserkreeslaf"
+    },
+    "12": {
+        "title": "Kuelestoffpëtzer",
+        "backDescription": "D'Halschent vum CO2, dee mir all Joers ausstoussen, gëtt vu Kuelestoffpëtzer absorbéiert: \n- 1/4 vun der Vegetatioun, duerch d'Photosynthes\n- 1/4 vun den Ozeanen. \nDéi aner Halschent bleift an der Atmosphär. \n",
+        "explanation": "Kuelestoffpëtzer"
+    },
+    "36": {
+        "title": "Hëtzwellen",
+        "backDescription": "Eng Manifestatioun vun der Hausse vun den Temperaturen ass, dass Hëtzwelle méi heefeg ginn. ",
+        "explanation": "Hëtzwellen"
+    },
+    "33": {
+        "title": "Iwwerschwemmungen",
+        "backDescription": "D'Hausse vum Mieresspigel, Zyklonen a Wirbelstierm brénge Wand, Wellen an Nidderdrock. Se kënnen Iwwerschwemmunge verursaachen, well 1 hPa (Hektopascal) manner bedeit ongeféier 1 cm méi Waasser. ",
+        "explanation": "Iwwerschwemmungen"
+    },
+    "40": {
+        "title": "Arméiert Konflikter",
+        "backDescription": "Mir musse verhënneren, dass dat do d'Enn ass. ",
+        "explanation": "Arméiert Konflikter"
+    },
+    "7": {
+        "title": "CO2-Emissiounen",
+        "backDescription": "Den CO2 ass op der éischter Plaz vun den anthropogenen (d.h.  mat mënschlechen Aktivitéite verbonnenen) Zäregasen (ZG). Dës Emissiounen entstinn duerch d'Notze vu fossilen Energien an Deforestatioun. ",
+        "explanation": "CO2-Emissiounen"
+    },
+    "30": {
+        "title": "Dréchenten",
+        "backDescription": "D'Stéierung vum Waasserkreeslaf ka méi Waasser oder manner Waasser bedeiten. Manner Waasser féiert zu Dréchent. Wahrscheinlech ginn Dréchente méi heefeg an Zukunft. ",
+        "explanation": "Dréchenten"
+    },
+    "35": {
+        "title": "Bëschbränn",
+        "backDescription": "Bëschbränn gi begënschtegt duerch Dréchenten an Hëtzwellen. ",
+        "explanation": "Bëschbränn"
+    },
+    "6": {
+        "title": "Deforestatioun",
+        "backDescription": "Deforestatioun besteet doran, dass ee méi Beem ëmmécht oder verbrennt, wéi der natierlech nowuessen. D'Deforestatioun kënnt zu 80% vun der Landwirtschaft. ",
+        "explanation": "Deforestatioun"
+    },
+    "37": {
+        "title": "Hongersnéit",
+        "backDescription": "Hongersnéit kënnen duerch méi niddreg landwirtschaftlech Erdräg an eng méi niddreg Biodiversitéit am Mier. ",
+        "explanation": "Hongersnéit"
+    }
+}

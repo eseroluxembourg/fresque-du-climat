@@ -1,0 +1,212 @@
+{
+    "9": {
+        "title": "Emisije ostalih stakleničkih plinova (GHG)",
+        "backDescription": "CO2 nije jedini staklenički plin (GHG). Među ostalima su metan (CH4) i dušikov oksid (N2O), a oba ta plina dolaze uglavnom od poljoprivrednih djelatnosti.",
+        "explanation": "Emisije ostalih stakleničkih plinova (GHG)"
+    },
+    "22": {
+        "title": "Porast razine mora",
+        "backDescription": "Od 1900. godine razina mora porasla je za 20 cm. Porast uzrokuju:\n1) toplinska dilatacija (volumno širenje) oceanskih voda, \n2) topljenje kopnenih ledenjaka, \n3) topljenje polarnih ledenih kapa.",
+        "explanation": "Porast razine mora"
+    },
+    "4": {
+        "title": "Prijevoz",
+        "backDescription": "Sektor prijevoza uvelike ovisi o nafti. Odgovoran je za 15% emisija stakleničkih plinova (GHG).",
+        "explanation": "Prijevoz"
+    },
+    "20": {
+        "title": "Poremećaj hidrološkog ciklusa",
+        "backDescription": "Topliji oceani i toplija atmosfera dovode do većeg isparavanja, koje uzrokuje stvaranje kišnih oblaka i padaline.\n\nToplija zemlja i toplija atmosfera isto tako dovode do većeg isparavanja, koje u tom slučaju uzrokuje isušivanje zemlje.",
+        "explanation": "Poremećaj hidrološkog ciklusa"
+    },
+    "37": {
+        "title": "Glad",
+        "backDescription": "Glad može biti posljedica smanjenih poljoprivrednih prinosa i gubitka morske bioraznolikosti.",
+        "explanation": "Glad"
+    },
+    "24": {
+        "title": "Zakiseljavanje oceana",
+        "backDescription": "Kad se CO2 otopi u oceanu, pretvara se u ugljičnu kiselinu H2CO3 te bikarbonatni ion HCO3-. To povećava kiselost oceana i pH vrijednost pada.",
+        "explanation": "Zakiseljavanje oceana"
+    },
+    "19": {
+        "title": "Topljenje polarnih ledenih kapa",
+        "backDescription": "Grenland i Antarktik su polarne ledene kape (dakle, kopneni ledenjaci). Kada bi se potpuno otopile, razina mora bi porasla za 7 metara (za Grenland) odnosno za 54 metra (za Antarktiku). Tijekom posljednjeg ledenog doba, bile su toliko velike da je razina ",
+        "explanation": "Topljenje polarnih ledenih kapa"
+    },
+    "32": {
+        "title": "Smanjenje poljoprivrednih prinosa",
+        "backDescription": "Proizvodnja hrane može ovisiti o temperaturi, sušama, ekstremnim vremenskim pojavama, poplavama i potapanjima priobalnih područja (npr. delta Nila).",
+        "explanation": "Smanjenje poljoprivrednih prinosa"
+    },
+    "40": {
+        "title": "Oružani sukobi",
+        "backDescription": "Trebali bismo izbjeći da sve tako završi…",
+        "explanation": "Oružani sukobi"
+    },
+    "6": {
+        "title": "Deforestacija",
+        "backDescription": "Deforestacija je sječa ili spaljivanje drveća iznad mogućnosti obnove šume prirodnim putem. Širenje poljoprivrede odgovorno je za 80% deforestacije.",
+        "explanation": "Deforestacija"
+    },
+    "2": {
+        "title": "Industrija",
+        "backDescription": "Industrija koristi fosilna goriva i struju. Industrijska potrošnja odgovorna je za 40% emisija stakleničkih plinova (GHG).",
+        "explanation": "Industrija"
+    },
+    "31": {
+        "title": "Slatkovodni resursi",
+        "backDescription": "Na slatkovodne resurse utječu promjene u količini padalina te nestanak kopnenih ledenjaka. Kopneni ledenjaci reguliraju riječne tokove.",
+        "explanation": "Slatkovodni resursi"
+    },
+    "21": {
+        "title": "Povišenje temperature zraka",
+        "backDescription": "Prosječna temperatura zraka na površini Zemlje povisila se za 1,2°C od 1900. godine. Prema predviđanjima mogućih budućih emisija daljnje povišenje temperature iznosit će između 2 i 5°C do 2100. godine. \n\nTijekom posljednjeg ledenog doba, prije 20.000 godi",
+        "explanation": "Povišenje temperature zraka"
+    },
+    "10": {
+        "title": "Aerosoli",
+        "backDescription": "Ovo se nimalo ne odnosi na aerosole iz sprejeva. Aerosoli su vrsta lokalnog zagađenja koje dolazi od nepotpunog sagrijevanja fosilnih goriva.\n\nŠtete ljudskom zdravlju, ali imaju negativan utjecaj na poremećaj bilance zračenja, što znači da hlade klimu.",
+        "explanation": "Aerosoli"
+    },
+    "35": {
+        "title": "Šumski požari",
+        "backDescription": "Šumski požari lakše se javljaju i brže šire u razdoblju suša i toplinskih valova.",
+        "explanation": "Šumski požari"
+    },
+    "5": {
+        "title": "Fosilna goriva",
+        "backDescription": "\nFosilna goriva su ugljen, nafta i zemni plin. Najviše se koriste u zgradama, prijevozu i industriji. Kada izgaraju oslobađa se CO2.\n",
+        "explanation": "Fosilna goriva"
+    },
+    "23": {
+        "title": "Problemi s kalcifikacijom",
+        "backDescription": "Kada pH vrijednost padne to otežava rast školjkaša koji trebaju kalcijev karbonat.",
+        "explanation": "Problemi s kalcifikacijom"
+    },
+    "38": {
+        "title": "Ljudsko zdravlje",
+        "backDescription": "Glad, novi vektori zaraznih bolesti, toplinski valovi i oružani sukobi mogu imati loše posljedice za ljudsko zdravlje.",
+        "explanation": "Ljudsko zdravlje"
+    },
+    "25": {
+        "title": "Kopnena bioraznolikost",
+        "backDescription": "Promjene temperature i poremećaji hidrološkog ciklusa utječu na životinje i biljke. Prisiljene su na migraciju ili zbog njih izumiru. Pojedine vrste, pak, mogu ojačati i razmnožiti se.",
+        "explanation": "Kopnena bioraznolikost"
+    },
+    "3": {
+        "title": "Korištenje zgrada",
+        "backDescription": "Sektor zgradarstva, stambeni i komercijalni, koristi fosilna goriva i struju. Odgovoran je za 20% emisija stakleničkih plinova (GHG).",
+        "explanation": "Korištenje zgrada"
+    },
+    "15": {
+        "title": "Poremećaj bilance zračenja (Radiative forcing)",
+        "backDescription": "Poremećaj bilance zračenja je razlika između energije koja svake sekunde dospije na Zemlju i energije koja se oslobađa.\n\nProcijenjena je na 2,8 W/m² (Watt po kvadratnom metru): 3,8 W/m² od stakleničkih plinova i -1 W/m² od aerosola.",
+        "explanation": "Poremećaj bilance zračenja (Radiative forcing)"
+    },
+    "12": {
+        "title": "Spremnici (ponori) ugljika",
+        "backDescription": "Polovina CO2 koju godišnje emitiramo sprema se u ponore ugljika:\n- biljke, kroz fotosintezu, spremaju 1/4\n- oceani spremaju 1/4\n\nPreostala polovina ostaje u atmosferi.",
+        "explanation": "Spremnici (ponori) ugljika"
+    },
+    "27": {
+        "title": "Morska bioraznolikost",
+        "backDescription": "Pteropodi i kokolitofori temelj su morskog hranidbenog lanca. Njihovim bi izumiranjem čitava morska bioraznolikost bila ugrožena. \n\nZagrijavanje oceanskih voda također ugrožava morsku bioraznolikost.",
+        "explanation": "Morska bioraznolikost"
+    },
+    "42": {
+        "title": "Slabljenje Golfske struje",
+        "backDescription": "Golfska struja dio je sustava oceanske termohalinske cirkulacije. Prijeti joj slabljenje zbog slatke vode koja pritječe topljenjem ledenjaka na Grenlandu. To slabljenje moglo bi dodatno poremetiti hidrološki ciklus, što bi posljedično umanjilo kapacitet o",
+        "explanation": "Slabljenje Golfske struje"
+    },
+    "7": {
+        "title": "Emisije CO2",
+        "backDescription": "CO2 ili ugljikov dioksid je, po emisijama, najvažniji antropogeni staklenički plin. (Dakle, proizveden ljudskim djelovanjem).\n\nEmisije CO2 uzrokovane su izgaranjem fosilnih goriva i deforestacijom.",
+        "explanation": "Emisije CO2"
+    },
+    "36": {
+        "title": "Toplinski valovi",
+        "backDescription": "Jedna od posljedica povećanja temperature učestalija je pojava toplinskih valova.",
+        "explanation": "Toplinski valovi"
+    },
+    "17": {
+        "title": "Povišenje temperature vode",
+        "backDescription": "Oceani apsorbiraju 91% energije nakupljene na Zemlji. Temperatura vode stoga se povisila, osobito na površini. Voda se zagrijavanjem širi.",
+        "explanation": "Povišenje temperature vode"
+    },
+    "33": {
+        "title": "Potapanja priobalnih područja",
+        "backDescription": "Ciklone i atmosferski valovi donose vjetar, valove i niski tlak. Pad tlaka zraka od 1 hektopaskala uzrokuje porast razine mora od 1 cm.\n\nStoga ciklone mogu izazvati potapanja obalnih područja. Potapanja dodatno pogoršava porast razine mora uzrokovan globa",
+        "explanation": "Potapanja priobalnih područja"
+    },
+    "16": {
+        "title": "Topljenje ledenjaka",
+        "backDescription": "Gotovo svi su se ledenjaci povukli, a na stotine ih je već nestalo. Ledenjaci su izuzetno važni kao izvori i regulatori pitke vode (slatkovodnih resursa).",
+        "explanation": "Topljenje ledenjaka"
+    },
+    "11": {
+        "title": "Koncentracija CO2 (ppm - čestica na milijun)",
+        "backDescription": "Otprilike polovina emisija CO2 odlazi u prirodne spremnike ugljika. Preostala polovina ostaje u atmosferi. U proteklih 150 godina koncentracija CO2 u zraku povećala se s 280 na 415 ppm (čestica na milijun). To je najviša koncentracija CO2 u odnosu na bilo",
+        "explanation": "Koncentracija CO2 (ppm - čestica na milijun)"
+    },
+    "29": {
+        "title": "Pteropodi i kokolitofori",
+        "backDescription": "Pteropodi su vrsta zooplanktona, a kokolitofori vrsta fitoplanktona. Njihove su ljušture građene su od kalcijevog karbonata.",
+        "explanation": "Pteropodi i kokolitofori"
+    },
+    "26": {
+        "title": "Riječne poplave",
+        "backDescription": "Poremećaj hidrološkog ciklusa uzrokuje i porast i pad količine padalina. Više kiše može izazvati riječne poplave. Kada je tlo izrazito suho situacija se pogoršava jer ono slabije zadržava vodu.",
+        "explanation": "Riječne poplave"
+    },
+    "8": {
+        "title": "Poljoprivreda",
+        "backDescription": "Poljoprivreda nije u velikoj mjeri odgovorna za emisije CO2, ali jest za emisije velikih količina metana (od stoke i uzgoja riže) kao i dušikovih oksida (iz gnojiva).\n\nAko joj se pridoda namjerna deforestacija, poljoprivreda je odgovorna za sveukupno 25% ",
+        "explanation": "Poljoprivreda"
+    },
+    "13": {
+        "title": "Dodatni efekt staklenika",
+        "backDescription": "Efekt staklenika prirodna je pojava. Usput rečeno, najjači staklenički plin (GHG) je vodena para. Bez efekta staklenika, planet bi bio hladniji za 33°C, a život kakav poznajemo ne bi bio moguć. \n\nMeđutim, CO2 i ostali staklenički plinovi (GHG) povezani s ",
+        "explanation": "Dodatni efekt staklenika"
+    },
+    "1": {
+        "title": "Ljudsko djelovanje",
+        "backDescription": "Ovdje sve započinje…",
+        "explanation": "Ljudsko djelovanje"
+    },
+    "39": {
+        "title": "Klimatske izbjeglice",
+        "backDescription": "Zamislite da živite na nekom mjestu koje je nekim čudom pošteđeno klimatskih promjena. Nekoliko milijardi ljudi vjerojatno će htjeti podijeliti to mjesto s vama.",
+        "explanation": "Klimatske izbjeglice"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost je trajno zaleđeno tlo. No, počinje se topiti. Iz razgrađene biomase u permafrostu topljenjem se u atmosferu oslobađaju dotad zarobljeni metan i CO2. Njihovo oslobađanje uzrokuje pozitivnu povratnu spregu, jednako kao i šumski požari i albedo e",
+        "explanation": "Permafrost"
+    },
+    "14": {
+        "title": "Energetska bilanca",
+        "backDescription": "Ovaj graf prikazuje kamo odlazi energija koja se nakuplja na Zemlji:\n- zagrijava ocean,\n- topi led,\n- upija se u tlo i \n- zagrijava atmosferu.",
+        "explanation": "Energetska bilanca"
+    },
+    "34": {
+        "title": "Uragani (cikloni)",
+        "backDescription": "Uragani svoju snagu crpe iz energije tople vode na oceanskoj površini. Postaju sve intenzivniji zbog globalnog zatopljenja.",
+        "explanation": "Uragani (cikloni)"
+    },
+    "30": {
+        "title": "Suše",
+        "backDescription": "Poremećaj hidrološkog ciklusa može uzrokovati i povećanje i smanjenje padalina. Nedostatak kiše može uzrokovati sušu. Suše će u budućnosti vrlo vjerojatno postati češće.",
+        "explanation": "Suše"
+    },
+    "18": {
+        "title": "Topljenje morskih ledenjaka",
+        "backDescription": "Topljenje morskih ledenjaka ne dovodi do rasta razine oceana i mora (kao što se zbog kockice leda koja se rastopi u čaši čaša neće preliti). \n\nIpak, kada se led otopi, njegovu bjelinu zamjenjuje puno tamnije more koje apsorbira više sunčevih zraka.\n",
+        "explanation": "Topljenje morskih ledenjaka"
+    },
+    "28": {
+        "title": "Vektori zaraznih bolesti",
+        "backDescription": "Pojedine životinje prijenosnici su bolesti. Globalno zagrijavanje uzrokuje njihove migracije. Može ih tako dovesti u kontakt sa stanovništvom koje nije imuno na bolesti koje se prenose.",
+        "explanation": "Vektori zaraznih bolesti"
+    }
+}

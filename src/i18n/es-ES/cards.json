@@ -1,0 +1,212 @@
+{
+    "4": {
+        "title": "Transporte",
+        "backDescription": "El sector del transporte es muy dependiente del petróleo. Representa el 15% de las emisiones de Gases de Efecto Invernadero (GEI).",
+        "explanation": "Transporte"
+    },
+    "27": {
+        "title": "Biodiversidad marina",
+        "backDescription": "Pterópodos y cocolitofóridos están en la base de la cadena alimentaria. Su desaparición amenaza toda la biodiversidad marina. El calentamiento del agua también tiene un papel importante en la pérdida de esta biodiversidad.",
+        "explanation": "Biodiversidad marina"
+    },
+    "16": {
+        "title": "Deshielo de los glaciares",
+        "backDescription": "Casi todos los glaciares han perdido una parte de su masa. Incluso cientos de ellos han desaparecido. Los glaciares tienen un papel regulador como recurso de agua dulce.",
+        "explanation": "Deshielo de los glaciares"
+    },
+    "36": {
+        "title": "Canículas",
+        "backDescription": "La multiplicación de las canículas (olas de calor) es una manifestación del aumento de la temperatura.",
+        "explanation": "Canículas"
+    },
+    "42": {
+        "title": "Hidratos de metano",
+        "backDescription": "Los hidratos de metano (o clatrato de metano) son una forma de hielo que existe en el fondo de los océanos, a lo largo de los taludes continentales, que retiene moléculas de metano. Pueden volverse inestables por encima de los +2°C.",
+        "explanation": "Hidratos de metano"
+    },
+    "6": {
+        "title": "Deforestación",
+        "backDescription": "La deforestación consiste en cortar o quemar árboles superando la capacidad de renovación del bosque. El 80% de la deforestación está relacionada con la agricultura.",
+        "explanation": "Deforestación"
+    },
+    "39": {
+        "title": "Refugiados climáticos",
+        "backDescription": "Imagínate vivir en un lugar que milagrosamente no se ha visto afectado por el cambio climático. ¡Millones de seres humanos van a querer compartirlo contigo!",
+        "explanation": "Refugiados climáticos"
+    },
+    "30": {
+        "title": "Sequías",
+        "backDescription": "La perturbación del ciclo del agua puede implicar más o menos agua. Menos agua se traduce en sequía. Se estima que las sequías serán mucho más frecuentes en el futuro.",
+        "explanation": "Sequías"
+    },
+    "5": {
+        "title": "Combustibles fósiles",
+        "backDescription": "Los combustibles fósiles son: el carbón, el petróleo y el gas natural. Cuando se queman, emiten CO2. Se utilizan principalmente en los edificios, el transporte y la industria.",
+        "explanation": "Combustibles fósiles"
+    },
+    "21": {
+        "title": "Aumento de la temperatura",
+        "backDescription": "Nos referimos aquí a la temperatura del aire a nivel del suelo, como promedio de la superficie terrestre. Ha aumentado 1°C desde 1900. Según los diferentes escenarios, este aumento será de entre 2°C y 5°C de aquí a 2100. Al final del último periodo glacia",
+        "explanation": "Aumento de la temperatura"
+    },
+    "22": {
+        "title": "Aumento del nivel del mar",
+        "backDescription": "Desde 1900, el nivel del océano ha subido 20 cm. Esto se debe a la dilatación del agua, al deshielo de los glaciares y al deshielo de los casquetes polares.",
+        "explanation": "Aumento del nivel del mar"
+    },
+    "9": {
+        "title": "Otros Gases de Efecto Invernadero (GEI)",
+        "backDescription": "El CO2 no es el único gas de efecto invernadero. Junto a otros gases, el metano (CH4) y el óxido nitroso (N2O), procedentes en su mayor parte de la agricultura, también contribuyen al efecto invernadero.",
+        "explanation": "Otros Gases de Efecto Invernadero (GEI)"
+    },
+    "3": {
+        "title": "Uso de los edificios",
+        "backDescription": "El uso de los edificios (vivienda y uso comercial) implica la utilización de combustibles fósiles y electricidad. Representa el 20% de los Gases de Efecto Invernadero (GEI).",
+        "explanation": "Uso de los edificios"
+    },
+    "15": {
+        "title": "Forzamiento radiativo",
+        "backDescription": "El forzamiento radiativo representa la diferencia entre la energía que llega cada segundo a la tierra y la que sale. Equivale a 3,1 W/m² (Watt por m²) para el efecto invernadero, y -0,8 W/m² para los aerosoles, es decir 2,3 W/m² en total.",
+        "explanation": "Forzamiento radiativo"
+    },
+    "28": {
+        "title": "Vectores de enfermedades",
+        "backDescription": "Con el calentamiento global, los animales migran. Algunos de ellos son vectores de enfermedades y llegan a zonas donde la población no es inmune a dichas enfermedades.",
+        "explanation": "Vectores de enfermedades"
+    },
+    "23": {
+        "title": "Problemas de calcificación",
+        "backDescription": "Si baja el pH, la formación de carbonato cálcico se vuelve más difícil, sobre todo para las conchas.",
+        "explanation": "Problemas de calcificación"
+    },
+    "2": {
+        "title": "Industria",
+        "backDescription": "La industria utiliza combustibles fósiles y electricidad. Representa un 40% de las emisiones de Gases de Efecto Invernadero (GEI).",
+        "explanation": "Industria"
+    },
+    "13": {
+        "title": "Efecto invernadero adicional",
+        "backDescription": "El efecto invernadero es un fenómeno natural. De hecho, el principal GEI natural es el vapor de agua. Sin el efecto invernadero la temperatura del planeta sería 33°C más fría. Pero las emisiones de CO2 y los otros GEI derivados de las actividades humanas ",
+        "explanation": "Efecto invernadero adicional"
+    },
+    "14": {
+        "title": "Balance energético",
+        "backDescription": "Este gráfico explica adónde va la energía acumulada en la Tierra debido al forzamiento radiativo: calienta el océano, derrite el hielo, se disipa en el suelo y calienta la atmósfera.",
+        "explanation": "Balance energético"
+    },
+    "37": {
+        "title": "Hambrunas",
+        "backDescription": "Las hambrunas pueden ocurrir por la disminución del rendimiento agrícola y por la reducción de la biodiversidad marina.",
+        "explanation": "Hambrunas"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "El permafrost es la capa de suelo que se encuentra congelada de forma permanente. Hay evidencias de que empieza a descongelarse, liberando al aire metano y CO2 tras la descomposición de la materia orgánica que hasta ahora había estado congelada. Por encim",
+        "explanation": "Permafrost"
+    },
+    "29": {
+        "title": "Pterópodos y cocolitofóridos",
+        "backDescription": "Los pterópodos son zooplancton y los cocolitofóridos, fitoplancton. Estos microorganismos tienen una concha calcárea.",
+        "explanation": "Pterópodos y cocolitofóridos"
+    },
+    "33": {
+        "title": "Sumersiones marinas",
+        "backDescription": "Ciclones y perturbaciones conllevan viento, olas y bajas presiones. Un hectopascal menos significa un centímetro más en el nivel del mar, lo que puede ocasionar fenómenos de sumersión (inundaciones costeras) que se intensifican con el aumento del nivel de",
+        "explanation": "Sumersiones marinas"
+    },
+    "24": {
+        "title": "Acidificación del océano",
+        "backDescription": "Cuando el CO2 se disuelve en el océano, se transforma en iones ácidos (el H2CO3 pasa a HCO3-). Esto tiene como efecto la acidificación del océano (el pH baja).",
+        "explanation": "Acidificación del océano"
+    },
+    "18": {
+        "title": "Deshielo de la banquisa",
+        "backDescription": "El deshielo de la banquisa (hielo marino) no es la causa de la subida del nivel del mar (un cubito de hielo que se derrite en un vaso, no hace que el agua desborde el vaso). Sin embargo, este deshielo deja paso a zonas más oscuras (el mar) que absorben má",
+        "explanation": "Deshielo de la banquisa"
+    },
+    "12": {
+        "title": "Sumideros de carbono",
+        "backDescription": "La mitad del CO2 que emitimos por año permanece en la atmósfera, y la otra mitad es absorbida por los sumideros naturales de carbono :\n  - 1/4 por la vegetación (vía la fotosíntesis)\n  - 1/4 por el océano.",
+        "explanation": "Sumideros de carbono"
+    },
+    "25": {
+        "title": "Biodiversidad terrestre",
+        "backDescription": "Los animales y las plantas se ven afectados por los cambios de temperatura y del ciclo del agua: migran, desaparecen o, más raramente, proliferan.",
+        "explanation": "Biodiversidad terrestre"
+    },
+    "35": {
+        "title": "Incendios",
+        "backDescription": "Las sequías y las canículas favorecen los incendios",
+        "explanation": "Incendios"
+    },
+    "10": {
+        "title": "Aerosoles",
+        "backDescription": "Nada relacionado con los botes de espray. Los aerosoles son una contaminación local que procede de la combustión incompleta de las energías fósiles. Son perjudiciales para la salud y, además, contribuyen de forma negativa al forzamiento radiativo (enfrían",
+        "explanation": "Aerosoles"
+    },
+    "20": {
+        "title": "Perturbación del ciclo del agua",
+        "backDescription": "La evaporación que ocurre en la superficie marina aumenta si la temperatura del océano y de la atmósfera aumentan. Esto provoca que se formen más nubes y por tanto más lluvias. Pero si la evaporación ocurre en tierra, el suelo se deseca.",
+        "explanation": "Perturbación del ciclo del agua"
+    },
+    "34": {
+        "title": "Ciclones",
+        "backDescription": "Los ciclones se nutren de la energía de las aguas calientes de la superficie del océano. \nSu potencia ha aumentado a causa del cambio climático.",
+        "explanation": "Ciclones"
+    },
+    "1": {
+        "title": "Actividades Humanas",
+        "backDescription": "Aquí es donde todo comienza…",
+        "explanation": "Actividades Humanas"
+    },
+    "40": {
+        "title": "Conflictos armados",
+        "backDescription": "Tendríamos que evitar que todo termine así…",
+        "explanation": "Conflictos armados"
+    },
+    "31": {
+        "title": "Recursos de agua dulce",
+        "backDescription": "Los recursos de agua dulce se ven afectados por los cambios en las precipitaciones y la desaparición de los glaciares, los cuales tienen un papel regulador sobre el caudal de los ríos.",
+        "explanation": "Recursos de agua dulce"
+    },
+    "11": {
+        "title": "Concentración de CO2 (ppm)",
+        "backDescription": "Una vez que la mitad de nuestras emisiones de CO2 ha sido captada por los sumideros naturales de carbono, la otra mitad permanece en la atmósfera. La concentración de CO2 atmosférico ha pasado de 280 a 410 ppm (partes por millón) en 150 años.",
+        "explanation": "Concentración de CO2 (ppm)"
+    },
+    "17": {
+        "title": "Aumento de la temperatura del agua",
+        "backDescription": "El océano absorbe 93% de la energía acumulada en el planeta haciendo que la temperatura del agua también aumente, especialmente en la superficie. Cuando se calienta, el agua se dilata.",
+        "explanation": "Aumento de la temperatura del agua"
+    },
+    "8": {
+        "title": "Agricultura y ganadería",
+        "backDescription": "La agricultura y la ganadería son responsables de las emisiones de una pequeña parte de CO2, de mucho metano (rumiantes, arrozales) y de óxido nitroso (fertilizantes).",
+        "explanation": "Agricultura y ganadería"
+    },
+    "26": {
+        "title": "Riadas",
+        "backDescription": "La perturbación del ciclo del agua puede implicar más o menos agua. Si tenemos más agua, esto puede generar riadas (inundaciones en tierra). Este fenómeno se ve acentuado si el suelo ha sufrido una sequía, ya que el agua se escurre.",
+        "explanation": "Riadas"
+    },
+    "19": {
+        "title": "Deshielo de casquetes polares",
+        "backDescription": "Los casquetes polares están en Groenlandia y en la Antártida. Si se derritieran totalmente, representaría una subida del nivel del mar de 7m para Groenlandia y 54m para la Antártida. Durante el último periodo glacial, los casquetes polares llegaron a una ",
+        "explanation": "Deshielo de casquetes polares"
+    },
+    "38": {
+        "title": "Salud humana",
+        "backDescription": "Hambrunas, desplazamiento de los vectores de enfermedades, canículas y conflictos armados pueden afectar a la salud humana.",
+        "explanation": "Salud humana"
+    },
+    "7": {
+        "title": "Emisiones de CO2",
+        "backDescription": "El CO2 es el principal GEI antrópico (de origen humano). Las emisiones de CO2 provienen de la utilización de los combustibles fósiles y de la deforestación.",
+        "explanation": "Emisiones de CO2"
+    },
+    "32": {
+        "title": "Disminución de la producción agrícola",
+        "backDescription": "La producción agrícola puede verse afectada por las variaciones de temperatura, las sequías, los fenómenos extremos, las riadas y las sumersiones marinas (por ejemplo, el delta del Nilo).",
+        "explanation": "Disminución de la producción agrícola"
+    }
+}

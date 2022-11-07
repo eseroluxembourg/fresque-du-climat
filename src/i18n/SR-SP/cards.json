@@ -1,0 +1,212 @@
+{
+    "36": {
+        "title": "Toplotni talasi",
+        "backDescription": "Jedna od manifestacija porasta temperature je umnožavanje toplotnih talasa.",
+        "explanation": "Toplotni talasi"
+    },
+    "37": {
+        "title": "Glad",
+        "backDescription": "Glad mogu izazvati manji poljoprivredni prinosi i smanjena biološka raznovrsnost mora.",
+        "explanation": "Glad"
+    },
+    "29": {
+        "title": "Pteropode i kokolitofore",
+        "backDescription": "Pteropode su vrsta zooplanktona, a kokolitofore vrsta fitoplanktona. Ovi organizmi imaju kalcifikovane oklope.",
+        "explanation": "Pteropode i kokolitofore"
+    },
+    "39": {
+        "title": "Klimatske izbeglice",
+        "backDescription": "Zamislite da živite u mestu koje je čudom pošteđeno klimatskih promena. Više milijardi ljudi bi moglo poželeti da se tu nastani.",
+        "explanation": "Klimatske izbeglice"
+    },
+    "28": {
+        "title": "Vektori zaraznih bolesti",
+        "backDescription": "Usled globalnog zagrevanja, životinje migriraju. Neke od njih su prenosioci zaraznih bolesti i mogu stići u oblasti gde stanovništvo nije imunizovano protiv bolesti koje one prenose.",
+        "explanation": "Vektori zaraznih bolesti"
+    },
+    "30": {
+        "title": "Suše",
+        "backDescription": "Prekid hidrološkog procesa može dovesti do manjka ili viška vode. Manjak vode predstavlja sušu. Verovatno će u budućnosti suše postati učestalije.",
+        "explanation": "Suše"
+    },
+    "33": {
+        "title": "Potapanje priobalja",
+        "backDescription": "Cikloni i vremenske nepogode izazivaju vetrove (a onda i talase) i uslove niskog atmosferskog pritiska. 1 hektopaskal niže znači 1 cm rasta nivoa mora. Tako cikloni mogu izazvati potapanje priobalja (ili priobalne poplave), naglašene već postojećim porast",
+        "explanation": "Potapanje priobalja"
+    },
+    "31": {
+        "title": "Resursi slatke vode",
+        "backDescription": "Promene količina kiša i nestanak glečera koji regulišu tokove reka utiču na resurse slatke vode.",
+        "explanation": "Resursi slatke vode"
+    },
+    "34": {
+        "title": "Cikloni",
+        "backDescription": "Cikloni koriste energiju tople površinske vode okeana. Usled globalnog zagrevanja, postali su snažniji.",
+        "explanation": "Cikloni"
+    },
+    "2": {
+        "title": "Industrija",
+        "backDescription": "U industriji se koriste fosilna goriva i električna energija. To objašnjava 40% emisije gasova sa efektom staklene bašte.",
+        "explanation": "Industrija"
+    },
+    "35": {
+        "title": "Šumski požari",
+        "backDescription": "Šumski požari lakše izbijaju tokom suša i toplotnih talaasa.",
+        "explanation": "Šumski požari"
+    },
+    "32": {
+        "title": "Smanjenje poljoprivrednih prinosa",
+        "backDescription": "Na proizvodnju hrane mogu uticati, temperatura, suše, ekstremni vremenski uslovi, poplave i",
+        "explanation": "Smanjenje poljoprivrednih prinosa"
+    },
+    "6": {
+        "title": "Krčenje šuma (Deforestacija)",
+        "backDescription": "Krčenje šuma podrazumeva seču ili spaljivanje drveća u meri koja prevazilazi mogućnosti obnavljanja šume. 80% krčenja šuma je povezano sa poljoprivredom.",
+        "explanation": "Krčenje šuma (Deforestacija)"
+    },
+    "40": {
+        "title": "Oružani sukobi",
+        "backDescription": "Ovako ne smemo dozvoliti da se završi...",
+        "explanation": "Oružani sukobi"
+    },
+    "1": {
+        "title": "Ljudske aktivnosti",
+        "backDescription": "Ovde sve počinje...",
+        "explanation": "Ljudske aktivnosti"
+    },
+    "42": {
+        "title": "Hidrat metana",
+        "backDescription": "Hidrat metana (ili klatrat metana) je vrste leda sa dna okeana, duž kontinentalne padine u kom su zaleđeni molekuli metana. Oni postaju nestabilni na temperaturi iznad +2°C.",
+        "explanation": "Hidrat metana"
+    },
+    "9": {
+        "title": "Ostali gasovi sa efektom staklene bašte",
+        "backDescription": "CO2 nije jedini gas sa efektom staklene bašte. Među ostalima, tu se ubrajaju metan (CH4) i azot suboksid (N2O), dva gasa čija emisija uglavnom potiče iz poljoprivredne delatnosti.",
+        "explanation": "Ostali gasovi sa efektom staklene bašte"
+    },
+    "8": {
+        "title": "Poljoprivreda",
+        "backDescription": "Poljoprivredna delatnost ne dovodi do emisije velike količine CO2, ali je odgovorna za emisiju značajnih količina metana (od goveda i pirinčanih polja) i azot suboksida (iz đubriva). \n Sve ukupno, poloprivredna delatnost objašnjava 25% gasova sa efektom s",
+        "explanation": "Poljoprivreda"
+    },
+    "10": {
+        "title": "Aerosoli",
+        "backDescription": "Nemaju nikakve veze sa aerosolnim limenkama. Aerosoli su vrsta lokalnog zagađenja koje potiče od nepotpunog sagorevanja fosilnih goriva. Štetna su za ljudsko zdravlje i nepovoljno doprinose zračenju (hlade klimu).",
+        "explanation": "Aerosoli"
+    },
+    "11": {
+        "title": "Koncentracija CO2 (u ppm)",
+        "backDescription": "Oko polovine emisije CO2 se odstrani putem prirodnih ponora ugljenika. Preostala polovina ostane u atmosferi; koncentracija CO2 u vazduhu je za 150 godina porasla sa 280 na 410 ppm.",
+        "explanation": "Koncentracija CO2 (u ppm)"
+    },
+    "12": {
+        "title": "Ponori ugljenika",
+        "backDescription": "Polovina CO2 koju emitujemo svake godine bude apsorbovana u ponore ugljenika:\n - 1/4 putem vegetacija (kroz fotosintezu)\n - 1/4 putem okeana\n Preostala polovina (1/2) ostaje u atmosferi.",
+        "explanation": "Ponori ugljenika"
+    },
+    "13": {
+        "title": "Dodatni efekti staklene bašte",
+        "backDescription": "Efekat staklene bašte je prirodna pojava - a usput, prvi od gasova staklene bašte jeste vodena para. Da nema efekata staklene bašte, planeta bu bula 33°C hladnija, a živo kakav poznajemo ne bi bio moguć. Međutim, CO2 i ostali gasovi sa efektom staklene ba",
+        "explanation": "Dodatni efekti staklene bašte"
+    },
+    "4": {
+        "title": "Saobraćaj",
+        "backDescription": "Sektor saobraćaja se izuzetno oslanja na upotrebu nafte. To objašnjava 15% emisije gasova sa efektom staklene bašte.",
+        "explanation": "Saobraćaj"
+    },
+    "14": {
+        "title": "Energetski bilans",
+        "backDescription": "Ovaj grafikon prikazuje gde odlazi energija uskladištena na Zemlji usled disbalansa zračenja: zagreva okeane, topi led, gubi se u tlu i zagreva atmosferu.",
+        "explanation": "Energetski bilans"
+    },
+    "15": {
+        "title": "Balans zračenja",
+        "backDescription": "Balans zračenja predstavlja razliku (nastalu kao posledica ljudskog delovanja) između energije koja stiže na Zemlju svake sekunde i energije koju Zemlja otpušta. U petom izveštaju Međuvladinog panela o klimatskim promenama, procenjen je na 2,3 W/m² (Vat p",
+        "explanation": "Balans zračenja"
+    },
+    "16": {
+        "title": "Otapanje glečera",
+        "backDescription": "Masa gotovo svih glečera se smanjila. Stotine njih je u potpunosti nestalo. Glečeri imaju regulatornu funkciju u obezbeđivanju slatke vode.",
+        "explanation": "Otapanje glečera"
+    },
+    "17": {
+        "title": "Porast temperature vode",
+        "backDescription": "Okeani apsorbuju 93% energije uskladištene na Zemlji. Zato je temperatura okeana porasla, naročito u gornjim slojevima. Voda se zagrevanjem širi.",
+        "explanation": "Porast temperature vode"
+    },
+    "24": {
+        "title": "Acidifikacija okeana",
+        "backDescription": "Kada se CO2 rastopi u okeanu, pretvara se u kisele jone (H2CO3 i HCO3-). Ova transformacija kao posledicu ostavlja acidifikaciju okeana (pH vrednost opada).",
+        "explanation": "Acidifikacija okeana"
+    },
+    "18": {
+        "title": "Otapanje morskog leda",
+        "backDescription": "Otapanjem morskog leda se ne podiže nivo mora (isto kao što se otapanjem kockice leda ne preliva čaša s vodom). \n Međutim, otapanjem led se zamenjuje morem, koje je znatno tamnije boje i koje apsorbuje mnogo više sunčevih zraka nego beli led.",
+        "explanation": "Otapanje morskog leda"
+    },
+    "27": {
+        "title": "Biološka raznovrsnost mora",
+        "backDescription": "Pteropode i kokolitofore su osnova lanca ishrane u okeanima. Ukoliko bi oni nestali, celokupan biodiverzitet mora bi bio ugrožen. Zagrevanje voda okeana takođe ugrožava biološku raznovrsnost mora.",
+        "explanation": "Biološka raznovrsnost mora"
+    },
+    "26": {
+        "title": "Plavljenje reka",
+        "backDescription": "Prekid hidrološkog procesa može dovesti do manjka ili viška vode. Višak vode može dovesti do plavljenja reka. Ukoliko je tlo isušeno sušom, situacija je još gora jer voda otiče.",
+        "explanation": "Plavljenje reka"
+    },
+    "19": {
+        "title": "Otapanje ledenih pokrivača",
+        "backDescription": "Kontinentalni lednici (ledeni pokrivači) se nalaze na Grenlandu i Antarktiku. Ako bi se oni potpuno otopili, usledio bi porast nivoa okeana od 7 metara, u slučaju Grenlanda, i 54 metra, u slučaju Antarktika. Tokom poslednjeg ledenog doba, ledeni pokrivači",
+        "explanation": "Otapanje ledenih pokrivača"
+    },
+    "3": {
+        "title": "Upotreba u zgradama",
+        "backDescription": "U sektoru građevine (stambena i komercijalna upotreba) se koriste fosilna goriva i električna energija. To objašnjava 20% emisije gasova sa efektom staklene bašte.",
+        "explanation": "Upotreba u zgradama"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost je trajno zaleđeno tlo. Otapanje permafrosta vodi raspadanju organskih materija koje su prethodno bile zaleđene pod zemljom, pojava prilikom koje se metan i ugljen-dioksid oslobađaju u atmosferu. Na temperaturi iznad +2°C, gotovo je sigurno da ",
+        "explanation": "Permafrost"
+    },
+    "7": {
+        "title": "Emisija CO2",
+        "backDescription": "CO2 (ugljen-dioksid) je prvi antropogeni (koji nastaje usled dejstva čoveka) gas sa efekom staklene bašte u smislu količine emisije. Takva emisija potiče od upotrebe fosilnih goriva i krčenja šuma.",
+        "explanation": "Emisija CO2"
+    },
+    "21": {
+        "title": "Porast temperature",
+        "backDescription": "Ovde mislimo na prosečnu temperaturu vazduha iznad tla Zemlje. Od 1900. godine temperatura je porasla za 1°C. U zavisnosti od scenarija, dalji rast temperature bi mogao dostići od 2°C do 5°C do 2100. godine. Krajem poslednjeg ledenog doba, prosečna temper",
+        "explanation": "Porast temperature"
+    },
+    "23": {
+        "title": "Onemogućavanje procesa kalcifikacije",
+        "backDescription": "Kada se pH vrednost smanji, formiranje kalcijum karbonata (preciznije, kalcifikovanih oklopa životinja) je otežano.",
+        "explanation": "Onemogućavanje procesa kalcifikacije"
+    },
+    "5": {
+        "title": "Fosilna goriva",
+        "backDescription": "Fosilna goriva su ugalj, nafta i prirodni gas. Ona se uglavnom koriste u zgradama, u saobraćaju i industriji. Emituju CO2 prilikom sagorevanja.",
+        "explanation": "Fosilna goriva"
+    },
+    "38": {
+        "title": "Ljudsko zdravlje",
+        "backDescription": "Glad, izmeštanje vektora zaraznih bolesti, toplotni talasi i oružani sukobi utiču na ljudsko zdravlje.",
+        "explanation": "Ljudsko zdravlje"
+    },
+    "20": {
+        "title": "Poremećaj hidrološkog ciklusa/kruženja vode",
+        "backDescription": "Ukoliko je temperatura okeana i atmosfere viša, isparenja okeana se pojačavanju, što donosi više kišnih oblaka i više kiše. Ukoliko se isparavanje odigrava na kopnu, tlo se isušuje.",
+        "explanation": "Poremećaj hidrološkog ciklusa/kruženja vode"
+    },
+    "22": {
+        "title": "Porast nivoa mora",
+        "backDescription": "Od 1900. godine nivo mora je porastao 20 cm. Porast nivoa mora je posledica termalnog širenja voda okeana i otapanja glečera i kontinentalnih lednika.",
+        "explanation": "Porast nivoa mora"
+    },
+    "25": {
+        "title": "Kopneni biodiverzitet",
+        "backDescription": "Promene temperature i prekid hidrološkog ciklusa utiču na životinje i biljke. Neke migriraju, neke izumiru, a ređe ove pojave dovode do širenja vrste.",
+        "explanation": "Kopneni biodiverzitet"
+    }
+}

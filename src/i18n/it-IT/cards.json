@@ -1,0 +1,212 @@
+{
+    "13": {
+        "title": "Effetto serra addizionale",
+        "backDescription": "L'effetto serra è naturale. Infatti, il primo gas serra naturale è il vapore acqueo. Senza l'effetto serra, il pianeta sarebbe 33°C più freddo. Tuttavia il CO2 e gli altri gas a effetto serra dovuti all'uomo fanno aumentare questo effetto naturale riscald",
+        "explanation": "Effetto serra addizionale"
+    },
+    "22": {
+        "title": "Innalzamento del livello dell'acqua",
+        "backDescription": "Dal 1900, il livello dell'oceano si è alzato di 20 cm. Ciò è dovuto alla dilatazione dell'acqua, allo scioglimento dei ghiacciai e allo scioglimento delle calotte glaciali",
+        "explanation": "Innalzamento del livello dell'acqua"
+    },
+    "14": {
+        "title": "Bilancio energetico",
+        "backDescription": "Questo grafico spiega dove va l'energia che si accumula sulla terra a causa del forzante radiativo : riscalda l'oceano, scioglie il ghiaccio, si dissipa nel terreno e riscalda l'atmosfera.",
+        "explanation": "Bilancio energetico"
+    },
+    "18": {
+        "title": "Scioglimento della banchisa",
+        "backDescription": "Lo scioglimento della banchisa non è responsabile dell'aumento del livello dell'acqua (un cubetto di ghiaccio che si scioglie in una bevanda non fa traboccare il bicchiere). Tuttavia, quando si scioglie, lascia il posto a superfici più scure che assorbono",
+        "explanation": "Scioglimento della banchisa"
+    },
+    "34": {
+        "title": "Cicloni",
+        "backDescription": "I cicloni sono alimentati dall'energia delle acque calde sulla superficie degli oceani. La loro potenza è aumentata a causa del cambiamento climatico.",
+        "explanation": "Cicloni"
+    },
+    "17": {
+        "title": "Aumento della temperatura dell'acqua",
+        "backDescription": "L'oceano assorbe il 93% dell'energia che si accumula sulla terra. Quando si riscalda, l'acqua si dilata.",
+        "explanation": "Aumento della temperatura dell'acqua"
+    },
+    "5": {
+        "title": "Combustibili fossili",
+        "backDescription": "I combustibili fossili sono: carbone, petrolio e gas. Sono utilizzati principalmente negli edifici, nei trasporti e nell'industria. Emettono CO2 durante la combustione.",
+        "explanation": "Combustibili fossili"
+    },
+    "10": {
+        "title": "Aerosol",
+        "backDescription": "Nessuna relazione con le bombolette spray. Gli aerosol sono un tipo di inquinamento locale, come il diossido di zolfo, che deriva dalla combustione incompleta dei combustibili fossili. Sono nocivi per la salute ed hanno un contributo negativo sul forzante",
+        "explanation": "Aerosol"
+    },
+    "19": {
+        "title": "Scioglimento delle calotte glaciali",
+        "backDescription": "Le calotte glaciali sono la Groenlandia e l'Antartide. Se si sciogliessero completamente, provocherebbero un aumento del livello d'acqua di 7m per la Groenlandia e 54m per l'Antartide. Durante l'ultima era glaciale, le calotte erano così estese che il liv",
+        "explanation": "Scioglimento delle calotte glaciali"
+    },
+    "11": {
+        "title": "Concentrazione di CO2 (ppm)",
+        "backDescription": "Una volta che la metà delle nostre emissioni di CO2 sono catturate dai pozzi naturali di assorbimento del carbonio, l'altra metà rimane nell'atmosfera.\nLa concentrazione di CO2 è aumentata da 280 a 415 ppm (parti per milione) in 150 anni. Bisogna risalire",
+        "explanation": "Concentrazione di CO2 (ppm)"
+    },
+    "16": {
+        "title": "Scioglimento dei ghiacciai",
+        "backDescription": "Quasi tutti i ghiacciai hanno perso massa. Centinaia sono già scomparsi. Questi ghiacciai hanno un ruolo regolatore nell'approvvigionamento di acqua dolce.",
+        "explanation": "Scioglimento dei ghiacciai"
+    },
+    "9": {
+        "title": "Altri gas serra",
+        "backDescription": "La CO2 non è l'unico gas serra. Tra i diversi gas serra troviamo anche il metano (CH4) e il protossido di azoto (N2O) (provenienti soprattutto dall'agricultura)",
+        "explanation": "Altri gas serra"
+    },
+    "38": {
+        "title": "Salute umana",
+        "backDescription": "Carestie, spostamento di vettori di malattie, ondate di caldo e conflitti armati possono influenzare la salute umana.",
+        "explanation": "Salute umana"
+    },
+    "42": {
+        "title": "Rallentamento della corrente del Golfo",
+        "backDescription": "La circolazione termoalina, di cui fa parte la corrente del Golfo, potrebbe rallentare a causa dell'afflusso di acqua dolce dovuto allo scioglimento della calotta glaciale della Groenlandia. Questo porterebbe ad un ulteriore squilibrio del ciclo dell'acqu",
+        "explanation": "Rallentamento della corrente del Golfo"
+    },
+    "15": {
+        "title": "Forzante radiativo",
+        "backDescription": "Il forzante radiativo è la misura dello squilibrio tra l'energia che arriva ogni secondo sulla terra e quella che viene rilasciata. Corrisponde a 3,8 W/m ² (Watt per m²) per effetto serra e -1 W/m ² per gli aerosol, cioè 2,8 W/m ² in tutto.",
+        "explanation": "Forzante radiativo"
+    },
+    "12": {
+        "title": "Pozzi di assorbimento di carbonio",
+        "backDescription": "Metà della CO2 che emettiamo ogni anno viene assorbita dai pozzi naturali di assorbimento del carbonio:\n-Vegetazione per 1/4 (fotosintesi)\n-L'oceano per 1/4\nIl resto (1/2) rimane nell'atmosfera.",
+        "explanation": "Pozzi di assorbimento di carbonio"
+    },
+    "39": {
+        "title": "Rifugiati climatici",
+        "backDescription": "Immaginate di vivere in un luogo che è miracolosamente risparmiato dal cambiamento climatico. C'è il rischio che qualche miliardo di persone voglia condividerlo con voi! ",
+        "explanation": "Rifugiati climatici"
+    },
+    "21": {
+        "title": "Aumento di temperatura",
+        "backDescription": "Parliamo qui della temperatura dell'aria al suolo e in media sulla superficie della terra. E' già aumentata di 1,2°C dal 1900. Secondo gli scenari delle emissioni future, sarà aumentata da 1,5°C fino a 5°C da qui al 2100. Durante l'ultima era glaciale, la",
+        "explanation": "Aumento di temperatura"
+    },
+    "37": {
+        "title": "Carestie",
+        "backDescription": "Le carestie possono essere causate dalla diminuzione delle rese agricole e dalla riduzione della biodiversità marina.",
+        "explanation": "Carestie"
+    },
+    "1": {
+        "title": "Attività umane",
+        "backDescription": "Qui è dove tutto ha inizio…",
+        "explanation": "Attività umane"
+    },
+    "35": {
+        "title": "Incendi",
+        "backDescription": "Siccità e ondate di caldo favoriscono gli incendi",
+        "explanation": "Incendi"
+    },
+    "8": {
+        "title": "Agricoltura",
+        "backDescription": "L'agricoltura è responsabile dell'emissione di un po' di CO2 e di una quantità rilevante di metano (bovini, risaie) e protossido di azoto (fertilizzante). In totale, se si include la deforestazione indotta, è responsabile del 25% dei gas serra.",
+        "explanation": "Agricoltura"
+    },
+    "20": {
+        "title": "Perturbazione del ciclo dell'acqua",
+        "backDescription": "L'evaporazione che avviene sulla superfice dell'oceano aumenta se l'acqua e l'aria si riscaldano. Ciò porta alla formazione di più nuvole che causeranno la pioggia. Ma se l'evaporazione si svolge sulla terraferma, il suolo si prosciuga.",
+        "explanation": "Perturbazione del ciclo dell'acqua"
+    },
+    "26": {
+        "title": "Esondazioni",
+        "backDescription": "Un ciclo idrico perturbato puo' portare a scarsità o abbondanza d'acqua. Più acqua puo' generare esondazioni. Se il suolo è stato precedentemente inaridito dalla siccità, la situazione è peggiore perché l'acqua scorre in superficie e non viene assorbita. ",
+        "explanation": "Esondazioni"
+    },
+    "3": {
+        "title": "Uso degli edifici",
+        "backDescription": "Gli edifici (abitativi e commerciali) utilizzano combustibili fossili ed elettricità. Sono responsabili del 20% delle emissioni di gas serra (GHG).\n",
+        "explanation": "Uso degli edifici"
+    },
+    "33": {
+        "title": "Sommersioni",
+        "backDescription": "Cicloni e perturbazioni portano vento (e di conseguenza onde di tempesta) e abbassamento di pressione. Un hectopascal in meno corrisponde a 1 cm d'acqua in più. Possono quindi provocare sommersioni (inondazioni costiere) che sono aggravate dall'aumento de",
+        "explanation": "Sommersioni"
+    },
+    "7": {
+        "title": "Emissioni di CO2",
+        "backDescription": "La CO2 è il principale gas a effetto serra antropogenico (cioè emesso dall'uomo). Le emissioni di CO2 derivano dal uso dei combustibili fossili e dalla deforestazione.",
+        "explanation": "Emissioni di CO2"
+    },
+    "29": {
+        "title": "Pteropodi e coccolitofori",
+        "backDescription": "Gli pteropodi sono zooplancton e i coccolitofori fitoplancton. Questi microrganismi hanno un guscio di calcare.",
+        "explanation": "Pteropodi e coccolitofori"
+    },
+    "6": {
+        "title": "Deforestazione",
+        "backDescription": "La deforestazione consiste nel tagliare o bruciare alberi oltre la capacità di rigenerazione delle foreste. Nell'80% dei casi è legata all'agricoltura.",
+        "explanation": "Deforestazione"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Il permafrost indica un suolo perennemente ghiacciato. Si osserva che esso sta cominciando a sciogliersi, rilasciando nell'aria metano e CO2 in seguito alla decomposizione della materia organica che fino ad ora è rimasta congelata. Se questo fenomeno dove",
+        "explanation": "Permafrost"
+    },
+    "2": {
+        "title": "Industria",
+        "backDescription": "L'industria utilizza combustibili fossili ed elettricità. \nÈ responsabile del 40% dei gas serra (GHG).",
+        "explanation": "Industria"
+    },
+    "31": {
+        "title": "Risorse di acqua dolce",
+        "backDescription": "Le risorse di acqua dolce sono influenzate dai cambiamenti nelle precipitazioni e dalla scomparsa dei ghiacciai che svolgono un ruolo regolatore della portata dei corsi d'acqua.",
+        "explanation": "Risorse di acqua dolce"
+    },
+    "25": {
+        "title": "Biodiversità terrestre",
+        "backDescription": "Gli animali e le piante sono influenzati dalle variazioni della temperatura e da quelle del ciclo idrico: si spostano o scompaiono (o, più raramente, proliferano).",
+        "explanation": "Biodiversità terrestre"
+    },
+    "24": {
+        "title": "L'acidificazione dell'oceano",
+        "backDescription": "Quando il CO2 si discioglie nell'oceano, si trasforma in H2CO3 (acido carbonico) e poi HCO3 (bicarbonato). Questo ha l'effetto di acidificare l'oceano (il pH diminuisce).",
+        "explanation": "L'acidificazione dell'oceano"
+    },
+    "23": {
+        "title": "Problemi di calcificazione",
+        "backDescription": "Se il pH diminuisce, la formazione di calcare diventa più difficile, in particolare per le conchiglie.",
+        "explanation": "Problemi di calcificazione"
+    },
+    "30": {
+        "title": "Siccità",
+        "backDescription": "Un ciclo idrico pertubato puo' portare a scarsità o abbondanza d'acqua. Meno acqua provoca la siccità. Si prevede che le siccità potrebbero moltiplicarsi in futuro.",
+        "explanation": "Siccità"
+    },
+    "32": {
+        "title": "Calo delle rese agricole",
+        "backDescription": "La produzione agricola può essere influenzata dalla temperatura, la siccità, gli eventi estremi, le esondazioni e le sommersioni (ad esempio: Delta del Nilo).",
+        "explanation": "Calo delle rese agricole"
+    },
+    "36": {
+        "title": "Ondate di caldo",
+        "backDescription": "La moltiplicazione delle ondate di caldo è una manifestazione dell'aumento delle temperature.",
+        "explanation": "Ondate di caldo"
+    },
+    "40": {
+        "title": "Conflitti armati",
+        "backDescription": "E' così che bisognerebbe evitare che finisca…",
+        "explanation": "Conflitti armati"
+    },
+    "27": {
+        "title": "Biodiversità marina",
+        "backDescription": "Essendo gli pteropodi e i coccolitofori alla base della catena alimentare, la loro scomparsa minaccia tutta la biodiversità marina. Il riscaldamento dell'acqua gioca un ruolo importante nell'indebolimento della biodiversità marina. ",
+        "explanation": "Biodiversità marina"
+    },
+    "28": {
+        "title": "Vettori di malattia",
+        "backDescription": "Con il riscaldamento, gli animali migrano. Alcuni sono vettori di malattie e raggiungono zone in cui le popolazioni non sono immunizzate.",
+        "explanation": "Vettori di malattia"
+    },
+    "4": {
+        "title": "Trasporti",
+        "backDescription": "Il settore dei trasporti dipende molto dal petrolio. È responsabile del 15% delle emissioni di gas serra.",
+        "explanation": "Trasporti"
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "3": {
+        "title": "Boliger og byggeri",
+        "backDescription": "Bolig- og byggesektoren (både erhverv og privat) bruger fossile brændstoffer og el. Den står for 20% af alle drivhusgasudledninger.",
+        "explanation": "Boliger og byggeri"
+    },
+    "29": {
+        "title": "Pteropoder & Coccolithophorer",
+        "backDescription": "Forsuring af havene går primært ud over plankton som Pteropoder (en slags dyreplankton) og Coccolithophorer (en slags planteplankton). Begge grupper er skal-dannende. ",
+        "explanation": "Pteropoder & Coccolithophorer"
+    },
+    "7": {
+        "title": "CO2-udledninger",
+        "backDescription": "CO2 (kuldioxid) er den drivhusgas, vi mennesker udleder mest af. Menneskeskabte udledninger opstår ved forbrænding af fossile brændstoffer og afskovning.",
+        "explanation": "CO2-udledninger"
+    },
+    "28": {
+        "title": "Spredning af sygdomme",
+        "backDescription": "Ændringerne i klima fører til at dyrearter spreder sig på nye måder. Nogle af dyrene kan bære sygdomme med sig, som siden skaber store problemer i områder, hvor befolkningen ikke er immune overfor dem.",
+        "explanation": "Spredning af sygdomme"
+    },
+    "12": {
+        "title": "Kulstofpuljer",
+        "backDescription": "Halvdelen af den CO2, vi udleder hvert år, lagres i klodens egne kulstofpuljer:\n-¼ i planter gennem fotosyntese\n-¼ i oceanerne\nDen resterende halvdel forbliver i atmosfæren. ",
+        "explanation": "Kulstofpuljer"
+    },
+    "41": {
+        "title": "Permafrost",
+        "backDescription": "Permafrost er permanent frossen jord. \nNår permafrost tør, nedbrydes de organiske materialer, der før var frosne. Dette udleder metan og CO2 til atmosfæren.\nVed opvarmning over 2˚C er det næsten sikkert, at dette fænomen vil accelerere, og dermed skabe yd",
+        "explanation": "Permafrost"
+    },
+    "5": {
+        "title": "Fossile Brændstoffer",
+        "backDescription": "Fossile brændstoffer er kul, olie og naturgas. Vi bruger dem primært i byggeri og boliger, til transport og industri. Afbrænding af fossile brændstoffer frigiver CO2.",
+        "explanation": "Fossile Brændstoffer"
+    },
+    "30": {
+        "title": "Tørke",
+        "backDescription": "Forstyrrelse af vandets kredsløb kan føre til mere eller mindre vand. Når et område gennem længere tid ikke får tilstrækkeligt med nedbør, vil tørke opstå. Man forventer mere tørke i fremtiden.",
+        "explanation": "Tørke"
+    },
+    "36": {
+        "title": "Hedebølger",
+        "backDescription": "Med stigende globale temperaturer bliver hedebølger mere almindelige. ",
+        "explanation": "Hedebølger"
+    },
+    "40": {
+        "title": "Væbnede konflikter",
+        "backDescription": "Sådan må det ikke ende...",
+        "explanation": "Væbnede konflikter"
+    },
+    "31": {
+        "title": "Ferskvands-ressourcer",
+        "backDescription": "Ferskvand findes som floder, søer, gletsjere og i grundvandet under jorden. Når nedbør ændres eller landis smelter, påvirker det vores ferskvands-ressourcer. ",
+        "explanation": "Ferskvands-ressourcer"
+    },
+    "10": {
+        "title": "Aerosoler",
+        "backDescription": "Aerosoler har her ikke noget at gøre med spraydåser. De er luftbårne partikler, som primært stammer fra ufuldstændig afbrænding af fossile brændsler. De forurener luften og udgør et væsentligt sundhedsproblem. Aerosolerne ‘skygger for solen’ og har dermed",
+        "explanation": "Aerosoler"
+    },
+    "9": {
+        "title": "De andre drivhusgasser",
+        "backDescription": "CO2 er ikke den eneste gas, der bidrager til drivhuseffekten. To andre vigtige gasser er metangas (CH4) og kvælstofoxid/lattergas (N2O), som primært udledes i landbrugssektoren.",
+        "explanation": "De andre drivhusgasser"
+    },
+    "2": {
+        "title": "Industri",
+        "backDescription": "Industrien bruger store mængder energi fra fossile brændstoffer og el. Den er ansvarlig for 40% af den samlede udledning af drivhusgasser.",
+        "explanation": "Industri"
+    },
+    "11": {
+        "title": "CO2-koncentration (ppm)",
+        "backDescription": "Ca. halvdelen af de menneskeskabte CO2-udledninger bliver optaget i naturlige kulstofpuljer. Resten bliver i atmosfæren. De sidste 150 år er koncentrationen af CO2 i atmosfæren steget fra 280 ppm (parts per million) til 410 ppm.",
+        "explanation": "CO2-koncentration (ppm)"
+    },
+    "4": {
+        "title": "Transport",
+        "backDescription": "Energiforbruget i transportsektoren er baseret næsten udelukkende på fossile brændstoffer. Transport er ansvarlig for 15% af den samlede udledning af drivhusgasser.",
+        "explanation": "Transport"
+    },
+    "38": {
+        "title": "Sundhed",
+        "backDescription": "Hungersnød, spredning af sygdomme, hedebølger og væbnet konflikt vil alle påvirke den menneskelige sundhed negativt. ",
+        "explanation": "Sundhed"
+    },
+    "18": {
+        "title": "Havisen smelter",
+        "backDescription": "Smeltende havis fører IKKE til en vandstandsstigning i havene (ligesom vandstanden i dit glas ikke stiger, når en isterning smelter). \nNår isen smelter skabes endnu mere afsmeltning, fordi den mørke havoverflade opsuger mere af solens energi, end den hvid",
+        "explanation": "Havisen smelter"
+    },
+    "17": {
+        "title": "Havtemperaturerne øges\n",
+        "backDescription": "Verdenshavene absorberer det meste af energien der akkumuleres på jorden (93%). Det fører til en temperaturstigning, særligt i havenes øverste lag. Varmen gør, at havene udvider sig.",
+        "explanation": "Havtemperaturerne øges\n"
+    },
+    "1": {
+        "title": "Menneskelige aktiviteter",
+        "backDescription": "Alt begynder her….",
+        "explanation": "Menneskelige aktiviteter"
+    },
+    "19": {
+        "title": "Indlandsisen smelter",
+        "backDescription": "Indlandsis findes på Antarktis og i Grønland. Hvis al denne is smeltede, ville det få vandstanden i verdenshavene til at stige med ca. 7 m. for Grønland og 54 m. for Antarktis. Til sammenligning var mængden af indlandsis under sidste istid så stor, at van",
+        "explanation": "Indlandsisen smelter"
+    },
+    "42": {
+        "title": "Metanhydrater",
+        "backDescription": "Metanhydrater er en form for frosne metandepoter, der ligger i eller under havbunden. Depoterne kan blive ustabile ved en stigning i havtemperaturer på mere end 2˚C, hvorved gassen smelter og frigives. Dette vil igen forstærke klimaforandringerne.",
+        "explanation": "Metanhydrater"
+    },
+    "32": {
+        "title": "Faldende fødevareforsyninger",
+        "backDescription": "Fødevareproduktionen påvirkes af temperaturstigning, tørke, hyppigere ekstremt vejr og oversvømmelser fra floder eller i kystnære områder.",
+        "explanation": "Faldende fødevareforsyninger"
+    },
+    "21": {
+        "title": "Jorden varmes op",
+        "backDescription": "Grafen viser den globale gennemsnitstemperatur på land. Siden år 1900 er den steget med 1°C. Afhængig af RCP-scenario (Representative Concentration Pathways), kan stigningen i år 2100 ligge et sted mellem 2°C til 5°C. Til sammenligning var gennemsnitstemp",
+        "explanation": "Jorden varmes op"
+    },
+    "22": {
+        "title": "Havets vandstand stiger",
+        "backDescription": "Globalt er havniveauet steget 20 cm siden år 1900. Havniveau stiger, dels fordi smeltende iskapper og gletsjere tilfører mere vand, og dels fordi vandet udvider sig, når det varmes op.",
+        "explanation": "Havets vandstand stiger"
+    },
+    "13": {
+        "title": "Forøget Drivhuseffekt",
+        "backDescription": "Drivhuseffekten forekommer helt naturligt, uden den ville jordens temperatur være ca. 33˚C grader koldere, og jorden ville være ubeboelig for os. De stigende udslip af CO2 og andre drivhusgasser, som hovedsageligt skyldes menneskelige aktiviteter, forøger",
+        "explanation": "Forøget Drivhuseffekt"
+    },
+    "23": {
+        "title": "Skaldannelse forhindres",
+        "backDescription": "Når havene forsures, betyder det, at der er mindre kalk i vandet. Dette bliver et problem for skal-dannende havdyr og plankton, der har brug for kalk til at danne deres skaller og skeletter.",
+        "explanation": "Skaldannelse forhindres"
+    },
+    "27": {
+        "title": "Biodiversitet i havene",
+        "backDescription": "De mindste former for plankton repræsenterer de nederste led i havets fødekæde. Udryddelse af skal-dannende plankton truer det resterende dyreliv i oceanerne. Dermed er den globale opvarming af oceanerne en trussel for biodiversiteten.",
+        "explanation": "Biodiversitet i havene"
+    },
+    "16": {
+        "title": "Gletsjerne smelter",
+        "backDescription": "Næsten hele klodens ismasse er i tilbagegang, og flere hundrede gletsjere er forsvundet. Gletsjerne leverer smeltevand om sommeren, og spiller dermed en vigtig rolle i forsyningen af ferskvand.\n",
+        "explanation": "Gletsjerne smelter"
+    },
+    "24": {
+        "title": "Havenes forsuring",
+        "backDescription": "Når havvand optager CO2, reagerer gassen med H2O og danner syre-ioner (H2CO3 og HCO3), som får vandets pH-værdi til at falde. Dette medfører en forsuring af havene. ",
+        "explanation": "Havenes forsuring"
+    },
+    "37": {
+        "title": "Hungersnød",
+        "backDescription": "Fald i høstudbytter og tabet af biodiversitet i havet vil sætte den globale fødevareforsyning under pres.",
+        "explanation": "Hungersnød"
+    },
+    "15": {
+        "title": "Strålingspåvirkning",
+        "backDescription": "Strålingspåvirkning er et mål for den menneskeskabte forskel mellem den energi, der går ind i systemet (solindstråling), og den der går ud igen. Måles i W/m2 (watt pr. kvadratmeter). I IPCC’s 5. Assessment Report er den beregnet til 2.3 W/m2. ",
+        "explanation": "Strålingspåvirkning"
+    },
+    "14": {
+        "title": "Jordens energi-budget",
+        "backDescription": "De menneskeskabte drivhusgasser forrykker strålingsbalancen - mellem indgående og udgående stråling/energi. I denne graf kan man se, hvad der sker med den ekstra energi. Den opvarmer havene, smelter is og gletsjere, forsvinder ned i jorden og opvarmer atm",
+        "explanation": "Jordens energi-budget"
+    },
+    "25": {
+        "title": "Biodiversitet på land",
+        "backDescription": "Temperaturstigninger og forstyrrelser af vandets kredsløb har stor betydning for dyr og planter. Nogle arter kan migrere, andre forsvinder, og somme tider kan en art trives og øges.",
+        "explanation": "Biodiversitet på land"
+    },
+    "8": {
+        "title": "Landbrug",
+        "backDescription": "Landbrugssektoren udleder ikke så meget CO2, men bidrager til gengæld med store mængder metangas (CH4, fra drøvtyggere og rismarker) og  lattergas (N2O, kvælstofgødning). Hvis vi inkluderer skovrydning,\nbidrager landbruget i alt med 25% af de samlede driv",
+        "explanation": "Landbrug"
+    },
+    "26": {
+        "title": "Oversvømmelser af vandløb",
+        "backDescription": "Forstyrrelsen af vandets kredsløb kan føre til mere eller mindre vand. Mere nedbør kan føre til oversvømmelser af vandløbene. Men det kan mindre vand også, idet tør jord ikke kan opsuge regnen, når den endelig kommer, og derfor skyller den væk i stedet.",
+        "explanation": "Oversvømmelser af vandløb"
+    },
+    "20": {
+        "title": "Forstyrrelse af vandets kredsløb",
+        "backDescription": "Når havene og atmosfæren bliver varmere, medfører det øget fordampning. Mere vanddamp i luften giver flere skyer og mere nedbør i form af kraftige regnskyl. Samtidig medfører øget fordampning også tørke.\n",
+        "explanation": "Forstyrrelse af vandets kredsløb"
+    },
+    "39": {
+        "title": "Klimaflygtninge",
+        "backDescription": "Forestil dig du bor et sted, hvor du er blevet beskyttet mod konsekvenserne af klimaforandringer. Mon ikke der er mange millioner, der gerne ville dele det sted med dig?",
+        "explanation": "Klimaflygtninge"
+    },
+    "35": {
+        "title": "Skovbrande",
+        "backDescription": "Flere og længere tørkeperioder og hedebølger medfører et stigende antal skovbrande.",
+        "explanation": "Skovbrande"
+    },
+    "34": {
+        "title": "Cykloner ",
+        "backDescription": "Cykloner bruger energi fra det varme vand ved havets overflade. På grund af den globale opvarmning bliver de stærkere.",
+        "explanation": "Cykloner "
+    },
+    "33": {
+        "title": "Oversvømmelser ved kysten",
+        "backDescription": "Cykloner og ekstremt vejr medfører mere vind og bølger, samt hyppigere lavtryk ved havoverfladen. Når lufttrykket falder med 1 hectopascal, stiger vandstanden med 1 cm. Derfor kan cykloner medføre flere oversvømmelser ved kysterne, som forstærker den havv",
+        "explanation": "Oversvømmelser ved kysten"
+    },
+    "6": {
+        "title": "Skovrydning",
+        "backDescription": "Skovrydning betyder, at man fælder og/eller afbrænder flere træer, end der kan nå at vokse op igen. Dermed mister skoven muligheden for at gendanne sig. 80% af al skovrydning sker for at skabe plads til landbrug.",
+        "explanation": "Skovrydning"
+    }
+}
