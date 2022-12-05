@@ -41,11 +41,8 @@ LANGUAGES_DICT = {
     "RO-RO": "ro-RO", # Romanian (Romania)
     "RU-RU": "ru-RU", # Russian (Russia)
     "SK-SK": "sk-SK", # Slovak (Slovakia)
-<<<<<<< HEAD
     "SR-SP": "sr-SP", # Serbian
-=======
     "SR-SP": "SR-SP", # ???
->>>>>>> e7c2b5223f6cffed983599763a87d08413e23e30
     "SV-SE": "sv-SE", # Swedish (Sweden)
     "TR-TR": "tr-TR", # Turkish (Turkey)
     "UK-UA": "uk-UA", # Ukrainian (Ukraine)

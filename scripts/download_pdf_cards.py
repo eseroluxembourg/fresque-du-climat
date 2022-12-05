@@ -1,10 +1,12 @@
 from bs4 import BeautifulSoup
 import urllib
+import urllib.request
 import pickle
 import language_utils
 import os
 import shutil
 import json
+import lxml
 from alive_progress import alive_bar
 
 DOWNLOAD_FOLDER = 'download'
@@ -106,10 +108,10 @@ def download_all_pdfs():
 
     if not os.path.exists(PDF_FOLDERS):
         os.mkdir(PDF_FOLDERS)
-    # pdf_urls = parse_order_the_cards()
+    pdf_urls = parse_order_the_cards()
     
-    # f = open('pdf_urls.pkl', 'wb')
-    # pickle.dump(pdf_urls, f)
+    f = open('pdf_urls.pkl', 'wb')
+    pickle.dump(pdf_urls, f)
 
     pdf_urls = pickle.load(open('pdf_urls.pkl', 'rb'))
 
