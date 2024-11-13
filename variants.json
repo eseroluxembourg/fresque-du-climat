@@ -1,0 +1,400 @@
+{
+    "v9.0" : {
+        "default": true,
+        "deprecated": false,
+        "langs": {
+           "fr-FR": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "es-ES": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "de-DE": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "nl-NL": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "en-GB": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "sv-SE": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "ca-ES": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "pl-PL": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "id-ID": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+           "es-LAT": {
+               "format": "pdfformat-v9.0.json",
+               "url": "",
+               "replacements": ""
+            },
+            "lt-LT": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1atxSh7IjYywyz5oUKTDHfJJqo7tb4u6f/view",
+                "replacements": ""
+            },
+            "ar-AR": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1S0Wj5a4ZALxWs59ymui6RzyH_iCJbVe3/view",
+                "replacements": ""
+            },
+            "bg-BG": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/171zQnVJWX9y2HSqylPiLUXHSl4pJBlG9/view",
+                "replacements": ""
+            },
+            "zh-CN": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1Z-_UlWdYnU_m0lEseynfwFT5jORNspZH/view",
+                "replacements": ""
+            },
+            "hr-HR": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/17xQTbGzP4tqaVcrUEEM0EmtFhnC0q_HB/view",
+                "replacements": ""
+            },
+            "cs-CZ": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1_pn00qv7cfMAmBrohsILREfJxcY3pRPb/view",
+                "replacements": ""
+            },
+            "fi-FI": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1Jny5d_q65mfH1LeaRwoSLjEnVUqkzvd8/view",
+                "replacements": ""
+            },
+            "el-GR": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1GxDo1JNr0sNuu1IgYeUqzriMGEckRnry/view",
+                "replacements": ""
+            },
+            "it-IT": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/10x0qjdpXDDWLo_0Rc0sn0KeUUrmRyJSi/view",
+                "replacements": ""
+            },
+            "pt-PT": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1rhizdBLVnaPTuMuBIW4jxCVG9Fdc9Znf/view",
+                "replacements": ""
+            },
+            "vi-VN": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1rqE1sur8Hdiy8u5ef1TPMQ9s4oD49UhJ/view",
+                "replacements": ""
+            },
+            "ro-RO": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1bV_QwQRfhXE22WGujUFrTzokQNGX1cIv/view",
+                "replacements": ""
+            },
+            "ru-RU": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1B5Zypn7Ovwl63ICNR5GB8PWK9F_NE_2k/view",
+                "replacements": ""
+            },
+            "tr-TR": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1sMzQMQRhCYxnYAMnV-MaKUohHXMYu-rE/view",
+                "replacements": ""
+            },
+            "nb-NO": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1P0tfRGPQ1Y6TNECppxQ01c5vds2oGWm9/view",
+                "replacements": ""
+            },
+            "pt-BR": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1qCN-iaSmG0PjQSBuCTyi3-5Zx8Q04xkF/view",
+                "replacements": ""
+            },
+            "ml-IN": {
+                "format": "pdfformat-v9.0.json",
+                "url": "https://drive.google.com/file/d/1gAzN0Hcs1TV5KpcYqbXMFINyaq0YIe8i/view",
+                "replacements": ""
+            }
+        }
+    },
+    "v8.4": {
+        "default": false,
+        "deprecated": true,
+        "langs": {
+            "fr-FR": {
+                "url": "https://drive.google.com/file/d/15DJkpE4gXnNvr5OV8YPgMwOkkshwgaf0/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "en-GB": {
+                "url": "https://drive.google.com/file/d/15cCI0tYYgsRdKI0EJAd2KSdTj_-WWZMi/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "de-DE" : {
+                "url": "https://drive.google.com/file/d/16w0adJ47wpMKMQI6bONMABqR3p-9l6tt/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "es-ES": {
+                "url": "https://drive.google.com/file/d/18YNMqsYXeTdXApi8FlfPuJEpBtnMDwmK/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "sq-AL": {
+                "url": "https://drive.google.com/file/d/10LPrBzCnvg60RE2q5G9nmXYf79lRoM1l/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ar-AR": {
+                "url": "https://drive.google.com/file/d/1-JtYxoW2xJ3sz8AIqlwxI3vBMZS47iSR/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "br-FR": {
+                "url": "https://drive.google.com/file/d/1lMije6bVPmIQ6uPm8IT9PqV5XHI7LzSF/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "bg-BG": {
+                "url": "https://drive.google.com/file/d/1T9pFNutGRkbO1w5_sm8bSH6IxNGKUdNe/view",
+                "format": "pdfformat-v8.4_decktape.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ca-ES": {
+                "url": "https://drive.google.com/file/d/1-BCWltbzxpAdzz7HeqvE321RQg50sgJ6/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "zh-TW": {
+                "url": "https://drive.google.com/file/d/1Ay5GSzT6tdzXhbdwYbBJayJOWyx7cF2Y/view?usp=sharing",
+                "format": "pdfformat-v8.4_zh-tw.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "hr-HR": {
+                "url": "https://drive.google.com/file/d/1NKYaNe_av7rT7BxyLVM7NFEe4w-T1vyK/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "cs-CZ": {
+                "url": "https://drive.google.com/file/d/1BgD1lOqkiDUF-bfixR7p8xdWk2n4V13y/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "da-DK": {
+                "url": "https://drive.google.com/file/d/1EpR-qsmlnzNB8PX0XNpSt8s2aFu3O-Nq/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "nl-NL": {
+                "url": "https://drive.google.com/file/d/17QdijebKwe7NhfKBTjv5m1wUFIt7V577/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "en-US": {
+                "url": "https://drive.google.com/file/d/16hu7HNLV07u83O7iC99MUocOimylieGb/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "fi-FI": {
+                "url": "https://drive.google.com/file/d/1Ke9PdpaRfo0YgAzvElPVMv2Gq9hFs-dS/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "el-GR": {
+                "url": "https://drive.google.com/file/d/18q4JFfAOLaOV-3oosI77_UVFS0iagSt4/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "hu-HU": {
+                "url": "https://drive.google.com/file/d/131ggHp77b5qsk7xPru6JfJrr0MKahdDl/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "it-IT": {
+                "url": "https://drive.google.com/file/d/18Bz3yTVSTUwKPsTvF3tpSoYTOpQfcvbh/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ja-JP": {
+                "url": "https://drive.google.com/file/d/1uw5FeNULALfDkmm6ZzUC8uFJV49vw8ou/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "km-KH": {
+                "url": "https://drive.google.com/file/d/10XaomIrnV297PVyl_4wNl_lEJE8db0wT/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ko-KR": {
+                "url": "https://drive.google.com/file/d/1CI_qb3ACTnxIuDoeruUY763Eu7tmv3H_/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ky-KG": {
+                "url": "https://drive.google.com/file/d/1jENxyXEBgPxozYRaY3Re4mlXew-S6-vy/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "lv-LV": {
+                "url": "https://drive.google.com/file/d/1kI2oH0vrfuJA2nBcLz7I_wxn7E3L4iiO/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "lt-LT": {
+                "url": "https://drive.google.com/file/d/12M5uQvXDADCTOjKtAH7ORtPkM0iI9P-O/view?usp=share_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "mk-MK": {
+                "url": "https://drive.google.com/file/d/1ETdhCH6G5BdPYtCiKy-nFzE-HsjO3dew/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "mfe-MU": {
+                "url": "https://drive.google.com/file/d/11IK6RroiAdvzR7A4LjC1Ngg252fbqV3Y/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "no-NO": {
+                "url": "https://drive.google.com/file/d/18QODcHvrtthgPPhpBqC6J4P4iXsonEkH/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "oc-FR": {
+                "url": "https://drive.google.com/file/d/1EvtYw400rZhMBSGMR2k8MUo3PHpCKuAx/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "pl-PL": {
+                "url": "https://drive.google.com/file/d/11QyqIlwqRqVvK4I_iIOuCPZrbbGy1Yiq/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "pt-PT": {
+                "url": "https://drive.google.com/file/d/1-cK1pyqbNUPCduWDIhioWv0Wbifyps2E/view?usp=sharing",
+                "format": "pdfformat-v8.4_pt-pt.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "pt-BR": {
+                "url": "https://drive.google.com/file/d/1BIXdA_DnXvPtoydLVdj0FoEvPWpL2yiH/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ro-RO": {
+                "url": "https://drive.google.com/file/d/123OMVXucfJPj56fgt8MP-_owHa3egVIS/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "sr-RS": {
+                "url": "https://drive.google.com/file/d/1CAv4xObE_J1Oe5N2CcBvBBPWzehLaB6T/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "si-SL": {
+                "url": "https://drive.google.com/file/d/142wk2xugjqXedviToSsqVoAEFd18a1BK/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "sk-SK": {
+                "url": "https://drive.google.com/file/d/1FGvXZLy2aU9xfVhWIo_uMAKGhJJcDhgo/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "sl-SI": {
+                "url": "https://drive.google.com/file/d/1CYe-CsmD2KQT1hN0pSTr1zSbAilrEVa2/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "es-LAT": {
+                "url": "https://drive.google.com/file/d/11MUi7FBnNP1G0ZyyDnr-dBlTFdr4zEJX/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "sv-SE": {
+                "url": "https://drive.google.com/file/d/1hZvVjvWEo_nWMBUVuWkU8WebHInNZ_ls/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "th-TH": {
+                "url": "https://drive.google.com/file/d/13R0uXEpyrxWn3g4Dr7d4LAhNAIAd5BRr/view?usp=sharing",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "tr-TR": {
+                "url": "https://drive.google.com/file/d/1GF1gjt9Tyd_ha00aDZ-JF5TjZpMhBEIU/view?usp=drive_link",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "uk-UA": {
+                "url": "https://drive.google.com/file/d/1DeXW7pcrVbmheQb9VjKGJm64Zuv68E4P/view",
+                "format": "pdfformat-v8.4.json",
+                "replacements": "replacements-v8.4.json"
+            }
+        }
+    },
+    "v7.5": {
+        "default": false,
+        "deprecated": true,
+        "langs": {
+            "ar-MA": {
+                "url": "https://drive.google.com/file/d/10uZrTAbTyw76J6VnlOrO8-t9VZ_9YYqa/view",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "eu-ES": {
+                "url": "https://drive.google.com/file/d/1liUKmFNOc1__c8PmCMTEj6SIp1fV9p2a/view",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "et-EE": {
+                "url": "https://drive.google.com/file/d/125ctMSDpMf0VoUkhWar19dCgvFYyVX2d/view?usp=share_link",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "he-IL": {
+                "url": "https://drive.google.com/file/d/1RqyEfE3vZx8vcZgWYIGzzfaYjEPvEBda/view?usp=share_link",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "lb-LU": {
+                "url": "https://drive.google.com/file/d/1DkxQr7o99I1sVVID-UP8ez8NqPvRADVR/view",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "mg-MG": {
+                "url": "https://drive.google.com/file/d/1jOI0EWzOMUlA6r5t0k4AMwFn-GKH73po/view?usp=share_link",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            },
+            "ru-RU" : {
+                "url": "https://drive.google.com/file/d/14LudufcPehJRqIwUwT_FFPXsEcPjMYEY/view",
+                "format": "pdfformat-v7.5.json",
+                "replacements": "replacements-v8.4.json"
+            }
+        }
+    }
+}

@@ -1,55 +1,26 @@
-stages:
-  - build-app
-  - deploy
-
-variables:
-  GIT_SSL_NO_VERIFY: "true"
-  GIT_STRATEGY: clone
-  BUILD_DIR: dist
+include:
+  - 'https://framagit.org/memo-fresques/memo-viewer/-/raw/main/common.gitlab-ci.yml'
+  - 'https://framagit.org/Marc-AntoineA/tolgitbot/-/raw/main/tolgee.gitlab-ci.yml'
 
 
-#############
-# Build App #
-#############
+deploy-app:
+  rules:
+    - when: never
 
-build-app:
-  stage: build-app
-  image: buildkite/puppeteer
-  artifacts:
-    expire_in: 1 day
-    paths:
-      - memo-viewer/$BUILD_DIR
+deploy-admin:
+  rules:
+    - when: never
+
+
+translations-pull:
   variables:
-    PUBLIC_PATH: $ROOT_URL
-  script:
-    - echo "building app for any push on any branch or for release tags..."
-    - apt-get update
-    - apt-get upgrade -y
-    - apt-get install -y git
-    - git clone https://framagit.org/memo-fresques/memo-viewer.git memo-viewer
-    - bash scripts/deploy.sh . memo-viewer
-    - cd memo-viewer
-    - yarn install
-    - yarn run build
-  only:
-    - master
-  tags:
-    - docker
-
-##########
-# Deploy #
-##########
-
-deploy-server:
-  stage: deploy
-  image: alpine
+    TOLGEE_PULL_USE_MR: false
+    TOLGEE_STATE: "TRANSLATED"
+  dependencies: []
+  needs: []
   before_script:
-  script:
-    - apk update
-    - apk add lftp
-    - lftp -e "open $FTP_HOST; user $FTP_USER $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete memo-viewer/$BUILD_DIR .; bye"
-  only:
-    - master
-  when: manual
-  tags:
-    - docker
+    - git clone --depth 1 https://framagit.org/memo-fresques/memo-viewer.git/ -b main
+
+translations-push:
+  rules:
+    - when: never

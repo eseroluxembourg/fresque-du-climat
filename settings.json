@@ -1,20 +1,49 @@
 {
-    "wiki-root-url": "https://fresqueduclimat.org",
-    "host": "https://fresqueduclimat.org",
-    "title": "Memo Fresque du Climat",
+    "host": "https://memo.climatefresk.org",
+    "gitlab": {
+        "base_url": "https://framagit.org/",
+        "repo": "memo-fresques/fresque-du-climat",
+        "branch": "main",
+        "project_id": 76865
+    },
+    "contact": "fdc.memo@marc-antoinea.fr",
+    "title": {
+        "fr-FR": "Memo Fresque du Climat",
+        "en-GB": "Climate Fresk Memo",
+        "it-IT": "Memo Affresco del Clima"
+    },
     "author": "Fresque du climat",
     "description": {
-        "fr": "Mémo de la Fresque du Climat - Les cartes pour comprendre"
+        "fr-FR": "Mémo de la Fresque du Climat - Les cartes pour comprendre",
+        "it-IT": "Memo dell'Affresco del Clima - Carte per capire"
     },
-    "game": {
-        "name": {
-            "fr": "Fresque du climat",
-            "en": "Climate Fresk"
-        }
+    "fresk-label": {
+        "fr-FR": "Fresque du climat",
+        "en-GB": "Climate Fresk",
+        "br-FR": "Tresit an hin",
+        "it-IT": "Affresco del Clima"
     },
     "matomo": {
         "enabled": true,
-        "host": "https://stats.aktivisda.earth/matomo",
-        "siteId": 4
+        "host": "https://analytics.climatefresk.org",
+        "siteId": 9
+    },
+    "memo": {
+        "version": "1.9.0"
+    },
+    "i18n": {
+        "en-GB": {
+            "alerts.undefined-variant-redirection": "You have been redirected to version { newVariant }. A more recent version {oldVariant} of the cards exists but has not been translated in your language yet. If you want to help us translate or if you know somebody interested, please <a href='https://forms.gle/cUq2w4KRktUpy55C8' target='_blank'>fill this Google form</a>.",
+            "contribute.translate-explanations": "✏️ This explanation does not yet exist in your language. Please <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\">fill this Google Form</a> if you want to help us!",
+            "contribute.contribute-explanations": "✏️ Do you want to improve this text? Please <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\">fill this Google Form!</a>"
+        },
+        "fr-FR": {
+            "contribute.translate-explanations": "✏️ Cette explication n'est pas encore disponible dans ta langue, tu peux <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">remplir ce formulaire Google</a> pour proposer ta traduction.",
+            "contribute.contribute-explanations": "✏️ Tu veux améliorer cette explication ? Tu peux remplir ce <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">Formulaire Google</a>."
+        },
+        "it-IT": {
+            "contribute.contribute-explanations": "Vuoi migliorare questa spiegazione? Puoi compilare questo <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">modulo Google</a>.",
+            "contribute.translate-explanations": "✏️ Questa spiegazione non è ancora disponibile nella tua lingua, puoi <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">compilare questo modulo Google</a> per proporre la tua traduzione."
+        }
     }
 }

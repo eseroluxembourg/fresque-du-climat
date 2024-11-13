@@ -1,0 +1,423 @@
+[{
+    "pdfpage": 3,
+    "cardid": "1",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 5,
+    "cardid": "5",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 7,
+    "cardid": "7",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 9,
+    "cardid": "13",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 11,
+    "cardid": "21",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 13,
+    "cardid": "18",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 15,
+    "cardid": "22",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 17,
+    "cardid": "2",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 19,
+    "cardid": "3",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 21,
+    "cardid": "4",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 23,
+    "cardid": "6",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 25,
+    "cardid": "8",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 27,
+    "cardid": "9",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 29,
+    "cardid": "11",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 31,
+    "cardid": "12",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 33,
+    "cardid": "24",
+    "side": "front",
+    "options": {
+        "orientation": "north"
+    }
+}, {
+    "pdfpage": 35,
+    "cardid": "10",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 37,
+    "cardid": "14",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 39,
+    "cardid": "15",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 41,
+    "cardid": "16",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 43,
+    "cardid": "17",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 45,
+    "cardid": "19",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 47,
+    "cardid": "20",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 49,
+    "cardid": "23",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 51,
+    "cardid": "25",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 53,
+    "cardid": "26",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 55,
+    "cardid": "27",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 57,
+    "cardid": "34",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 59,
+    "cardid": "29",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 61,
+    "cardid": "30",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 63,
+    "cardid": "33",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 65,
+    "cardid": "28",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 67,
+    "cardid": "31",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 69,
+    "cardid": "32",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 71,
+    "cardid": "35",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 73,
+    "cardid": "36",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 75,
+    "cardid": "37",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 77,
+    "cardid": "38",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 79,
+    "cardid": "39",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 81,
+    "cardid": "40",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 83,
+    "cardid": "41",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 85,
+    "cardid": "42_v9",
+    "side": "front",
+    "options": {}
+}, {
+    "pdfpage": 4,
+    "cardid": "1",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 6,
+    "cardid": "5",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 8,
+    "cardid": "7",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 10,
+    "cardid": "13",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 12,
+    "cardid": "21",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 14,
+    "cardid": "18",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 16,
+    "cardid": "22",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 18,
+    "cardid": "2",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 20,
+    "cardid": "3",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 22,
+    "cardid": "4",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 24,
+    "cardid": "6",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 26,
+    "cardid": "8",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 28,
+    "cardid": "9",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 30,
+    "cardid": "11",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 32,
+    "cardid": "12",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 34,
+    "cardid": "24",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 36,
+    "cardid": "10",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 38,
+    "cardid": "14",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 40,
+    "cardid": "15",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 42,
+    "cardid": "16",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 44,
+    "cardid": "17",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 46,
+    "cardid": "19",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 48,
+    "cardid": "20",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 50,
+    "cardid": "23",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 52,
+    "cardid": "25",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 54,
+    "cardid": "26",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 56,
+    "cardid": "27",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 58,
+    "cardid": "34",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 60,
+    "cardid": "29",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 62,
+    "cardid": "30",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 64,
+    "cardid": "33",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 66,
+    "cardid": "28",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 68,
+    "cardid": "31",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 70,
+    "cardid": "32",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 72,
+    "cardid": "35",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 74,
+    "cardid": "36",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 76,
+    "cardid": "37",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 78,
+    "cardid": "38",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 80,
+    "cardid": "39",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 82,
+    "cardid": "40",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 84,
+    "cardid": "41",
+    "side": "back",
+    "options": {}
+}, {
+    "pdfpage": 86,
+    "cardid": "42_v9",
+    "side": "back",
+    "options": {}
+}]

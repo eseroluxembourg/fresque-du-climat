@@ -1,12 +1,27 @@
 {
-  "name": "fresque-du-climat",
-  "version": "1.0.4",
-  "private": true,
-  "scripts": {
-    "reset": "scripts/reset.sh ../memo-viewer",
-    "deploy-dev": "scripts/deploy-dev.sh . ../memo-viewer",
-    "deploy": "scripts/deploy.sh . ../memo-viewer",
-    "backup": "scripts/backup.sh ../memo-viewer ../memo-viewer.data",
-    "build": "scripts/generate-cards.sh"
-  }
+    "name": "fresque-du-climat",
+    "version": "1.0.5",
+    "private": true,
+    "scripts": {
+        "dev": "npm run dev:app",
+        "dev:app": "memo-viewer/scripts/setup-data.sh . ./memo-viewer; cd memo-viewer; npm run dev:app",
+        "install:admin": "npm install && cd memo-viewer && npm run install:admin",
+        "install:app": "npm install && cd memo-viewer && npm run install:app",
+        "generate:app": "npm run setup:data && cd memo-viewer && npm run generate:app",
+        "setup:data": "sh memo-viewer/scripts/setup-data.sh . ./memo-viewer",
+        "prettier:check": "prettier --check .",
+        "prettier:write": "prettier --write .",
+        "dev:admin": "npm run setup:data && cd memo-viewer && npm run dev:admin",
+        "preview:admin": "npm run setup:data;cd memo-viewer;npm run preview:admin",
+        "build:admin": "npm run setup:data;cd memo-viewer; npm run build:admin",
+        "test": "npm run setup:data && cd memo-viewer && npm run test",
+        "tolgit:install": "npm install",
+        "tolgit:pull": "node node_modules/tolgitbot/cli.mjs pull -i memo-viewer/.tolgee/tolgitdatainterface.js",
+        "tolgit:push": "node node_modules/tolgitbot/cli.mjs push -i memo-viewer/.tolgee/tolgitdatainterface.js"
+    },
+    "dependencies": {
+        "gray-matter": "^4.0.3",
+        "prettier": "^2.8.8",
+        "tolgitbot": "git+https://framagit.org/Marc-AntoineA/tolgitbot.git"
+    }
 }

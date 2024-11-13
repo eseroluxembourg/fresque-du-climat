@@ -1,0 +1,5 @@
+memo-viewer
+node_modules
+
+*.py
+readme.md

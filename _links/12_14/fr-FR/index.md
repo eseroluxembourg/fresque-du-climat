@@ -1,0 +1,7 @@
+---
+fromCardId: '12'
+toCardId: '14'
+status: invalid
+---
+
+Le but n'est pas ici de dire qu'il n'y a pas de lien de cause à effet entre ces deux cartes, mais d'alerter sur le risque de les confondre. La première (Puits de carbone), nous dit où va le carbone. La deuxième (Budget énergétique) nous dit où va l'énergie en excès sur la Terre. Les deux notions sont proches (dans les deux cas, c'est un dispatching), mais ne concernent pas la même chose : d'un côté, le carbone, de l'autre, l'énergie. Ce qui contribue encore plus à faire la confusion, c'est que l'atmosphère et l'océan sont présents des deux côtés.

@@ -1,0 +1,7 @@
+[
+    {
+        "source": "assets/logo.png",
+        "replacement": "assets/logo.svg",
+        "similarity": 0.8
+    }
+]

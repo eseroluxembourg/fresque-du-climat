@@ -1,0 +1,62 @@
+{
+    "nodes": [
+        {
+            "xPos": 1.3,
+            "yPos": 0.9,
+            "cardId": "2"
+        },
+        {
+            "xPos": 0.4,
+            "yPos": 0.9,
+            "cardId": "3"
+        },
+        {
+            "xPos": 0,
+            "yPos": 0,
+            "cardId": "4"
+        },
+        {
+            "xPos": 1,
+            "yPos": 0,
+            "cardId": "7"
+        },
+        {
+            "xPos": 0,
+            "yPos": -0.9,
+            "cardId": "8"
+        },
+        {
+            "xPos": 2.3,
+            "yPos": -0.9,
+            "cardId": "13"
+        },
+        {
+            "xPos": 1.7,
+            "yPos": 1.7,
+            "cardId": "18"
+        },
+        {
+            "xPos": 2.4,
+            "yPos": 0.9,
+            "cardId": "21"
+        },
+        {
+            "xPos": 3.1,
+            "yPos": 3.2,
+            "cardId": "22"
+        }
+    ],
+    "edges": [],
+    "background": [],
+    "version": "1.7.0",
+    "lot": "2",
+    "variants": [
+        "junior-v7.5"
+    ],
+    "title": {
+        "fr-FR": "Junior lots 1 et 2",
+        "es-ES": "Junior lote 1 y 2",
+        "it-IT": "Junior set 1-2",
+        "nb-NO": "Junior sett 1 og 2"
+    }
+}

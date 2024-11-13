@@ -1,0 +1,121 @@
+{
+    "nodes": [
+        {
+            "xPos": -0.5,
+            "yPos": 1.5,
+            "cardId": "1",
+            "zoom": 1.6
+        },
+        {
+            "xPos": 1,
+            "yPos": 0,
+            "cardId": "2"
+        },
+        {
+            "xPos": 1,
+            "yPos": 1,
+            "cardId": "3"
+        },
+        {
+            "xPos": 1,
+            "yPos": 2,
+            "cardId": "4"
+        },
+        {
+            "xPos": 2,
+            "yPos": 0.5,
+            "cardId": "5"
+        },
+        {
+            "xPos": 2,
+            "yPos": 2,
+            "cardId": "6"
+        },
+        {
+            "xPos": 3,
+            "yPos": 0.5,
+            "cardId": "7"
+        },
+        {
+            "xPos": 1,
+            "yPos": 3,
+            "cardId": "8"
+        },
+        {
+            "xPos": 3,
+            "yPos": 2.5,
+            "cardId": "9"
+        },
+        {
+            "xPos": 4,
+            "yPos": 0.5,
+            "cardId": "11"
+        },
+        {
+            "xPos": 3,
+            "yPos": 1.05,
+            "cardId": "12"
+        },
+        {
+            "xPos": 5,
+            "yPos": 0.5,
+            "cardId": "13"
+        },
+        {
+            "xPos": 7,
+            "yPos": 0,
+            "cardId": "18"
+        },
+        {
+            "xPos": 6,
+            "yPos": 0.5,
+            "cardId": "21"
+        },
+        {
+            "xPos": 7,
+            "yPos": 1,
+            "cardId": "22"
+        },
+        {
+            "xPos": 4,
+            "yPos": 3.5,
+            "cardId": "24"
+        }
+    ],
+    "edges": [
+        {
+            "from": "13",
+            "to": "21",
+            "status": "temporary"
+        },
+        {
+            "from": "21",
+            "to": "18",
+            "status": "temporary"
+        },
+        {
+            "from": "21",
+            "to": "22",
+            "status": "temporary"
+        },
+        {
+            "from": "18",
+            "to": "22",
+            "status": "invalid"
+        }
+    ],
+    "background": [],
+    "version": "1.7.1",
+    "lot": "2",
+    "variants": [
+        "v8.4",
+        "v9.0",
+        "v7.5"
+    ],
+    "title": {
+        "fr-FR": "Lots 1 à 2",
+        "es-ES": "Lote 1 y 2",
+        "it-IT": "Set 1-2",
+        "nb-NO": "Sett 1 til 2"
+    }
+}

@@ -1,13 +1,13 @@
 from bs4 import BeautifulSoup
 import urllib
-import urllib.request
 import pickle
 import language_utils
 import os
 import shutil
 import json
-import lxml
 from alive_progress import alive_bar
+import gdown
+
 
 DOWNLOAD_FOLDER = 'download'
 ORDER_THE_CARDS_URL = 'https://climatefresk.org/orderthecards/'
@@ -17,8 +17,10 @@ PDF_FOLDERS = 'cards-pdfs'
 def download_pdf(pdf_url):
     pdf_filename = pdf_url.split('/')[-1]
     path = os.path.join(DOWNLOAD_FOLDER, pdf_filename)
-    if os.path.exists(path): return path
-    urllib.request.urlretrieve(pdf_url, path)
+    if 'drive.google.com' in pdf_url:
+        gdown.download(pdf_url, path, quiet=False, fuzzy=True)
+    else:
+        urllib.request.urlretrieve(pdf_url, path)
     return path
 
 def parse_order_the_cards():
@@ -37,17 +39,26 @@ def parse_order_the_cards():
         version = label.split(' ')[-1]
         version = version if '.' in version else ''
 
+        print_mode = True
+        if 'ready to print' in label or 'imprimable' in label:
+            print_mode = True
+        if 'Professional printing' in label or 'Impression professionnelle' in label:
+            print_mode = False
+
         return {
             'label': label,
             'mode': mode,
-            'print': 'ready to print' in label or 'imprimable' in label,
+            'print': print_mode,
             'version': version,
             'mini': 'mini' in label,
-            'url': url
+            'url': url,
+
         }
 
     def _parse_language_code(url):
-        
+        if url in language_utils.LANGUAGES_DICT.keys():
+            return language_utils.LANGUAGES_DICT[url]
+
         splitted = url.split('/')[-1].split('-')
         
         for k in range(len(splitted)-1):
@@ -72,23 +83,24 @@ def parse_order_the_cards():
     for item in accordion_items:
         lang = item.find('a', class_='elementor-accordion-title')
         lang = lang.text.split('|')[0].strip()
-        hrefs = [x for x in item.find_all('a') if x['href'].endswith('.pdf')]
+        hrefs = [x for x in item.find_all('a') if x['href'].endswith('.pdf') or 'drive.google' in x['href']]
         if len(hrefs) == 0:
             continue
 
         pdfs= []
-        all_pdfs_i18n_code = None
+        print(lang)
+        print('******************************')
+        all_pdfs_i18n_code = _parse_language_code(lang)
         for href in hrefs:
             url = href['href']
             i18n_code = _parse_language_code(url)
-            if not i18n_code:
-                print('Unable to decode language code for url: ', url)
-            elif all_pdfs_i18n_code and all_pdfs_i18n_code != i18n_code:
+            # if not i18n_code:
+            #     print('Unable to decode language code for url: ', url)
+            if all_pdfs_i18n_code and i18n_code and all_pdfs_i18n_code != i18n_code:
                 print(f'{ i18n_code } found instead of previously found { all_pdfs_i18n_code }')
-                print(lang)
-                print(hrefs)
+                # print(lang)
+                # print(hrefs)
             
-            all_pdfs_i18n_code = i18n_code
             label = href.text
             pdfs.append(_parse_pdf_info(label, url))
 
@@ -109,11 +121,10 @@ def download_all_pdfs():
     if not os.path.exists(PDF_FOLDERS):
         os.mkdir(PDF_FOLDERS)
     pdf_urls = parse_order_the_cards()
-    
-    f = open('pdf_urls.pkl', 'wb')
-    pickle.dump(pdf_urls, f)
+    # f = open('pdf_urls.pkl', 'wb')
+    # pickle.dump(pdf_urls, f)
 
-    pdf_urls = pickle.load(open('pdf_urls.pkl', 'rb'))
+    # pdf_urls = pickle.load(open('pdf_urls.pkl', 'rb'))
 
     for lang, values in pdf_urls.items():
         lang_label = values['lang_label']
@@ -122,8 +133,9 @@ def download_all_pdfs():
         for pdf in pdfs:
             if pdf['mode'] != 'adult' or  pdf['print'] or pdf['mini']:
                 continue
-            pdf_path = download_pdf(pdf["url"])
-            shutil.copy(pdf_path, os.path.join(PDF_FOLDERS, lang + '.pdf'))
+            if not os.path.exists(os.path.join(PDF_FOLDERS, lang + '.pdf')):
+                pdf_path = download_pdf(pdf["url"])
+                os.rename(pdf_path, os.path.join(PDF_FOLDERS, lang + '.pdf'))
             with open (os.path.join(PDF_FOLDERS, lang + '.json'), 'w') as f:
                 json.dump({
                     'mode': pdf['mode'],

@@ -1,0 +1,175 @@
+{
+    "nodes": [
+        {
+            "xPos": -0.5,
+            "yPos": 1,
+            "cardId": "1",
+            "zoom": 1.6
+        },
+        {
+            "xPos": 1,
+            "yPos": 0,
+            "cardId": "2"
+        },
+        {
+            "xPos": 1,
+            "yPos": 2,
+            "cardId": "3"
+        },
+        {
+            "xPos": 1,
+            "yPos": 1,
+            "cardId": "4"
+        },
+        {
+            "xPos": 2,
+            "yPos": 1,
+            "cardId": "5"
+        },
+        {
+            "xPos": 2,
+            "yPos": 2,
+            "cardId": "6"
+        },
+        {
+            "xPos": 3,
+            "yPos": 1,
+            "cardId": "7"
+        },
+        {
+            "xPos": 1,
+            "yPos": 3,
+            "cardId": "8"
+        },
+        {
+            "xPos": 3,
+            "yPos": 2.5,
+            "cardId": "9"
+        },
+        {
+            "xPos": 2,
+            "yPos": 0,
+            "cardId": "10"
+        },
+        {
+            "xPos": 4,
+            "yPos": 1,
+            "cardId": "11"
+        },
+        {
+            "xPos": 3,
+            "yPos": 1.55,
+            "cardId": "12"
+        },
+        {
+            "xPos": 5,
+            "yPos": 1,
+            "cardId": "13"
+        },
+        {
+            "xPos": 7,
+            "yPos": 1,
+            "cardId": "14"
+        },
+        {
+            "xPos": 6,
+            "yPos": 1,
+            "cardId": "15"
+        },
+        {
+            "xPos": 8,
+            "yPos": 2,
+            "cardId": "16"
+        },
+        {
+            "xPos": 8,
+            "yPos": 0,
+            "cardId": "17"
+        },
+        {
+            "xPos": 8,
+            "yPos": 3,
+            "cardId": "18"
+        },
+        {
+            "xPos": 8,
+            "yPos": 1,
+            "cardId": "19"
+        },
+        {
+            "xPos": 9,
+            "yPos": -0.5,
+            "cardId": "20"
+        },
+        {
+            "xPos": 8,
+            "yPos": -1,
+            "cardId": "21"
+        },
+        {
+            "xPos": 9,
+            "yPos": 2,
+            "cardId": "22"
+        },
+        {
+            "xPos": 5,
+            "yPos": 3.5,
+            "cardId": "23"
+        },
+        {
+            "xPos": 4,
+            "yPos": 3,
+            "cardId": "24"
+        },
+        {
+            "xPos": 12,
+            "yPos": 0,
+            "cardId": "25"
+        },
+        {
+            "xPos": 10,
+            "yPos": 1,
+            "cardId": "26"
+        },
+        {
+            "xPos": 9,
+            "yPos": 4,
+            "cardId": "27"
+        },
+        {
+            "xPos": 6,
+            "yPos": 4,
+            "cardId": "29"
+        },
+        {
+            "xPos": 10,
+            "yPos": 0,
+            "cardId": "30"
+        },
+        {
+            "xPos": 10,
+            "yPos": 3,
+            "cardId": "33"
+        },
+        {
+            "xPos": 10,
+            "yPos": 2,
+            "cardId": "34"
+        }
+    ],
+    "edges": [],
+    "background": [],
+    "version": "1.7.1",
+    "lot": "4",
+    "variants": [
+        "v8.4",
+        "v9.0",
+        "v7.5"
+    ],
+    "title": {
+        "fr-FR": "Lots 1 à 4",
+        "es-ES": "Lote 1, 2, 3 y 4",
+        "it-IT": "Set 1-4",
+        "nb-NO": "Sett 1 til 4"
+    }
+}

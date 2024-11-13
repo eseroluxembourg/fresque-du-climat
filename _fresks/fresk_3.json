@@ -1,0 +1,135 @@
+{
+    "nodes": [
+        {
+            "xPos": -0.5,
+            "yPos": 1,
+            "cardId": "1",
+            "zoom": 1.6
+        },
+        {
+            "xPos": 1,
+            "yPos": 0,
+            "cardId": "2"
+        },
+        {
+            "xPos": 1,
+            "yPos": 2,
+            "cardId": "3"
+        },
+        {
+            "xPos": 1,
+            "yPos": 1,
+            "cardId": "4"
+        },
+        {
+            "xPos": 2,
+            "yPos": 1,
+            "cardId": "5"
+        },
+        {
+            "xPos": 2,
+            "yPos": 2,
+            "cardId": "6"
+        },
+        {
+            "xPos": 3,
+            "yPos": 1,
+            "cardId": "7"
+        },
+        {
+            "xPos": 1,
+            "yPos": 3,
+            "cardId": "8"
+        },
+        {
+            "xPos": 3,
+            "yPos": 2.5,
+            "cardId": "9"
+        },
+        {
+            "xPos": 2,
+            "yPos": 0,
+            "cardId": "10"
+        },
+        {
+            "xPos": 4,
+            "yPos": 1,
+            "cardId": "11"
+        },
+        {
+            "xPos": 3,
+            "yPos": 1.55,
+            "cardId": "12"
+        },
+        {
+            "xPos": 5,
+            "yPos": 1,
+            "cardId": "13"
+        },
+        {
+            "xPos": 7,
+            "yPos": 1,
+            "cardId": "14"
+        },
+        {
+            "xPos": 6,
+            "yPos": 1,
+            "cardId": "15"
+        },
+        {
+            "xPos": 8,
+            "yPos": 2,
+            "cardId": "16"
+        },
+        {
+            "xPos": 8,
+            "yPos": 0,
+            "cardId": "17"
+        },
+        {
+            "xPos": 8,
+            "yPos": 3,
+            "cardId": "18"
+        },
+        {
+            "xPos": 8,
+            "yPos": 1,
+            "cardId": "19"
+        },
+        {
+            "xPos": 9,
+            "yPos": -1,
+            "cardId": "20"
+        },
+        {
+            "xPos": 8,
+            "yPos": -1,
+            "cardId": "21"
+        },
+        {
+            "xPos": 9,
+            "yPos": 1,
+            "cardId": "22"
+        },
+        {
+            "xPos": 4,
+            "yPos": 3,
+            "cardId": "24"
+        }
+    ],
+    "edges": [],
+    "background": [],
+    "version": "1.7.1",
+    "lot": "3",
+    "variants": [
+        "v8.4",
+        "v9.0",
+        "v7.5"
+    ],
+    "title": {
+        "fr-FR": "Lots 1 à 3",
+        "es-ES": "Lote 1, 2 y 3",
+        "it-IT": "Set 1-3",
+        "nb-NO": "Sett 1 til 3"
+    }
+}

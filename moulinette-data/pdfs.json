@@ -1,0 +1,63 @@
+[
+    {
+        "id": "fr-fr_v8.4",
+        "version": "v8.4",
+        "lang": "fr-FR",
+        "url": "https://drive.google.com/file/d/15DJkpE4gXnNvr5OV8YPgMwOkkshwgaf0/view",
+        "format": "pdfformat-v8.4.json",
+        "replacements": "replacements-v8.4.json"
+    },
+    {
+        "id": "en-gb_v8.4",
+        "version": "v8.4",
+        "lang": "en-GB",
+        "url": "https://drive.google.com/file/d/15cCI0tYYgsRdKI0EJAd2KSdTj_-WWZMi/view",
+        "format": "pdfformat-v8.4.json",
+        "replacements": "replacements-v8.4.json"
+    },
+    {
+        "id": "de-de_v8.4",
+        "version": "v8.4",
+        "lang": "de-DE",
+        "url": "https://drive.google.com/file/d/16w0adJ47wpMKMQI6bONMABqR3p-9l6tt/view",
+        "format": "pdfformat-v8.4.json",
+        "replacements": "replacements-v8.4.json"
+    },
+    {
+        "id": "es-es_v8.4",
+        "version": "v8.4",
+        "lang": "es-ES",
+        "url": "https://drive.google.com/file/d/18YNMqsYXeTdXApi8FlfPuJEpBtnMDwmK/view",
+        "format": "pdfformat-v8.4.json",
+        "replacements": "replacements-v8.4.json"
+    },
+    {
+        "id": "sq-al_v8.4",
+        "version": "v8.4",
+        "lang": "sq-AL",
+        "url": "https://drive.google.com/file/d/10LPrBzCnvg60RE2q5G9nmXYf79lRoM1l/view",
+        "format": "pdfformat-v8.4.json",
+        "replacements": "replacements-v8.4.json"
+    },
+    {
+        "id": "ar-ma_v7.5",
+        "version": "v7.5",
+        "lang": "ar-MA",
+        "url": "https://drive.google.com/file/d/10uZrTAbTyw76J6VnlOrO8-t9VZ_9YYqa/view",
+        "format": "pdfformat-v8.4.json"
+    },
+    {
+        "id": "fr-fr_junior-v7.5",
+        "version": "junior-v7.5",
+        "lang": "fr-FR",
+        "url": "https://drive.google.com/file/d/15-pDSqBXkJk4U2Ca9ZcxV8c5acxSRoL0/view?usp=sharing",
+        "format": "pdfformat-junior-v7.5.json",
+        "replacements": "replacements-v8.4.json"
+    },
+    {
+        "id": "fr-fr_v9.0",
+        "version": "v9.0",
+        "lang": "fr-FR",
+        "format": "pdfformat-v9.0.json"
+    }
+]

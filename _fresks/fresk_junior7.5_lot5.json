@@ -1,0 +1,122 @@
+{
+    "nodes": [
+        {
+            "xPos": 1.3,
+            "yPos": 0.9,
+            "cardId": "2"
+        },
+        {
+            "xPos": 0.4,
+            "yPos": 0.9,
+            "cardId": "3"
+        },
+        {
+            "xPos": 0,
+            "yPos": 0,
+            "cardId": "4"
+        },
+        {
+            "xPos": 1,
+            "yPos": 0,
+            "cardId": "7"
+        },
+        {
+            "xPos": 0,
+            "yPos": -0.9,
+            "cardId": "8"
+        },
+        {
+            "xPos": 2.3,
+            "yPos": -0.9,
+            "cardId": "13"
+        },
+        {
+            "xPos": 2.7,
+            "yPos": 2,
+            "cardId": "16"
+        },
+        {
+            "xPos": 3.8,
+            "yPos": 0.9,
+            "cardId": "17"
+        },
+        {
+            "xPos": 1.7,
+            "yPos": 1.7,
+            "cardId": "18"
+        },
+        {
+            "xPos": 4.5,
+            "yPos": 1.8,
+            "cardId": "20"
+        },
+        {
+            "xPos": 2.4,
+            "yPos": 0.9,
+            "cardId": "21"
+        },
+        {
+            "xPos": 3.1,
+            "yPos": 3.2,
+            "cardId": "22"
+        },
+        {
+            "xPos": 3.9,
+            "yPos": 2.5,
+            "cardId": "25"
+        },
+        {
+            "xPos": 7.4,
+            "yPos": 1,
+            "cardId": "26"
+        },
+        {
+            "xPos": 6.2,
+            "yPos": -0.8,
+            "cardId": "30"
+        },
+        {
+            "xPos": 6.9,
+            "yPos": 2,
+            "cardId": "32"
+        },
+        {
+            "xPos": 6.1,
+            "yPos": 3.2,
+            "cardId": "33"
+        },
+        {
+            "xPos": 5.2,
+            "yPos": 0.9,
+            "cardId": "34"
+        },
+        {
+            "xPos": 3.5,
+            "yPos": -0.8,
+            "cardId": "36"
+        },
+        {
+            "xPos": 8.6,
+            "yPos": 2.2,
+            "cardId": "37"
+        },
+        {
+            "xPos": 7.6,
+            "yPos": 3.2,
+            "cardId": "39"
+        }
+    ],
+    "edges": [],
+    "background": [],
+    "version": "1.7.0",
+    "lot": "5",
+    "variants": [
+        "junior-v7.5"
+    ],
+    "title": {
+        "fr-FR": "Version junior (lot 5)",
+        "es-ES": "Junior lote 5",
+        "it-IT": "Versione Junior (set 5)",
+        "nb-NO": "Junior utgave (sett 5)"
+    }
+}

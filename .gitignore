@@ -2,8 +2,20 @@ public/cards/*/bad_svg
 public/cards/*/pdf
 public/cards
 private
+_private
 tmp_compress
+
+__pycache__
 
 # for scripts/download_pdf_cards.pdf
 download/
 pdf-cards/
+cards-pdfs/
+
+memo-viewer
+node_modules/
+tmp/
+local
+
+# Generated from pdf
+cards

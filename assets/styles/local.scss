@@ -1,0 +1,90 @@
+// Set your colors
+$primary: #04c2c0;
+$primary-light: #68c3ca;
+$primary-lighter: #aadbe6;
+$secondary: #e90000;
+$ternary: rgb(255, 221, 103);
+
+@font-face {
+    font-family: 'ArialMT';
+    src: url('/fonts/Roboto-Regular.ttf') format('truetype');
+    font-stretch: 100;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial-BoldMT';
+    font-weight: 400; /* bold */
+    src: url('/fonts/Roboto-Bold.ttf') format('truetype');
+    font-stretch: 100;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: url('/fonts/LiberationSans-Regular.woff') format('woff'),
+        url('/fonts/LiberationSans-Regular.otf'),
+        url('/fonts/LiberationSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Helvetica-Bold';
+    src: url('/fonts/helvetica_bold1.woff') format('woff'),
+        url('/fonts/helvetica_bold1.otf'),
+        url('/fonts/helvetica_bold1.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Urbanist-Bold';
+    font-weight: 700; /* bold */
+    font-style: normal;
+    src: url('/fonts/Urbanist-Bold.woff') format('woff'),
+        url('/fonts/Urbanist-Bold.otf'),
+        url('/fonts/Urbanist-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Urbanist-Medium';
+    font-weight: 500; /* bold */
+    font-style: normal;
+    src: url('/fonts/Urbanist-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    font-weight: 400; /* normal */
+    font-style: normal;
+    src: url('/fonts/Urbanist-Regular.woff') format('woff'),
+        url('/fonts/Urbanist-Regular.otf'),
+        url('/fonts/Urbanist-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AngsanaNew';
+    font-weight: 400; /* normal */
+    font-style: normal;
+    src: url('/fonts/ANGSA.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'IskoolaPota';
+    font-weight: 400; /* normal */
+    font-style: normal;
+    src: url('/fonts/Iskoola Pota Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansJP-Medium';
+    font-weight: 400; /* normal */
+    font-style: normal;
+    src: url('/fonts/NotoSansJP-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansJP-Bold';
+    font-weight: 700; /* normal */
+    font-style: normal;
+    src: url('/fonts/NotoSansJP-Bold.ttf') format('truetype');
+}
