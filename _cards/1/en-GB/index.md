@@ -8,6 +8,7 @@ instagramCode: CMALZpHns8Q
 spaceText: >-
   A quite long text with</br>new lines.
 spaceYoutubeCode: aK0IlfWCgWQ
+spaceCredits: text representing credits
 spaceUrl: https://fr.wikipedia.org/
 # spaceImage: done elsewhere
 ---
