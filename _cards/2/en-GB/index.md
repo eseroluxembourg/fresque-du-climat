@@ -8,8 +8,7 @@ youtubeCode: '-Hbo56WQ3zo'
 instagramCode: CKmEzYeH590
 spaceText: >-
   Known locally as China's "City of Automobiles", Changchun is an important industrial base with a particular focus on the automotive sector.
-spaceYoutubeCode: aK0IlfWCgWQ
-spaceCredits: text representing credits
+spaceCredits: DLR/ESA Sentinel-1 & Sentinel-2 
 spaceUrl: https://www.esa.int/ESA_Multimedia/Images/2021/11/Changchun_China
 ---
 

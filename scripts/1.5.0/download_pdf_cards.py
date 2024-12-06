@@ -98,8 +98,8 @@ def parse_order_the_cards():
             #     print('Unable to decode language code for url: ', url)
             if all_pdfs_i18n_code and i18n_code and all_pdfs_i18n_code != i18n_code:
                 print(f'{ i18n_code } found instead of previously found { all_pdfs_i18n_code }')
-                print(lang)
-                print(hrefs)
+                # print(lang)
+                # print(hrefs)
             
             label = href.text
             pdfs.append(_parse_pdf_info(label, url))
@@ -121,10 +121,10 @@ def download_all_pdfs():
     if not os.path.exists(PDF_FOLDERS):
         os.mkdir(PDF_FOLDERS)
     pdf_urls = parse_order_the_cards()
-    f = open('pdf_urls.pkl', 'wb')
-    pickle.dump(pdf_urls, f)
+    # f = open('pdf_urls.pkl', 'wb')
+    # pickle.dump(pdf_urls, f)
 
-    pdf_urls = pickle.load(open('pdf_urls.pkl', 'rb'))
+    # pdf_urls = pickle.load(open('pdf_urls.pkl', 'rb'))
 
     for lang, values in pdf_urls.items():
         lang_label = values['lang_label']
@@ -155,7 +155,7 @@ def download_all_pdfs():
 if __name__ == '__main__':
     download_all_pdfs()
 
-    print(f'Found pdfs on { ORDER_THE_CARDS_URL }')
-    print(pdf_urls)
+    # print(f'Found pdfs on { ORDER_THE_CARDS_URL }')
+    # print(pdf_urls)
 
     
