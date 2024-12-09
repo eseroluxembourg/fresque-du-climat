@@ -1,4 +1,5 @@
 {
+    "_host": "https://climatefrom.space",
     "host": "https://memo.climatefresk.org",
     "gitlab": {
         "base_url": "https://framagit.org/",
@@ -8,23 +9,21 @@
     },
     "contact": "fdc.memo@marc-antoinea.fr",
     "title": {
-        "fr-FR": "Memo Fresque du Climat",
-        "en-GB": "Climate Fresk Memo",
-        "it-IT": "Memo Affresco del Clima"
+        "fr-FR": "Climate from space",
+        "en-GB": "Climate from space",
+        "de-DE": "Climate from space"
     },
-    "author": "Fresque du climat",
+    "author": "ESERO Lux - Fresque du climat",
     "description": {
-        "fr-FR": "Mémo de la Fresque du Climat - Les cartes pour comprendre",
-        "it-IT": "Memo dell'Affresco del Clima - Carte per capire"
+        "fr-FR": "Mémo de la Fresque du Climat - Les cartes pour comprendre"
     },
     "fresk-label": {
         "fr-FR": "Fresque du climat",
         "en-GB": "Climate Fresk",
-        "br-FR": "Tresit an hin",
-        "it-IT": "Affresco del Clima"
+        "de-DE": "Klima puzzle"
     },
     "matomo": {
-        "enabled": true,
+        "enabled": false,
         "host": "https://analytics.climatefresk.org",
         "siteId": 9
     },
@@ -40,10 +39,6 @@
         "fr-FR": {
             "contribute.translate-explanations": "✏️ Cette explication n'est pas encore disponible dans ta langue, tu peux <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">remplir ce formulaire Google</a> pour proposer ta traduction.",
             "contribute.contribute-explanations": "✏️ Tu veux améliorer cette explication ? Tu peux remplir ce <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">Formulaire Google</a>."
-        },
-        "it-IT": {
-            "contribute.contribute-explanations": "Vuoi migliorare questa spiegazione? Puoi compilare questo <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">modulo Google</a>.",
-            "contribute.translate-explanations": "✏️ Questa spiegazione non è ancora disponibile nella tua lingua, puoi <a href=\"https://forms.gle/cUq2w4KRktUpy55C8\" target=\"_blank\">compilare questo modulo Google</a> per proporre la tua traduzione."
         }
     }
 }

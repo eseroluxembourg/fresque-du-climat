@@ -220,8 +220,7 @@
     ],
     "title": {
         "fr-FR": "Lots 1 à 5",
-        "es-ES": "Lote 1, 2, 3, 4 y 5",
-        "it-IT": "Set 1-5",
-        "nb-NO": "Sett 1 til 5"
+        "en-GB": "Sets 1 to 5",
+        "de-DE": "Lose 1 bis 5"
     }
 }
