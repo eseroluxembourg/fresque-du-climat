@@ -1,8 +1,7 @@
 ---
 title: Vectors of Disease
 backDescription: >-
-  Some animals carry diseases. Global warming causes them to migrate, possibly
-  reaching populations that have no immunity against these diseases.
+  Some animals carry diseases. Global warming causes them to migrate, possibly reaching populations that have no immunity against these diseases.
 wikiUrl: >-
   https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_28_vectors_of_disease
 youtubeCode: Ec6KJpVw_Rc

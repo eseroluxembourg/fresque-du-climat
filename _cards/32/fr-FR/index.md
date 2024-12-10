@@ -1,12 +1,18 @@
 ---
-backDescription: >-
-  La production agricole peut être affectée par la température, les sécheresses,
-  les évènements extrêmes, les inondations et les submersions (ex : delta du
-  Nil).
 title: Baisse des rendements agricoles
+backDescription: >-
+  La production alimentaire peut être affectée par la température, les sécheresses, les phénomènes météorologiques extrêmes, les inondations et les submersions marines (par exemple dans le delta du Nil).
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_32_baisse_rendements_agricoles
-youtubeCode: nP2YWbNHTsM
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_32_decline_agricultural_yields
+youtubeCode: RkVjxqMTQvE
+instagramCode: ''
+spaceText: >-
+  La sécurité alimentaire mondiale est un défi majeur face à la croissance démographique et au changement climatique. L'une des premières étapes pour parvenir à la sécurité alimentaire pour tous est de savoir quelles cultures poussent, où et comment, à chaque saison.
+  Le produit WorldCereal de l'ESA est le premier système dynamique au monde à fournir des informations saisonnières actualisées sur les cultures afin de faciliter le suivi de la production agricole dans le monde entier.
+spaceYoutubeCode: b0apnQ9Fmqo
+spaceCredits: © European Space Agency - ESA
+spaceUrl: https://esa-worldcereal.org/en
+
 ---
-Voici l'une des plus grosses menaces pour l'humanité. Températures, ressources en eau, évènements climatiques extrêmes, perte de biodiversité, autant de cause possible d'une baisse de rendement agricole. Une pression sur les ressources alimentaires peut être une source de tension et participer à l'initiation de conflits comme au Rwanda (1994) ou en Syrie (2011)[1].  
-_[1] AR6 WG2 TS.B.2.3 p14 (p48) // AR6 WG2 Figure TS.3 (b) p12 (p46) // AR6 WG2 Table 4.4 AR5 WG2 Figure SPM.2 p8 p19_
+
+La baisse des rendements agricoles a déjà été à l'origine de conflits au Rwanda et en Syrie.

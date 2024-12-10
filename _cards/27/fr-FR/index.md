@@ -1,15 +1,20 @@
 ---
-backDescription: >-
-  Ptéropodes et coccolithophores étant à la base de la chaîne alimentaire, leur
-  disparition menace toute la biodiversité marine. La biodiversité marine est
-  fragilisée par le réchauffement de l'eau ainsi que par la surexploitation des
-  réserves halieutiques.
 title: Biodiversité marine
+backDescription: >-
+  Les ptéropodes et les coccolithophores sont à la base de la chaîne alimentaire des océans.
+  S'ils disparaissent, c'est toute la biodiversité marine qui sera menacée.
+  Le réchauffement des eaux et la surpêche menacent également la vie océanique.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_27_biodiversit%C3%A9_marine
-youtubeCode: mMMByJIVkhc
-instagramCode: CPYXKmZI_lO
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_27_marine_biodiversity
+youtubeCode: 5aL1RA4Q0VU
+instagramCode: CPYT_Nmo0r7
+spaceText: >-
+  Les récifs coralliens figurent parmi les écosystèmes marins les plus riches en biodiversité au monde, abritant plus de 25 % de toutes les espèces marines connues alors qu'ils occupent moins de 1 % du fond des océans.
+  Ces communautés sous-marines dynamiques, qui prospèrent dans les eaux tropicales, doivent leur existence aux températures chaudes et à l'abondance de la lumière du soleil, qui alimentent la croissance des colonies de coraux et de la myriade d'organismes qui les habitent.
+spaceYoutubeCode: CWma_kBHOjk
+spaceCredits: © Copernicus Sentinel data (2015)/ESA
+spaceUrl: https://www.esa.int/ESA_Multimedia/Images/2015/10/Deep_blue_Red_Sea_reefs
+
 ---
-Le changement climatique est l'une des 5 principales causes de perte de biodiversité. On peut également citer la destruction des habitats, l'exploitation directe, la pollution et les espèces exotiques envahissantes. La surpêche en particulier est une cause majeure de perte de biodiversité marine. Selon l'IPBES, 20% des protéines animales mondiales proviennent de la pêche et 60 millions de personnes sont embauchées dans des pêcheries ou des aquacultures (2012).[1].  
-_[1] IPBES 2.1.11.1 p169 (p106) // IPBES Figure SPM.2
- p27 (p25) // https://www.nature.com/articles/s41467-022-30339-y_
+
+Pour l'instant, la biodiversité marine est davantage menacée par la surpêche que par le changement climatique ou l'acidification. Mais à long terme, ces deux phénomènes augmenteront considérablement leur pression. La FAO estime qu'entre 660 et 820 millions de personnes dans le monde, soit environ 10 % de la population mondiale, dépendent directement ou indirectement de la pêche et de l'aquaculture.

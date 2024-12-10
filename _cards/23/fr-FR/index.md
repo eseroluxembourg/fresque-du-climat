@@ -1,13 +1,10 @@
 ---
-backDescription: >-
-  Si le pH baisse, la formation de calcaire devient plus difficile, notamment
-  pour les coquilles.
-title: Problèmes de calcification
+title: Difficultés de calcification
+backDescription: Lorsque l'acidité augmente, le pH diminue et il devient plus difficile pour les coquillages en carbonate de calcium de se développer.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_23_probl%C3%A8mes_de_calcification
-youtubeCode: A3zQW_C7RMI
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_23_hindered_calcification_process
+youtubeCode: 1nlD6jzbZJI
+instagramCode: ''
 ---
-Suite à la dissolution du CO2 dans l'océan, celui-ci devient plus acide ce qui limite la concentration d'ions carbonates (CO32-) nécessaires à la calcification et donc à la formation de coquilles. Ce mécanisme affecte donc des organismes telles que le plancton qui est à la base de la chaîne alimentaire ou les coraux, qui abritent bon nombre d'espèces[^1].
 
-CO2 + H2O ⇔ H2CO3 ⇔ H+ + HCO3- ⇔ 2 H+ + CO32–  
-[^1]: _https://www.frontiersin.org/articles/10.3389/fmars.2021.584445/full_
+La formation du calcaire (calcification) suit la réaction chimique Ca++ + 2HCO3- ⇔ CaCO3 + H2O + CO2. Elle nécessite la présence d'ions bicarbonate (HCO3-). Or, la quantité de ces ions dans l'eau dépend du pH : dans l'eau, le dioxyde de carbone, l'acide carbonique, les ions bicarbonates et les ions carbonates sont en équilibre, en fonction du pH : CO2 + H2O ⇔ H2CO3 ⇔ H+ + HCO3- ⇔ 2 H+ + CO32-. L'ajout d'un acide déplace l'équilibre vers la gauche de l'équation. En d'autres termes, si le pH diminue, il y a moins d'ions bicarbonate, ce qui rend plus difficile la construction des coquilles par les organismes.

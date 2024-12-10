@@ -1,18 +1,19 @@
 ---
-backDescription: >-
-  La perturbation du cycle de l'eau peut amener plus ou moins d'eau. Moins
-  d'eau, c'est une sécheresse. On estime ainsi que les sécheresses pourraient se
-  multiplier à l’avenir.
 title: Sécheresses
-wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_30_s%C3%A9cheresses
-youtubeCode: EX82KQmQ3yg
+backDescription: >-
+  La perturbation du cycle de l'eau peut à la fois augmenter et diminuer les précipitations.
+  Un manque de pluie peut provoquer une sécheresse. Les sécheresses risquent de devenir plus fréquentes à l'avenir.
+wikiUrl: 'https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_30_droughts'
+youtubeCode: bEuX-UVM-4M
+instagramCode: ''
+spaceText: >-
+  La mission Sentinel-3 de l'ESA révèle comment la couleur de notre végétation a changé en seulement un mois lors de la sécheresse de juillet 2018.
+  Ces deux images couvrent la même zone : une partie de l'Irlande, du Royaume-Uni, des Pays-Bas, de la Belgique, une partie de l'Allemagne et une partie de la France, mais la différence entre elles ne pourrait être plus frappante. La première, prise le 28 juin 2018, est essentiellement verte, ce qui témoigne d'une végétation saine. La seconde, prise le 25 juillet 2018, est en revanche principalement brune, montrant à quel point la végétation a changé en raison de la longue période de chaleur et de sécheresse que l'Europe a subie au cours des dernières semaines.
+  Ces deux images ont été prises par l'instrument couleur océan et terre de Sentinel-3.
+spaceYoutubeCode: EsmJCnHKDOA
+spaceCredits: © Copernicus Sentinel data (2018), processed by ESA
+spaceUrl: https://www.esa.int/ESA_Multimedia/Images/2015/10/Deep_blue_Red_Sea_reefs
+
 ---
-Une sécheresse est une période de temps anormalement sèche suffisamment longue pour causer un grave déséquilibre hydrologique. Elles sont dues à un manque de pluie et/ou à l'évaporation du sol. Les sécheresses peuvent varier en intensité et en durée, allant de sécheresses temporaires et localisées à des sécheresses prolongées et étendues sur de vastes zones géographiques (méga-secheresses). Les impacts des sécheresses peuvent être graves, affectant l'agriculture, les ressources en eau, les écosystèmes naturels, et la vie quotidienne des populations. Il est important de noter que le changement climatique peut influencer la fréquence et l'intensité des sécheresses en modifiant notamment l'évaporation des sols.[1].  
-_[1] AR6 WG1 8.2.3.3
-AR6 WG1 TS.2.6 p1092 (p1075)
-p99 (p82) // AR6 WG1 Table TS.2
-AR6 WG1 Figure TS.12
-AR6 WG1 Box TS.10, Figure 1 p84 (p67)
-p100 (p83)
-p126 (p109)_
+
+Une sécheresse est une période de pénurie d'eau anormale. On parle de sécheresse météorologique lorsqu'il y a une baisse des précipitations, et de sécheresse agricole lorsque l'humidité du sol diminue anormalement, ce qui affecte la production agricole. Une méga-sécheresse est une sécheresse persistante et généralisée qui dure beaucoup plus longtemps que la normale (généralement une décennie ou plus). Le manque de précipitations et l'évaporation du sol sont les causes des sécheresses, ainsi que l'érosion des sols.

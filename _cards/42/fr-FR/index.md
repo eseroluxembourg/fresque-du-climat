@@ -1,14 +1,18 @@
 ---
-title: Ralentissement du gulf stream
+title: Affaiblissement du Gulf Stream
 backDescription: >-
-  La circulation thermohaline dont _x000B_fait partie le Gulf Stream pourrait
-  ralentir à cause de l’apport en eau douce de la fonte du Groenland. Cela
-  aurait pour effet de déréguler encore plus le cycle de l’eau et de réduire la
-  capacité de l’océan à absorber du
+  Le Gulf Stream fait partie de la circulation thermohaline de l'océan.
+  Il pourrait s'affaiblir en raison de l'apport d'eau douce provenant de la fonte de la calotte glaciaire du Groenland.
+  Cela pourrait perturber encore plus le cycle de l'eau et réduire la capacité de l'océan à absorber davantage de carbone et de chaleur.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_42_ralentissement_du_gulf_stream
-youtubeCode: ''
-instagramCode: CRopOMaIBYL
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_42_weakening_gulf_stream
+youtubeCode: 0KDUOKv2Qg8
+instagramCode: CRohy7Sozrr
+spaceText: >- 
+  Le Gulf Stream, un puissant courant océanique d'eau chaude qui s'écoule du golfe du Mexique vers l'Europe, vu de l'espace.
+spaceYoutubeCode: 4-Tt1Xw5IpU
+spaceCredits: European Union, Copernicus Sentinel-3 imagery
+spaceUrl: https://www.copernicus.eu/en/access-data/copernicus-services-catalogue/atlantic-meridional-overturning-circulation-amoc
+
 ---
 
-La circulation thermohaline, appelée aussi circulation océanique profonde, est la circulation océanique engendrée par les différences de densité de l'eau de mer, à l'origine de courants marins de profondeur. Ces différences de densité proviennent des écarts de température et de salinité des masses d'eau, d'où le terme de thermo — pour température — et halin — pour salinité. L’eau de mer est d’autant plus dense que sa température est basse et sa salinité élevée. Les scientifiques utilisent le terme de MOC pour Meridional Overturning Circulation (Circulation méridienne de retournement). Quand cela concerne uniquement l'atlantique, on parle de l'AMOC (Atlantic Meridional Overturning Circulation). Le Gulf Stream est un courant océanique de surface qui prend sa source entre la Floride et les Bahamas et se dilue dans l'océan Atlantique vers la longitude du Groenland. Il est une des composante de l'AMOC.

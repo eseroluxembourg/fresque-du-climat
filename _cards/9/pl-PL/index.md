@@ -1,7 +1,0 @@
----
-title: Inne gazy cieplarnianie
-backDescription: >-
-  CO2 nie jest jedynym gazem cieplarnianym. Są nimi również, generowane głównie
-  przez rolnictwo, metan (CH4) i podtlenek azotu (N2O), a także kilka innych.
----
-Inne opisane tu gazy cieplarniane to metan i podtlenek azotu. W rzeczywistości istnieje kilka innych, takich jak freony. Metan jest uwalniany, gdy tylko dochodzi do rozkładu beztlenowego (tj. w watunkach braku tlenu): w brzuchu krowy, znanym również jako żwacz, od którego pochodzi nazwa przeżuwaczy (w żwaczu bakterie trawią celulozę, której krowa nie może metabolizować, a następnie krowa zwraca tę trawę, aby ponownie ją przeżuć i połknąć na dobre); na polach ryżowych, ponieważ są one pokryte wodą, a materia organiczna pod wodą nie otrzymuje tlenu podczas rozkładu; na wysypiskach śmieci, gdy stosy są zbyt głębokie, aby tlen mógł dotrzeć do dna stosu. Metan jest również głównym składnikiem gazu ziemnego. Wycieki z gazociągów również uwalniają metan do atmosfery. Emisje podtlenku azotu (N2O) wynikają głównie ze stosowania nawozów azotowych w rolnictwie, produkcji pasz dla zwierząt i niektórych procesów chemicznych, takich jak produkcja kwasu azotowego. Istnieją również gazy fluorowane, które są stosowane jako czynniki chłodnicze (klimatyzacja i łańcuchy chłodnicze), gaśnice oraz w niektórych procesach przemysłowych i towarach konsumpcyjnych (takich jak niektóre rozpuszczalniki). Nie występują one naturalnie w atmosferze.

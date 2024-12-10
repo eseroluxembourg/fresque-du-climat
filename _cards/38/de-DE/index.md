@@ -1,7 +1,9 @@
 ---
-title: Gesundheit des Menschen
+title: Menschliche Gesundheit
 backDescription: >-
-  Hungersnöte, Krankheitsüberträger, Hitzewellen und bewaffnete Konflikte können
-  die menschliche Gesundheit aufs Spiel setzen.
+  Hunger, neue Krankheitsüberträger, Hitzewellen und bewaffnete Konflikte können sich negativ auf die menschliche Gesundheit auswirken.
+wikiUrl: >-
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_38_human_health
+youtubeCode: 8Wz5bj7r-dI
+instagramCode: ''
 ---
-

@@ -1,15 +1,19 @@
 ---
+title: Fonte de la glace de mer
 backDescription: >-
-  La fonte de la banquise n'est pas responsable de la montée des eaux (un glaçon
-  qui fond dans du pastis ne fait pas déborder le verre).
-title: Fonte de la banquise
+  La fonte de la glace de mer ne fait pas monter le niveau de la mer (tout comme la fonte d'un glaçon ne fait pas déborder un verre).
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_18_fonte_de_la_banquise
-youtubeCode: qtZ3J_HEHuA
-instagramCode: CKUB7UsoVbl
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_18_melting_of_sea_ice
+youtubeCode: 3cR2lvo0TJw
+instagramCode: CKUGwIaHRrI
+spaceText: >-
+  Depuis 1993, les satellites constituent un outil fiable pour surveiller en permanence l'évolution des glaces de l'Arctique.
+  Chaque été, la calotte glaciaire de l'Arctique fond jusqu'à ce que les scientifiques appellent son "minimum", avant que le temps plus froid ne commence à faire augmenter la couverture de glace.
+  Cette visualisation montre comment le changement climatique affecte l'étendue de la glace de mer arctique au fil du temps (à gauche) et met en évidence l'évolution du volume de la glace de mer au fil des ans (à droite).
+  La diminution du volume de la glace de mer est significative à toutes les saisons.
+  En 2023, la couverture minimale de glace de mer dans l'Arctique a atteint son niveau le plus bas jamais enregistré, prolongeant ainsi une tendance à la baisse à long terme.
+spaceYoutubeCode: KxQOco0zE9g
+spaceCredits: © ESA/Copernicus Marine Service
+spaceUrl: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Taking_the_dazzle_out_of_CryoSat_yields_a_first
 ---
-Le volume occupé par la glace sous la surface est exactement le même que celui de la glace une fois fondue. C'est le principe de la poussée d'Archimède[^1]. De part sa salinité, la banquise se forme lorsque l'eau de mer est à une température inférieure à -1.8°C[^2]. La banquise se forme lorsque l'eau de mer gèle, elle contient donc du sel mais le sel est expulsé au fur et à mesure que la banquise se forme. Cela signifie que la glace de mer est composée d'eau douce relativement pure, tandis que la région entourant la banquise est constituée d'eau de mer plus salée. Cette caractéristique a des implications importantes pour la circulation océanique et les écosystèmes marins dans les régions polaires. On trouve de la banquise en Arctique et en Antarctique.La banquise arctique suit un cycle saisonnier. Elle fond partiellement en été et se reforme en hiver. Mais depuis la fin des années 70, on observe une réduction globale de sa couverture[^3]. On estime qu'elle pourrait fondre intégralement en été d'ici la fin du siècle[^4].  
-[^1]: _[Wikipedia − Poussée d’Archimède](https://fr.wikipedia.org/wiki/Pouss%C3%A9e_d%27Archim%C3%A8de)_
-[^2]: _https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice_
-[^3]: _AR6 WG1 TS.2.5 p44 (p76)_  
-[^4]: _AR6 WG1 Figure TS.8 (c) p34 (p66)_
+

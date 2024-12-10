@@ -1,14 +1,19 @@
 ---
+title: Augmentation de la température de l'eau
 backDescription: >-
-  L'océan absorbe 91% de l’énergie qui s’accumule sur la Terre. En se
-  réchauffant, l’eau se dilate.
-title: Hausse de la température de l'eau
+  Les océans absorbent 91 % de l'énergie accumulée sur Terre. La température de l'eau a donc augmenté, surtout près de la surface. L'eau se dilate en se réchauffant.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_17_hausse_temp%C3%A9rature_eau
-youtubeCode: TRhhK8tJ9ds
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_17_Rising_Water_Temperatures
+youtubeCode: hTmQXSS0lWs
+instagramCode: ''
+spaceText: >-
+  La mer Méditerranée a connu une importante vague de chaleur marine en 2022, avec des températures de surface de la mer supérieures de 5°C à la moyenne.
+  Cette animation montre l'évolution de la vague de chaleur marine en Méditerranée de mars à août 2022 par rapport à la moyenne des données pour les mêmes mois de 1985 à 2005.
+  Plus les observations sont rouges, plus les températures de surface de la mer sont différentes de la norme.
+spaceYoutubeCode: 0FrfW1TIqFM
+spaceCredits: © ESA/Copernicus Marine Service
+spaceUrl: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/CryoSat_reveals_ice_loss_from_glaciers
+
 ---
-La surface des océans se réchauffe moins vite que les terres (0.88°C versus 1.59°C)[^1].Comment cela se fait-il alors qu'il absorbe 91% de l'énergie en excès sur la terre ? [^2].Il faut se rappeler que l'océan couvre 71% de la surface de la terre et qu'il a une profondeur de 4000m en moyenne.  L'atmosphère s'étend sur une plus grande hauteur, mais si on le ramenait à la même densité que l'eau, il ne mesurerait plus que 10m (c'est pour ça qu'on gagne un atmosphère de pression tous les 10m quand on fait de la plongée). Mais aussi, l'eau a une capacité thermique beaucoup plus élevée que la plupart des matériaux terrestres. Cela signifie qu'elle peut absorber et stocker une quantité considérable de chaleur sans que sa température ne change beaucoup. Par conséquent, même si l'océan absorbe une grande quantité d'énergie, la hausse de température de l'eau est relativement faible par rapport à celle des terres[^3].L'eau se dilate très peu, mais au vu de l'énorme volume de l'océan, cela suffit à avoir un impact important sur le niveau des mers. On estime que la contribution à la hausse du niveau des mers de la dilatation de ses eaux est d'environ 50%.[^4].  
-[^1]: _AR6 WG1 Cross-Section TS.1 p28 (p60) // AR6 WG1 Figure 2.11 (c) p333 (p316)_
-[^2]: _AR6 WG1 TS3.1 p59 (p91) // AR6 WG1 Figure TS.13 (d) p58 (p90)_ 
-[^3]: _AR5 WG1 FAQ 3.1 p11 (p127)_
-[^4]: _AR6 WG1 Box TS.4 p45 // AR6 WG1 Table 9.5 p1306 (p1289) // AR6 WG1 Box 9.1, Figure 1 p1308 (p1291)_
+
+L'océan ne se réchauffe que d'un dixième de degré à la surface et encore moins sous l'eau. Pourquoi si peu alors qu'il absorbe 91 % de l'énergie excédentaire sur Terre ? Parce qu'il est beaucoup plus grand que l'atmosphère et qu'il a une capacité calorifique beaucoup plus importante. Pour s'en rendre compte, il faut savoir que l'océan couvre 71 % de la surface de la Terre et qu'il a une profondeur moyenne de 4 000 m. L'atmosphère, elle, s'étend sur une plus grande hauteur. L'atmosphère s'étend sur une plus grande hauteur, mais si elle était ramenée à la même densité que l'eau, elle ne ferait que 10 m d'épaisseur (c'est pourquoi nous gagnons une atmosphère de pression tous les 10 m lorsque nous plongeons). L'eau se dilate très peu. Comment un réchauffement de l'océan d'un dixième de degré peut-il entraîner une élévation du niveau de l'eau ? Une première réponse est que l'océan a une profondeur moyenne de 4000 m, et qu'il suffit donc d'une très faible dilatation pour atteindre quelques centimètres.

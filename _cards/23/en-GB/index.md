@@ -1,6 +1,6 @@
 ---
 title: Calcification difficulties
-backDescription: 'When the pH drops, it becomes harder for calcium carbonate seashells to grow.'
+backDescription: When the acidity increase, pH drops and it becomes harder for calcium carbonate seashells to grow.
 wikiUrl: >-
   https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_23_hindered_calcification_process
 youtubeCode: 1nlD6jzbZJI

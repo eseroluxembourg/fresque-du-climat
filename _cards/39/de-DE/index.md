@@ -1,8 +1,10 @@
 ---
-title: Klimaflüchtlinge
+title: Vertreibung von Bevölkerungsgruppen
 backDescription: >-
-  Stellen Sie sich vor, Sie leben an einem Ort, der auf wundersame Weise vom
-  Klimawandel verschont geblieben ist. Mehrere Milliarden Menschen möchten
-  diesen Raum nun mit Ihnen teilen...
+  Stellen Sie sich vor, Sie würden an einem Ort leben, der auf wundersame Weise vom Klimawandel verschont geblieben ist.
+  Mehrere Milliarden Menschen würden diesen Raum vielleicht gerne mit Ihnen teilen.
+wikiUrl: >-
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_39_climate_refugees
+youtubeCode: KhWuuoK_-BI
+instagramCode: ''
 ---
-

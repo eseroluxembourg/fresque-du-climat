@@ -1,12 +1,10 @@
 ---
-title: Population displacement
+title: Déplacement de populations
 backDescription: >-
-  Imagine that you live in a place that has been miraculously spared by climate
-  change. Several billions of human beings might want to share this space with
-  you.
+  Imaginez que vous viviez dans un endroit miraculeusement épargné par le changement climatique.
+  Plusieurs milliards d'êtres humains pourraient vouloir partager cet espace avec vous.
 wikiUrl: >-
   https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_39_climate_refugees
 youtubeCode: KhWuuoK_-BI
 instagramCode: ''
 ---
-

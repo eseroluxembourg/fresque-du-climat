@@ -1,12 +1,18 @@
 ---
+title: Consommation d'énergies fossiles
 backDescription: >-
-  Les énergies fossiles sont le charbon, le pétrole et le gaz. Elles sont
-  utilisées principalement dans les bâtiments, le transport et dans l'industrie.
-  Elles émettent du CO2 lors de la combustion.
-title: Utilisation des énergies fossiles
+  Les combustibles fossiles sont le charbon, le pétrole et le gaz naturel. Ils sont principalement utilisés dans les bâtiments, les transports et l'industrie. Ils émettent du CO2 lorsqu'ils sont brûlés.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_5_%C3%A9nergies_fossiles
-youtubeCode: 2ONOXLLFzWQ
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_5_fossil_fuels
+youtubeCode: Cm6x4ikTUho
+instagramCode: ''
+spaceText: >-
+  La mine de charbon de Bełchatów est une grande installation d'extraction à ciel ouvert en Pologne, en activité depuis 1955.
+  Elle représente l'une des plus grandes réserves de charbon de Pologne, avec des réserves estimées à 1 930 millions de tonnes de lignite.
+  Cette image, acquise en 2020, montre l'état de l'usine, avec deux sites d'extraction actifs au milieu des grottes, ainsi que la centrale électrique adjacente.
+spaceCredits: © Copernicus Sentinel-2
+spaceUrl: https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/Energy/Finding_fossil_fuels_from_the_air
+
 ---
-Il y a souvent un débat entre mettre les énergies fossiles avant ou après les activités humaines. C’est comme la poule et l’œuf : il n’y a pas de bonne réponse. C’est une question de dialectique. Il ne faut pas perdre de temps là-dessus. Le graphique représente les émissions mondiales de CO2 seul issues des énergies fossiles. La courbe en noir les émissions passées, et en couleur, les projections selon les 5 scenarii étudiés par le GIEC dans le 6è rapport (AR6). Pour les 2 scénarii bleus (SSP1-1.9 et SSP1-2.6), les émissions envisagées doivent devenir nulles, respectivement en 2060 et 2080. Les énergies fossiles sont : le charbon, le pétrole et le gaz naturel[^1].  
-[^1]: _AR6 WG1 Figure SPM.4 p30 (p13)_
+
+Il y a souvent un débat entre placer les cartes des combustibles fossiles avant ou après les activités humaines. Comme la poule et l'œuf, il n'y a pas de réponse définitive. Il ne faut pas perdre de temps sur cette question. Le graphique représente les émissions de combustibles fossiles. Dans un scénario de +2°C, elles devraient être nulles en 2070.

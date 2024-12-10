@@ -1,13 +1,13 @@
 ---
+title: Submersion marine
 backDescription: >-
-  Cyclones et perturbations amènent du vent (donc des vagues) et des basses
-  pressions. Or, chaque hectopascal en moins, c’est 1 cm d’eau en plus. Ils
-  peuvent donc occasionner des submersions (inondations côtières) qui sont
-  aggravées par l’augmentation du ni
-title: Submersions
+  Les cyclones et les vagues atmosphériques apportent du vent, des vagues et des conditions de basse pression.
+  Une baisse de pression de 1 hectopascal entraîne une élévation du niveau de la mer de 1 cm.
+  Les cyclones peuvent donc provoquer des submersions marines (ou des inondations côtières), amplifiées par l'élévation du niveau de la mer déjà provoquée.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_33_submersions
-youtubeCode: AalZJ4lPh_Q
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_33_marine_submersion
+youtubeCode: OuZd3GVgyjg
+instagramCode: ''
 ---
-Ne pas confondre avec les crues. Les submersions, c'est l'eau de la mer ou l'océan qui monte. Cette montée peut être exceptionnelle à cause d'événements climatiques extrêmes, ou permanente à cause de la montée des eaux[1].  
-_[1] AR6 WG1 FAQ 9.2 p54 // AR6 WG1 FAQ 8.2 p48_
+
+A ne pas confondre avec les inondations. La submersion marine est une montée des eaux de la mer ou de l'océan. Cette montée peut être exceptionnelle en raison d'événements climatiques extrêmes, ou permanente en raison de la montée des eaux.

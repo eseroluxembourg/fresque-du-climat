@@ -1,13 +1,11 @@
 ---
+title: Vecteurs de maladies
 backDescription: >-
-  Avec le réchauffement, les animaux migrent. Or, certains sont des vecteurs de
-  maladie et peuvent atteindre des zones où les populations ne sont pas
-  immunisées contre ces maladies.
-title: Vecteurs de maladie
+  Certains animaux sont porteurs de maladies. Le réchauffement climatique les fait migrer, pouvant atteindre des populations qui n'ont pas d'immunité contre ces maladies.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_28_vecteurs_de_maladie
-youtubeCode: 2jp-vkrqJfQ
-instagramCode: CNIKsZ3rnrG
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_28_vectors_of_disease
+youtubeCode: Ec6KJpVw_Rc
+instagramCode: CNILj5dnO37
 ---
-Le problème n'est tant pas la prolifération des vecteurs de maladie que leur déplacement. Cette carte vient idéalement après la carte Biodiversité terrestre dans la mesure où les vecteurs de maladie sont une sous−partie de la biodiversité[1].  
-_[1] AR6 WG2 TS.B.1.1 p11 // AR6 WG2 FAQ 2.2 p21_
+
+Le problème n'est pas tant la prolifération des vecteurs de maladies que leur déplacement. Cette carte vient idéalement après la carte 25, car les vecteurs de maladies sont une sous-partie de la biodiversité.

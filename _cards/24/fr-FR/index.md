@@ -1,17 +1,21 @@
 ---
+title: Acidification des océans
 backDescription: >-
-  Quand le CO2 se dissout dans l'océan, il se transforme en des ions qui ont
-  pour effet d'acidifier l'océan (le pH baisse).
-title: Acidification de l'océan
+  Lorsque le CO2 se dissout dans l'océan, il se transforme en ions acides (H2CO3 et HCO3-).
+  Cela rend les océans plus acides et le pH diminue.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_24_acidification_oc%C3%A9an
-youtubeCode: XlaLH13Pups
----
-"L'acidification de l'océan est parfois appelée ""l'autre problème du carbone"". Il est lié à la dissolution de CO2 dans l'océan qui réagit avec l'eau et augmente la quantité d'ions H+. Ce sont les ions H+ qui constituent ce qu'on appelle l'acidité. Plus il y a d'ions H+, plus l'acidité est élevée (et le pH bas). A noter que bien qu'on parle d'acidification de l'Océan, son pH reste alcalin (environ 8, l'acidité c'est en dessous de 7)[1]. 
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_24_ocean_acidification
+youtubeCode: ppZenThTh5c
+instagramCode: ''
+spaceText: >-
+  Avec l'augmentation du dioxyde de carbone dans l'atmosphère, les océans de la Terre absorbent davantage de carbone, ce qui modifie la chimie de l'eau des océans.
+  Les observations des satellites peuvent être utilisées pour mesurer les paramètres qui indiquent les changements de l'eau des océans, tels que la température, la salinité et la teneur en chlorophylle.
+  Les observations satellitaires et in situ de la surface sont combinées à l'aide d'une technique d'apprentissage automatique pour générer des cartes mensuelles globales qui caractérisent l'évolution de la chimie de l'océan.
+  L'acidification des océans est illustrée par la baisse constante du pH de l'eau de mer au cours des 30 dernières années.
+spaceYoutubeCode: oXrZgBa_0cE
+spaceCredits: © ESA/Planetary Visions
+spaceUrl: https://www.esa.int/ESA_Multimedia/Videos/2021/04/Using_satellites_to_understand_ocean_acidification
 
-CO2 + H2O ⇔ H2CO3 ⇔ H+ + HCO3- ⇔ 2 H+ + CO32– 
-_[1] AR6 WG2 3.2.3.1
-AR6 WG1 2.3.3.5 p408 (p396)
-p374 (p357) // AR6 WG1 Figure 4.8 : scenario pH
-AR5 WG1 Box 3.2, Figure 1 : répartition des pH p594 (p577)
-p311 (p295)_"
+---
+
+L'acidification des océans est parfois appelée "l'autre problème du carbone". Il ne s'agit pas à proprement parler d'une conséquence du changement climatique, mais d'une autre conséquence des émissions de CO2.

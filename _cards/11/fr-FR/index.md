@@ -1,12 +1,19 @@
 ---
+title: Concentration de CO2 (ppm)
 backDescription: >-
-  Une fois que la moitié de nos émissions de CO2 a été captée par les puits
-  naturels, l'autre moitié reste dans l'atmosphère. La concentration en CO2 dans
-  l'atmosphère est passée de 280 à 420 ppm (parties par millions) en 150 ans.
-title: Concentration en CO2 (ppm)
+  Environ la moitié de nos émissions de CO2 est captée par les puits de carbone naturels.
+  L'autre moitié reste dans l'atmosphère. La concentration de CO2 dans l'atmosphère est passée de 280 à 420 ppm (parties par million) au cours des 150 dernières années.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_11_concentration_en_co2
-youtubeCode: rkUfk9-kito
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_11_concentration_of_co2
+youtubeCode: cUPYgpbTBAA
+instagramCode: ''
+spaceText: >-
+  La quantité de CO2 dans l'atmosphère dépend fortement de la saison et augmente sensiblement tout au long de l'année : il y en a plus à la fin de l'année qu'au début.
+  L'effet saisonnier est principalement dû à la végétation, mais la combustion de la biomasse et les incendies de forêt, ainsi que l'utilisation de combustibles fossiles par l'homme, jouent également un rôle important.
+spaceYoutubeCode: VgbEK2bWkWA
+spaceCredits: © ECMWF
+spaceUrl: https://www.ecmwf.int/en/about/media-centre/news/2024/videos-show-nature-run-greenhouse-gases-over-year
+
 ---
-"Des mesures de CO2 ont lieu depuis 1958 à Hawaï, sur l'île de Big Island, sur les flans du volcan Mauna Loa. Elles ont été lancées par Charles Keeling qui a donné son nom à la célèbre courbe issue de son travail montrant les variations saisonnières de la concentration en CO2 dans l'atmosphère. Mais en plus de cette variabilité, il ne lui a fallu que deux ans de mesures pour démontrer que la tendance globale de concentration en CO2 était à la hausse[^1].
-[^1]: _[history.aip.org/climate/co2](https://history.aip.org/climate/co2.htm#SKC_)
+
+Des mesures de CO2 sont effectuées depuis 1958 à Hawaï, sur Big Island, sur les flancs du volcan Mauna Loa. Elles ont été initiées par Charles Keeling. Dans le scénario bleu (2°C), elles augmentent jusqu'en 2040-2050, puis diminuent car les émissions auront été tellement réduites que les puits naturels ne les absorberont plus.

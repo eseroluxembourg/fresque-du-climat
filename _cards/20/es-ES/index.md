@@ -1,9 +1,0 @@
----
-title: Perturbación del ciclo del agua
-backDescription: >-
-  La evaporación que ocurre en la superficie marina aumenta si la temperatura
-  del océano y de la atmósfera aumentan. Esto provoca que se formen más nubes y
-  por tanto más lluvias. Pero si la evaporación ocurre en tierra, el suelo se
-  deseca.
----
-

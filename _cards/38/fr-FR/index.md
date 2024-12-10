@@ -1,12 +1,9 @@
 ---
 title: Santé humaine
 backDescription: >-
-  Famines, déplacement des vecteurs de maladie, canicules et conflits armés
-  peuvent affecter la santé humaine.
+  La faim, les nouveaux vecteurs de maladies, les vagues de chaleur et les conflits armés peuvent avoir un effet négatif sur la santé humaine.
 wikiUrl: >-
-  https://wiki.climatefresk.org/index.php?title=Fr-fr_adulte_carte_38_sant%C3%A9_humaine
-youtubeCode: TNSNrEz4cGI
+  https://wiki.climatefresk.org/en/index.php?title=En-en_adult_card_38_human_health
+youtubeCode: 8Wz5bj7r-dI
 instagramCode: ''
 ---
-
-C'est l'une des cartes qui peut être placée en dernier, comme LA conséquence ultime.
