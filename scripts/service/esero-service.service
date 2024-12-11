@@ -1,0 +1,11 @@
+[Unit]
+Description=ESERO - Climate from Space
+
+[Service]
+User=root
+ExecStart=/usr/local/bin/esero_server_run.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
