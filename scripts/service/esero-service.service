@@ -2,10 +2,13 @@
 Description=ESERO - Climate from Space
 
 [Service]
-User=root
-ExecStart=/usr/local/bin/esero_server_run.sh
+User=debian
+WorkingDirectory=/home/debian/FresqueEsero/fresque-du-climat/
+ExecStart=npm run lsc
 Restart=always
 RestartSec=5
+StandardOutput=/var/log/esero_server_out.log
+StandardError=/var/log/esero_server_err.log
 
 [Install]
 WantedBy=multi-user.target

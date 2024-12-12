@@ -102,15 +102,14 @@ cp $(dirname "$SCRIPT_PATH")/esero-service.service /etc/systemd/system/esero-ser
 cp $(dirname "$SCRIPT_PATH")/esero_server_run.sh /usr/local/bin/esero_server_run.sh
 chmod +x /usr/local/bin/esero_server_run.sh
 
+
+systemctl daemon-reload
+systemctl enable esero-service.service
+systemctl start esero-service.service
 echo "
-Now, you can perform the following command to enable the service :
-
-sudo systemctl daemon-reload
-sudo systemctl enable test-service.service
-sudo systemctl start test-service.service
-
 Reboot to see if the service works correctly :
-sudo shutdown -r now
+shutdown -r now
 "
+systemctl status esero-service.service
 
 # To check : watch -n3 "cat /var/log/testservice.txt"
