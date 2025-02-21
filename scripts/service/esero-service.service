@@ -4,7 +4,7 @@ Description=ESERO - Climate from Space
 [Service]
 User=debian
 WorkingDirectory=/home/debian/FresqueEsero/fresque-du-climat/
-ExecStart=npm run lsc
+ExecStart=npm run prod
 Restart=always
 RestartSec=5
 StandardOutput=/var/log/esero_server_out.log
